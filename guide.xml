@@ -1,109 +1,81 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V1.57 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="6'eren">
-    <display-name lang="da">6'eren</display-name>
+  <channel id="BBC Entertainment">
+    <display-name lang="da">BBC Entertainment</display-name>
     <url>http://www.tvguide.dk</url>
   </channel>
-  <programme start="20170116113000 +0100" stop="20170116123000 +0100" channel="6'eren">
-    <title lang="da">Ice Cold Gold</title>
-    <desc lang="da">Verdens stÃ¸rste Ã¸, GrÃ¸nland, er rig pÃ¥ en utrolig mÃ¦ngde mineraler, naturgas, guld, sÃ¸lv, platin, safirer, rubiner og olie, der fÃ¥r lande som Saudi Arabien til at blegne i sammenligning. Vi fÃ¸lger mineraljÃ¦gere, som kÃ¦mper i den bidende kulde, pÃ¥ steder som andre mennesker endnu ikke har betrÃ¥dt, for at nÃ¥ frem til naturens rigdom(n)</desc>
-    <category lang="da">Amr. realityserie</category>
-    <episode-num system="onscreen">E13</episode-num>
+  <channel id="National Geographic HD">
+    <display-name lang="da">National Geographic HD</display-name>
+    <url>http://www.tvguide.dk</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="da">Nickelodeon</display-name>
+    <url>http://www.tvguide.dk</url>
+  </channel>
+  <channel id="TV3 Sport 1">
+    <display-name lang="da">TV3 Sport 1</display-name>
+    <url>http://www.tvguide.dk</url>
+  </channel>
+  <channel id="Eurosport">
+    <display-name lang="da">Eurosport</display-name>
+    <url>http://www.tvguide.dk</url>
+  </channel>
+  <programme start="20170116084500 +0100" stop="20170116121500 +0100" channel="TV3 Sport 1">
+    <title lang="da">NFL: Dallas Cowboys-Green Bay Packers</title>
+    <desc lang="da">Efter Green Bay Packers? overlegne sejr over New York Giants er denne kamp nok en af de mest imÃ¸desete. Packers skal nemlig et smut til Dallas, hvor de pÃ¥ AT&amp;T Stadium skal op imod sÃ¦sonens mÃ¥ske bedste hold, Dallas Cowboys. Med en skrÃ¦mmende rookie-duo ? i form af Dak Prescott og Ezekiel Elliott ? i front har Cowboys galoperet gennem den regulÃ¦re sÃ¦son, men nu skal de stÃ¥ den endelige prÃ¸ve. Kan de lukke ned for Aaron Rodgers og co.? Den store matchup bliver nemlig mellem fÃ¦nomenale Rodgers og Cowboys? suverÃ¦ne offensive linje, og det er ikke fjerntliggende at tro, at vinderen af denne kamp i kampen bliver vinderen af en enkeltbillet til NFC-finalen. Det er en kamp, man ikke mÃ¥ gÃ¥ glip af, sÃ¥ se med, nÃ¥r vi sender kampen. Live-begivenheder kan opleves pÃ¥ Viaplay i op til 48 timer efter, de er startet. Original title : NFL: Dallas Cowboys-Green Bay Packers(n)</desc>
   </programme>
-  <programme start="20170116123000 +0100" stop="20170116132500 +0100" channel="6'eren">
-    <title lang="da">Tanked</title>
-    <desc lang="da">Tanked dumber seerne ned i de mest spÃ¦ndende akvarier. Acrylic Tank Manufacturing, ATM er verdensmestre i akvarier! De har kreeret de mest banebrydende og ekstraordinÃ¦re akarier. Kunderne er krÃ¦vende og lokationen nogle gange ligesÃ¥. Holdet rejser landet rundt for at bringe havet i Ã¸jenhÃ¸jde pÃ¥ gÃ¦ster, som besÃ¸ger sÃ¥ forskellige steder, som casinoer, kirker, museer og zoologiske haver(n)</desc>
-    <category lang="da">Amr. realityserie fra 2011</category>
-    <episode-num system="onscreen">E1</episode-num>
+  <programme start="20170116121500 +0100" stop="20170116164500 +0100" channel="TV3 Sport 1">
+    <title lang="da">NFL: Kansas City Chiefs-Pittsburgh Steelers</title>
+    <desc lang="da">Kansas City Chiefs tager pÃ¥ Arrowhead Stadium imod Pittsburgh Steelers i en totalt Ã¥ben slutspilskamp med en plads i AFC-finalen pÃ¥ spil. Chiefs sluttede suverÃ¦nt af i den regulÃ¦re sÃ¦son og vippede bÃ¥de Raiders og Broncos af AFC West-tronen, men de mÃ¸der nu Pittsburgh Steelers, som bankede dem sÃ¸nder og sammen i oktober mÃ¥ned, hvor de sortgule vandt hele 43-14. Big Ben og co. kommer fyldt med selvtillid efter udraderingen af Miami Dolphins i den fÃ¸rste runde af slutspillet, men Chiefs kommer friske og veludviklede, sÃ¥ der er lagt op til et brag af en kamp, nÃ¥r den anden AFC-finalist skal findes. SÃ¥ se med, nÃ¥r vi viser kampen. Live-begivenheder kan opleves pÃ¥ Viaplay i op til 48 timer efter, de er startet. Original title : NFL: Kansas City Chiefs-Pittsburgh Steelers(n)</desc>
   </programme>
-  <programme start="20170116132500 +0100" stop="20170116142000 +0100" channel="6'eren">
-    <title lang="da">Tanked</title>
-    <desc lang="da">Tanked dumber seerne ned i de mest spÃ¦ndende akvarier. Acrylic Tank Manufacturing, ATM er verdensmestre i akvarier! De har kreeret de mest banebrydende og ekstraordinÃ¦re akarier. Kunderne er krÃ¦vende og lokationen nogle gange ligesÃ¥. Holdet rejser landet rundt for at bringe havet i Ã¸jenhÃ¸jde pÃ¥ gÃ¦ster, som besÃ¸ger sÃ¥ forskellige steder, som casinoer, kirker, museer og zoologiske haver(n)</desc>
-    <category lang="da">Amr. realityserie fra 2011</category>
-    <episode-num system="onscreen">E2</episode-num>
+  <programme start="20170116164500 +0100" stop="20170116191500 +0100" channel="TV3 Sport 1">
+    <title lang="da">NFL: Dallas Cowboys-Green Bay Packers</title>
+    <desc lang="da">Efter Green Bay Packers? overlegne sejr over New York Giants er denne kamp nok en af de mest imÃ¸desete. Packers skal nemlig et smut til Dallas, hvor de pÃ¥ AT&amp;T Stadium skal op imod sÃ¦sonens mÃ¥ske bedste hold, Dallas Cowboys. Med en skrÃ¦mmende rookie-duo ? i form af Dak Prescott og Ezekiel Elliott ? i front har Cowboys galoperet gennem den regulÃ¦re sÃ¦son, men nu skal de stÃ¥ den endelige prÃ¸ve. Kan de lukke ned for Aaron Rodgers og co.? Den store matchup bliver nemlig mellem fÃ¦nomenale Rodgers og Cowboys? suverÃ¦ne offensive linje, og det er ikke fjerntliggende at tro, at vinderen af denne kamp i kampen bliver vinderen af en enkeltbillet til NFC-finalen. Det er en kamp, man ikke mÃ¥ gÃ¥ glip af, sÃ¥ se med, nÃ¥r vi sender kampen. Live-begivenheder kan opleves pÃ¥ Viaplay i op til 48 timer efter, de er startet. Original title : NFL: Dallas Cowboys-Green Bay Packers(n)</desc>
   </programme>
-  <programme start="20170116142000 +0100" stop="20170116145000 +0100" channel="6'eren">
-    <title lang="da">The Neighbors</title>
-    <desc lang="da">Marty og Debbie fÃ¸ler, at deres Ã¦gteskab er ved at vÃ¦re kÃ¸rt fast, og Marty planlÃ¦gger derfor en bytur for dem. Deres date er imidlertid slet ikke det mindste i retning af, hvad Debbie havde forestillet sig. Dick er vildt forelsket i den nye babysitter(n)</desc>
-    <category lang="da">Amr. komedieserie. [Â·Â·]</category>
-    <episode-num system="onscreen">E40</episode-num>
+  <programme start="20170116191500 +0100" stop="20170116224500 +0100" channel="TV3 Sport 1">
+    <title lang="da">NFL: Kansas City Chiefs-Pittsburgh Steelers</title>
+    <desc lang="da">Kansas City Chiefs tager pÃ¥ Arrowhead Stadium imod Pittsburgh Steelers i en totalt Ã¥ben slutspilskamp med en plads i AFC-finalen pÃ¥ spil. Chiefs sluttede suverÃ¦nt af i den regulÃ¦re sÃ¦son og vippede bÃ¥de Raiders og Broncos af AFC West-tronen, men de mÃ¸der nu Pittsburgh Steelers, som bankede dem sÃ¸nder og sammen i oktober mÃ¥ned, hvor de sortgule vandt hele 43-14. Big Ben og co. kommer fyldt med selvtillid efter udraderingen af Miami Dolphins i den fÃ¸rste runde af slutspillet, men Chiefs kommer friske og veludviklede, sÃ¥ der er lagt op til et brag af en kamp, nÃ¥r den anden AFC-finalist skal findes. SÃ¥ se med, nÃ¥r vi viser kampen. Live-begivenheder kan opleves pÃ¥ Viaplay i op til 48 timer efter, de er startet. Original title : NFL: Kansas City Chiefs-Pittsburgh Steelers(n)</desc>
   </programme>
-  <programme start="20170116145000 +0100" stop="20170116151500 +0100" channel="6'eren">
-    <title lang="da">The Neighbors</title>
-    <desc lang="da">Sammen med Larry og Jackie drager familien Weaver til San Diego for at trÃ¦ffe Debbies lÃ¦nge fravÃ¦rende mor, som for nylig har adopteret en ti-Ã¥rige sÃ¸n. Marty gÃ¸r sit bedste for at hjÃ¦lpe Abby med at overvinde sin vandskrÃ¦k, som bliver udfordret da hun ser havet(n)</desc>
-    <category lang="da">Amr. komedieserie. [Â·Â·]</category>
-    <episode-num system="onscreen">E41</episode-num>
+  <programme start="20170116224500 +0100" stop="20170116231500 +0100" channel="TV3 Sport 1">
+    <title lang="da">Fodbold: Boldsen og SÃ¦bye indtager Jylland</title>
+    <desc lang="da">For at gÃ¸re op med anklagerne om tv's kÃ¸benhavneri er Joachim Boldsen og Carsten SÃ¦bye taget til Jylland for at besÃ¸ge samtlige jyske Superliga-byer for at give jyderne den fortjente opmÃ¦rksomhed - og ikke mindst for at blive klogere pÃ¥ livet pÃ¥ den anden side af StorebÃ¦lt. Det bliver en tur, der byder pÃ¥ masser af bÃ¥de kendte og ukendte fodboldansigter, hÃ¸je grin og en masse spas og lÃ¸jer - og som i virkeligheden kommer til at dreje sig meget lidt om fodbold. I dette afsnit gÃ¥r turen til Esbjerg og Haderslev, der huser SÃ¸nderjyskE. Original title : Fodbold: Boldsen og SÃ¦bye indtager Jylland(n)</desc>
   </programme>
-  <programme start="20170116151500 +0100" stop="20170116161000 +0100" channel="6'eren">
-    <title lang="da">Perception</title>
-    <desc lang="da">Pierce hjÃ¦lper til, da en autistisk teenager bliver anklaget for mord. Original title : Perception(n)</desc>
-    <category lang="da">Amr. krimiserie.</category>
-    <episode-num system="onscreen">E21</episode-num>
+  <programme start="20170116231500 +0100" stop="20170117001500 +0100" channel="TV3 Sport 1">
+    <title lang="da">Fodbold: MÃ¥l, mÃ¥l, mÃ¥l</title>
+    <desc lang="da">Der er underholdning og spektakulÃ¦re mÃ¥l pÃ¥ menuen, nÃ¥r vores internationale fodboldmagasin "MÃ¥l, mÃ¥l, mÃ¥l" er i luften. Her har du mulighed for at se eller gense nogle af de seneste spillerunders aller flotteste scoringer i de bedste europÃ¦iske fodboldrÃ¦kker. Se med, nÃ¥r ligaer som Serie A, La Liga, Premier League og Ligue 1 er i fokus, og et vaskeÃ¦gte mÃ¥lshow udspiller sig. Original title : Fodbold: MÃ¥l, mÃ¥l, mÃ¥l(n)</desc>
   </programme>
-  <programme start="20170116161000 +0100" stop="20170116170500 +0100" channel="6'eren">
-    <title lang="da">Perception</title>
-    <desc lang="da">Lewickis bror, Kenny, kommer pÃ¥ uventet besÃ¸g, men da han bliver sat i forbindelse med et mord, er Pierce splittet. Original title : Perception(n)</desc>
-    <category lang="da">Amr. krimiserie.</category>
-    <episode-num system="onscreen">E22</episode-num>
+  <programme start="20170116091500 +0100" stop="20170116141500 +0100" channel="Eurosport">
+    <title lang="da">TENNIS: Australian Open fra Melbourne, Australien</title>
   </programme>
-  <programme start="20170116170500 +0100" stop="20170116173500 +0100" channel="6'eren">
-    <title lang="da">Two and a half men</title>
-    <desc lang="da">Charlie stresser af ved at gÃ¥ pÃ¥ druk med gutterne, efter at Chelsea er blevet vred pÃ¥ ham. Hun har nemlig opdaget de toplÃ¸se fotos af en ekskÃ¦reste, som han har liggende pÃ¥ sin mobiltelefon(n)</desc>
-    <category lang="da">Amr. komedieserie. [Â·Â·]</category>
-    <episode-num system="onscreen">E134</episode-num>
+  <programme start="20170116141500 +0100" stop="20170116144500 +0100" channel="Eurosport">
+    <title lang="da">TENNIS: Game, Set and Mats</title>
   </programme>
-  <programme start="20170116173500 +0100" stop="20170116180500 +0100" channel="6'eren">
-    <title lang="da">Two and a half men</title>
-    <desc lang="da">Chelsea og Evelyn mÃ¸des for fÃ¸rste gang, og de Ã¸nsker at lÃ¦re hinanden bedre at kende, samt opbygge et svigerdatter-svigermor forhold. Charlie gÃ¸r imidlertid sit yderste for at holde dem adskilt(n)</desc>
-    <category lang="da">Amr. komedieserie. [Â·Â·]</category>
-    <episode-num system="onscreen">E135</episode-num>
+  <programme start="20170116144500 +0100" stop="20170116154500 +0100" channel="Eurosport">
+    <title lang="da">TENNIS: Mats Choice fra</title>
   </programme>
-  <programme start="20170116180500 +0100" stop="20170116190500 +0100" channel="6'eren">
-    <title lang="da">Marvel's Agents of S.H.I.E.L.D.</title>
-    <desc lang="da">Holdet fÃ¥r hjÃ¦lp fra en Asgardian til at lÃ¸se mysteriet om den monolit som slugte Simmons. Original title : Marvel:|apostrofe|;s Agents of S.H.I.E.L.D(n)</desc>
-    <category lang="da">Amr. actionserie.</category>
-    <episode-num system="onscreen">E46</episode-num>
+  <programme start="20170116154500 +0100" stop="20170116164500 +0100" channel="Eurosport">
+    <title lang="da">RIDNING fra Basel, Schweiz</title>
   </programme>
-  <programme start="20170116190500 +0100" stop="20170116200000 +0100" channel="6'eren">
-    <title lang="da">Marvel's Agents of S.H.I.E.L.D.</title>
-    <desc lang="da">Coulson og holdet gÃ¥r ind i eftersÃ¸gningen pÃ¥ den Inhuman som slÃ¥r andre Inhumans ihjel. Original title : Marvel:|apostrofe|;s Agents of S.H.I.E.L.D(n)</desc>
-    <category lang="da">Amr. actionserie.</category>
-    <episode-num system="onscreen">E47</episode-num>
+  <programme start="20170116164500 +0100" stop="20170116190000 +0100" channel="Eurosport">
+    <title lang="da">TENNIS: Australian Open fra Melbourne, Australien</title>
   </programme>
-  <programme start="20170116200000 +0100" stop="20170116210000 +0100" channel="6'eren">
-    <title lang="da">Person of Interest</title>
-    <desc lang="da">Reese og Finch skal beskytte en kirurg som er deres nyeste 'nummer', Men da de opdager at en person fra Reeses fortid er involveret i sagen, er de nÃ¸dsaget til at bede et tidligere 'nummer' om hjÃ¦lp(n)</desc>
-    <category lang="da">Amr. krimiserie. [Â·Â·]</category>
-    <episode-num system="onscreen">E30</episode-num>
+  <programme start="20170116190000 +0100" stop="20170116195000 +0100" channel="Eurosport">
+    <title lang="da">TENNIS: Mats Choice fra</title>
   </programme>
-  <programme start="20170116210000 +0100" stop="20170116220000 +0100" channel="6'eren">
-    <title lang="da">Helikopterpiloterne</title>
-    <desc lang="da">I aften fortsÃ¦tter helikopterpiloterne deres sÃ¦rlige mission ved karnevallet i Ã...lborg. Mere end 60.000 feststemte og fulde mennesker slÃ¥r sig lÃ¸s i gaderne - og det gÃ¥r ikke stille for sig. Helikopteren hjÃ¦lper politiet med at lÃ¸se de mange alvorlige begivenheder, der opstÃ¥r under karnevallet, og dagen byder blandt andet pÃ¥ narkohandel, fulde folks farlige leg pÃ¥ hÃ¸je hustage, flasker der kastes efter politiet og en grov voldtÃ¦gt. Piloterne er pÃ¥ vagt dÃ¸gnet rundt, og nÃ¥r danskere er i fare, rykker de ud pÃ¥ fÃ¥ minutter og redder liv - til lands, til vands og i luften. Helikopterne sÃ¦ttes ogsÃ¥ ind, nÃ¥r politiet har brug for ekstra Ã¸jne i luften ved eftersÃ¸gninger af gerningsmÃ¦nd eller forsvundne personer(n)</desc>
-    <category lang="da">Dansk reportageserie fra 2016</category>
-    <episode-num system="onscreen">E3</episode-num>
+  <programme start="20170116195000 +0100" stop="20170116200000 +0100" channel="Eurosport">
+    <title lang="da">NYHEDER: Eurosportnews report</title>
   </programme>
-  <programme start="20170116220000 +0100" stop="20170116230000 +0100" channel="6'eren">
-    <title lang="da">SpÃ¸gelsesjÃ¦gerne</title>
-    <desc lang="da">Det gÃ¦lder om at vÃ¦re opdateret, nÃ¥r man er spÃ¸gelsesjÃ¦ger. Derfor gÃ¥r en stor del af tiden pÃ¥ at lave research og formidle sin viden videre.Dansk Parapsykologisk Aspekt (DPA) har fÃ¥et et nyt prÃ¸vemedlem, Jette, som er en af Kims gamle veninder, og der er straks flirt i luften. Sammen tager de til Rold Skov for at mÃ¸de Danmarks eneste nulevende heks, Dannie Druehyld, inden de skal hunte i Ribe gamle RÃ¥dhus, der blev brugt som heksefÃ¦ngsel i gamle dage. Heksen Dannie Druehyld forsyner DPA med noget rensende vand og nogle hÃ¸rfrÃ¸, som skal vise sig, at blive vigtige pÃ¥ nattens hunt.Formand Thomas fra Ghosthunting.dk elsker at fortÃ¦lle om gruppens aktiviteter. Derfor laver han en nyhedsudsendelse til gruppens faste fÃ¸lgere pÃ¥ deres hjemmeside, inden han sammen med resten af gruppen tager til et af verdens mest hjemsÃ¸gte hoteller der ligger i Aalborg. Her bliver bÃ¥de stuepiger og hotellets tidligere ejere set pÃ¥ de lange gange. Original title : SpÃ¸gelsesjÃ¦gerne(n)</desc>
-    <category lang="da">Dansk reportageserie fra 2012</category>
-    <episode-num system="onscreen">E18</episode-num>
+  <programme start="20170116200000 +0100" stop="20170116232500 +0100" channel="Eurosport">
+    <title lang="da">SNOOKER: Masters fra London, Storbritannien</title>
+    <desc lang="da">Dag 2: S. Bingham (ENG) - J. Perry (ENG)(n)</desc>
   </programme>
-  <programme start="20170116230000 +0100" stop="20170116232500 +0100" channel="6'eren">
-    <title lang="da">Big Bang Theory</title>
-    <desc lang="da">Hele flokken holder Halloween-fest i Stuarts tegneseriebutik. Leonard scorer Penny med videnskabelige metoder. Den tidligere astronaut, Buzz Aldrin er med som sig selv. Original title : Big Bang Theory(n)</desc>
-    <category lang="da">Amr. komedieserie.</category>
-    <episode-num system="onscreen">E116</episode-num>
+  <programme start="20170116232500 +0100" stop="20170116233000 +0100" channel="Eurosport">
+    <title lang="da">NYHEDER: Eurosportnews report</title>
   </programme>
-  <programme start="20170116232500 +0100" stop="20170116235500 +0100" channel="6'eren">
-    <title lang="da">Big Bang Theory</title>
-    <desc lang="da">Vennerne bliver uvenner over en ordleg. Sheldons venskab med Stephen Hawking er ogsÃ¥ i fare. Penny beslutter i al hemmelighed at sÃ¸ge ind pÃ¥ universitetet. Original title : Big Bang Theory(n)</desc>
-    <category lang="da">Amr. komedieserie.</category>
-    <episode-num system="onscreen">E117</episode-num>
+  <programme start="20170116233000 +0100" stop="20170116234500 +0100" channel="Eurosport">
+    <title lang="da">SPORT: WATTS</title>
   </programme>
-  <programme start="20170116235500 +0100" stop="20170117005500 +0100" channel="6'eren">
-    <title lang="da">Person of Interest</title>
-    <desc lang="da">Reese og Finch skal beskytte en kirurg som er deres nyeste 'nummer', Men da de opdager at en person fra Reeses fortid er involveret i sagen, er de nÃ¸dsaget til at bede et tidligere 'nummer' om hjÃ¦lp(n)</desc>
-    <category lang="da">Amr. krimiserie. [Â·Â·]</category>
-    <episode-num system="onscreen">E30</episode-num>
+  <programme start="20170116234500 +0100" stop="20170117003000 +0100" channel="Eurosport">
+    <title lang="da">TENNIS: Australian Open fra Melbourne, Australien</title>
   </programme>
 </tv>
