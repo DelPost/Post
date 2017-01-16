@@ -1,688 +1,109 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V1.57 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="TV3 Sport 1">
-    <display-name lang="da">TV3 Sport 1</display-name>
-    <url>http://www.viasat.dk</url>
+  <channel id="6'eren">
+    <display-name lang="da">6'eren</display-name>
+    <url>http://www.tvguide.dk</url>
   </channel>
-  <channel id="BBC World News">
-    <display-name lang="da">BBC World News</display-name>
-    <url>http://www.viasat.dk</url>
-  </channel>
-  <channel id="CNN">
-    <display-name lang="da">CNN</display-name>
-    <url>http://www.viasat.dk</url>
-  </channel>
-  <channel id="National Geographic HD">
-    <display-name lang="da">National Geographic HD</display-name>
-    <url>http://www.viasat.dk</url>
-  </channel>
-  <channel id="Nickelodeon">
-    <display-name lang="da">Nickelodeon</display-name>
-    <url>http://www.viasat.dk</url>
-  </channel>
-  <programme start="20170116084500 +0100" stop="20170116121500 +0100" channel="TV3 Sport 1">
-    <title lang="da">NFL: Dallas Cowboys-Green Bay Packers</title>
-    <desc lang="da">National Football League - slutspillet Efter Green Bay Packers’ overlegne sejr over New York Giants er denne kamp nok en af de mest imødesete. Packers skal nemlig et smut til Dallas, hvor de på AT&amp;T Stadium skal op imod sæsonens måske bedste hold, Dallas Cowboys. Med en skræmmende rookie-duo – i form af Dak Prescott og Ezekiel Elliott – i front har Cowboys galoperet gennem den regulære sæson, men nu skal de stå den endelige prøve. Kan de lukke ned for Aaron Rodgers og co.? Den store matchup bliver nemlig mellem fænomenale Rodgers og Cowboys’ suveræne offensive linje, og det er ikke fjerntliggende at tro, at vinderen af denne kamp i kampen bliver vinderen af en enkeltbillet til NFC-finalen. Det er en kamp, man ikke må gå glip af, så se med, når vi sender kampen. Live-begivenheder kan opleves på Viaplay i op til 48 timer efter, de er startet(n)</desc>
-    <icon src="&quot;}" />
-  </programme>
-  <programme start="20170116121500 +0100" stop="20170116164500 +0100" channel="TV3 Sport 1">
-    <title lang="da">NFL: Kansas City Chiefs-Pittsburgh Steelers</title>
-    <desc lang="da">National Football League - slutspillet Kansas City Chiefs tager på Arrowhead Stadium imod Pittsburgh Steelers i en totalt åben slutspilskamp med en plads i AFC-finalen på spil. Chiefs sluttede suverænt af i den regulære sæson og vippede både Raiders og Broncos af AFC West-tronen, men de møder nu Pittsburgh Steelers, som bankede dem sønder og sammen i oktober måned, hvor de sortgule vandt hele 43-14. Big Ben og co. kommer fyldt med selvtillid efter udraderingen af Miami Dolphins i den første runde af slutspillet, men Chiefs kommer friske og veludviklede, så der er lagt op til et brag af en kamp, når den anden AFC-finalist skal findes. Så se med, når vi viser kampen. Live-begivenheder kan opleves på Viaplay i op til 48 timer efter, de er startet(n)</desc>
-    <icon src="&quot;}" />
-  </programme>
-  <programme start="20170116164500 +0100" stop="20170116191500 +0100" channel="TV3 Sport 1">
-    <title lang="da">NFL: Dallas Cowboys-Green Bay Packers</title>
-    <desc lang="da">National Football League - slutspillet Efter Green Bay Packers’ overlegne sejr over New York Giants er denne kamp nok en af de mest imødesete. Packers skal nemlig et smut til Dallas, hvor de på AT&amp;T Stadium skal op imod sæsonens måske bedste hold, Dallas Cowboys. Med en skræmmende rookie-duo – i form af Dak Prescott og Ezekiel Elliott – i front har Cowboys galoperet gennem den regulære sæson, men nu skal de stå den endelige prøve. Kan de lukke ned for Aaron Rodgers og co.? Den store matchup bliver nemlig mellem fænomenale Rodgers og Cowboys’ suveræne offensive linje, og det er ikke fjerntliggende at tro, at vinderen af denne kamp i kampen bliver vinderen af en enkeltbillet til NFC-finalen. Det er en kamp, man ikke må gå glip af, så se med, når vi sender kampen. Live-begivenheder kan opleves på Viaplay i op til 48 timer efter, de er startet(n)</desc>
-    <icon src="&quot;}" />
-  </programme>
-  <programme start="20170116191500 +0100" stop="20170116224500 +0100" channel="TV3 Sport 1">
-    <title lang="da">NFL: Kansas City Chiefs-Pittsburgh Steelers</title>
-    <desc lang="da">National Football League - slutspillet Kansas City Chiefs tager på Arrowhead Stadium imod Pittsburgh Steelers i en totalt åben slutspilskamp med en plads i AFC-finalen på spil. Chiefs sluttede suverænt af i den regulære sæson og vippede både Raiders og Broncos af AFC West-tronen, men de møder nu Pittsburgh Steelers, som bankede dem sønder og sammen i oktober måned, hvor de sortgule vandt hele 43-14. Big Ben og co. kommer fyldt med selvtillid efter udraderingen af Miami Dolphins i den første runde af slutspillet, men Chiefs kommer friske og veludviklede, så der er lagt op til et brag af en kamp, når den anden AFC-finalist skal findes. Så se med, når vi viser kampen. Live-begivenheder kan opleves på Viaplay i op til 48 timer efter, de er startet(n)</desc>
-    <icon src="&quot;}" />
-  </programme>
-  <programme start="20170116224500 +0100" stop="20170116231500 +0100" channel="TV3 Sport 1">
-    <title lang="da">Fodbold: Boldsen og Sæbye indtager Jylland</title>
-    <desc lang="da">Magasin For at gøre op med anklagerne om tv's københavneri er Joachim Boldsen og Carsten Sæbye taget til Jylland for at besøge samtlige jyske Superliga-byer for at give jyderne den fortjente opmærksomhed - og ikke mindst for at blive klogere på livet på den anden side af Storebælt. Det bliver en tur, der byder på masser af både kendte og ukendte fodboldansigter, høje grin og en masse spas og løjer - og som i virkeligheden kommer til at dreje sig meget lidt om fodbold. I dette afsnit går turen til Esbjerg og Haderslev, der huser SønderjyskE(n)</desc>
-    <icon src="&quot;}" />
-  </programme>
-  <programme start="20170116231500 +0100" stop="20170117001500 +0100" channel="TV3 Sport 1">
-    <title lang="da">Fodbold: Mål, mål, mål</title>
-    <desc lang="da">Magasin Der er underholdning og spektakulære mål på menuen, når vores internationale fodboldmagasin(n)</desc>
-    <icon src="&quot;}" />
-  </programme>
-  <programme start="20170116060000 +0100" stop="20170116063000 +0100" channel="BBC World News">
-    <title lang="da">BBC World News</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893844_01.JPG" />
-  </programme>
-  <programme start="20170116063000 +0100" stop="20170116070000 +0100" channel="BBC World News">
-    <title lang="da">HARDtalk</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893845_01.JPG" />
-  </programme>
-  <programme start="20170116070000 +0100" stop="20170116073000 +0100" channel="BBC World News">
-    <title lang="da">BBC World News</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893846_01.JPG" />
-  </programme>
-  <programme start="20170116073000 +0100" stop="20170116074500 +0100" channel="BBC World News">
-    <title lang="da">World Business Report</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893847_01.JPG" />
-  </programme>
-  <programme start="20170116074500 +0100" stop="20170116080000 +0100" channel="BBC World News">
-    <title lang="da">BBC World News</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893848_01.JPG" />
-  </programme>
-  <programme start="20170116080000 +0100" stop="20170116083000 +0100" channel="BBC World News">
-    <title lang="da">BBC World News</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893849_01.JPG" />
-  </programme>
-  <programme start="20170116083000 +0100" stop="20170116084500 +0100" channel="BBC World News">
-    <title lang="da">World Business Report</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893850_01.JPG" />
-  </programme>
-  <programme start="20170116084500 +0100" stop="20170116090000 +0100" channel="BBC World News">
-    <title lang="da">BBC World News</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893851_01.JPG" />
-  </programme>
-  <programme start="20170116090000 +0100" stop="20170116093000 +0100" channel="BBC World News">
-    <title lang="da">BBC World News</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893852_01.JPG" />
-  </programme>
-  <programme start="20170116093000 +0100" stop="20170116094500 +0100" channel="BBC World News">
-    <title lang="da">BBC World News</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893853_01.JPG" />
-  </programme>
-  <programme start="20170116094500 +0100" stop="20170116100000 +0100" channel="BBC World News">
-    <title lang="da">World Business Report</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893854_01.JPG" />
-  </programme>
-  <programme start="20170116100000 +0100" stop="20170116103000 +0100" channel="BBC World News">
-    <title lang="da">BBC World News</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893855_01.JPG" />
-  </programme>
-  <programme start="20170116103000 +0100" stop="20170116110000 +0100" channel="BBC World News">
-    <title lang="da">BBC Business Live</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893856_01.JPG" />
-  </programme>
-  <programme start="20170116110000 +0100" stop="20170116113000 +0100" channel="BBC World News">
-    <title lang="da">Talking Business</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893857_01.JPG" />
-  </programme>
-  <programme start="20170116113000 +0100" stop="20170116120000 +0100" channel="BBC World News">
-    <title lang="da">HARDtalk</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893858_01.JPG" />
-  </programme>
-  <programme start="20170116120000 +0100" stop="20170116123000 +0100" channel="BBC World News">
-    <title lang="da">BBC World News</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893859_01.JPG" />
-  </programme>
-  <programme start="20170116123000 +0100" stop="20170116130000 +0100" channel="BBC World News">
-    <title lang="da">Dateline London</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893860_01.JPG" />
-  </programme>
-  <programme start="20170116130000 +0100" stop="20170116133000 +0100" channel="BBC World News">
-    <title lang="da">BBC World News</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893861_01.JPG" />
-  </programme>
-  <programme start="20170116133000 +0100" stop="20170116134500 +0100" channel="BBC World News">
-    <title lang="da">World Business Report</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893862_01.JPG" />
-  </programme>
-  <programme start="20170116134500 +0100" stop="20170116140000 +0100" channel="BBC World News">
-    <title lang="da">Sport Today</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893863_01.JPG" />
-  </programme>
-  <programme start="20170116140000 +0100" stop="20170116143000 +0100" channel="BBC World News">
-    <title lang="da">GMT</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893864_01.JPG" />
-  </programme>
-  <programme start="20170116143000 +0100" stop="20170116150000 +0100" channel="BBC World News">
-    <title lang="da">GMT</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893865_01.JPG" />
-  </programme>
-  <programme start="20170116150000 +0100" stop="20170116153000 +0100" channel="BBC World News">
-    <title lang="da">GMT</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893866_01.JPG" />
-  </programme>
-  <programme start="20170116153000 +0100" stop="20170116154500 +0100" channel="BBC World News">
-    <title lang="da">World Business Report</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893867_01.JPG" />
-  </programme>
-  <programme start="20170116154500 +0100" stop="20170116160000 +0100" channel="BBC World News">
-    <title lang="da">Sport Today</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893868_01.JPG" />
-  </programme>
-  <programme start="20170116160000 +0100" stop="20170116163000 +0100" channel="BBC World News">
-    <title lang="da">Impact</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893869_01.JPG" />
-  </programme>
-  <programme start="20170116163000 +0100" stop="20170116170000 +0100" channel="BBC World News">
-    <title lang="da">Impact</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893870_01.JPG" />
-  </programme>
-  <programme start="20170116170000 +0100" stop="20170116173000 +0100" channel="BBC World News">
-    <title lang="da">Impact</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893871_01.JPG" />
-  </programme>
-  <programme start="20170116173000 +0100" stop="20170116180000 +0100" channel="BBC World News">
-    <title lang="da">HARDtalk</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893872_01.JPG" />
-  </programme>
-  <programme start="20170116180000 +0100" stop="20170116183000 +0100" channel="BBC World News">
-    <title lang="da">Global with Matthew Amroliwala</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893873_01.JPG" />
-  </programme>
-  <programme start="20170116183000 +0100" stop="20170116190000 +0100" channel="BBC World News">
-    <title lang="da">Global with Matthew Amroliwala</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893874_01.JPG" />
-  </programme>
-  <programme start="20170116190000 +0100" stop="20170116193000 +0100" channel="BBC World News">
-    <title lang="da">Global with Matthew Amroliwala</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893875_01.JPG" />
-  </programme>
-  <programme start="20170116193000 +0100" stop="20170116200000 +0100" channel="BBC World News">
-    <title lang="da">Focus on Africa</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893876_01.JPG" />
-  </programme>
-  <programme start="20170116200000 +0100" stop="20170116203000 +0100" channel="BBC World News">
-    <title lang="da">Outside Source</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893877_01.JPG" />
-  </programme>
-  <programme start="20170116203000 +0100" stop="20170116204500 +0100" channel="BBC World News">
-    <title lang="da">World Business Report</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893878_01.JPG" />
-  </programme>
-  <programme start="20170116204500 +0100" stop="20170116210000 +0100" channel="BBC World News">
-    <title lang="da">Sport Today</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893879_01.JPG" />
-  </programme>
-  <programme start="20170116210000 +0100" stop="20170116213000 +0100" channel="BBC World News">
-    <title lang="da">World News Today</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893880_01.JPG" />
-  </programme>
-  <programme start="20170116213000 +0100" stop="20170116220000 +0100" channel="BBC World News">
-    <title lang="da">Sport Today</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893881_01.JPG" />
-  </programme>
-  <programme start="20170116220000 +0100" stop="20170116223000 +0100" channel="BBC World News">
-    <title lang="da">BBC Business Live</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893882_01.JPG" />
-  </programme>
-  <programme start="20170116223000 +0100" stop="20170116230000 +0100" channel="BBC World News">
-    <title lang="da">HARDtalk</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893883_01.JPG" />
-  </programme>
-  <programme start="20170116230000 +0100" stop="20170116233000 +0100" channel="BBC World News">
-    <title lang="da">Outside Source</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893884_01.JPG" />
-  </programme>
-  <programme start="20170116233000 +0100" stop="20170117000000 +0100" channel="BBC World News">
-    <title lang="da">Outside Source</title>
-    <desc lang="da">",(n)</desc>
-    <icon src="B_47893885_01.JPG" />
-  </programme>
-  <programme start="20170116060000 +0100" stop="20170116070000 +0100" channel="CNN">
-    <title lang="da">CNN Newsroom (with World Sport)</title>
-    <desc lang="da">CNN Newsroom is where breaking news happens. See the resources of the world's news leader at work as the day's stories develop(n)</desc>
-    <icon src="&quot;}" />
-  </programme>
-  <programme start="20170116070000 +0100" stop="20170116080000 +0100" channel="CNN">
-    <title lang="da">CNN Newsroom</title>
-    <desc lang="da">CNN Newsroom is where breaking news happens. See the resources of the world's news leader at work as the day's stories develop(n)</desc>
-    <icon src="B_47894586_01.JPG" />
-  </programme>
-  <programme start="20170116080000 +0100" stop="20170116090000 +0100" channel="CNN">
-    <title lang="da">CNN Newsroom</title>
-    <desc lang="da">CNN Newsroom is where breaking news happens. See the resources of the world's news leader at work as the day's stories develop(n)</desc>
-    <icon src="B_47894587_01.JPG" />
-  </programme>
-  <programme start="20170116090000 +0100" stop="20170116100000 +0100" channel="CNN">
-    <title lang="da">CNN Newsroom</title>
-    <desc lang="da">CNN Newsroom is where breaking news happens. See the resources of the world's news leader at work as the day's stories develop(n)</desc>
-    <icon src="B_47894588_01.JPG" />
-  </programme>
-  <programme start="20170116100000 +0100" stop="20170116103000 +0100" channel="CNN">
-    <title lang="da">CNN Newsroom</title>
-    <desc lang="da">CNN Newsroom is where breaking news happens. See the resources of the world's news leader at work as the day's stories develop(n)</desc>
-    <icon src="B_47894589_01.JPG" />
-  </programme>
-  <programme start="20170116103000 +0100" stop="20170116110000 +0100" channel="CNN">
-    <title lang="da">Best of Quest</title>
-    <desc lang="da">Highlights from CNN's flagship business show where Richard Quest explains the main business news to give viewers an energetic and fresh perspective on the stories that matter(n)</desc>
-    <icon src="&quot;}" />
-  </programme>
-  <programme start="20170116110000 +0100" stop="20170116113000 +0100" channel="CNN">
-    <title lang="da">News Special</title>
-    <desc lang="da">The latest news, the biggest stories. CNN brings viewers coverage of the most gripping news stories from around the world(n)</desc>
-    <icon src="&quot;}" />
-  </programme>
-  <programme start="20170116113000 +0100" stop="20170116120000 +0100" channel="CNN">
-    <title lang="da">African Voices</title>
-    <desc lang="da">African Voices offers viewers a unique viewpoint, showcasing engaging African personalities in intimate discussions from business to music(n)</desc>
-    <icon src="&quot;}" />
-  </programme>
-  <programme start="20170116120000 +0100" stop="20170116130000 +0100" channel="CNN">
-    <title lang="da">New Day</title>
-    <desc lang="da">A new CNN morning show reporting the latest news, weather and top stories. Hosted by Chris Cuomo, Kate Bolduan and Michaela Pereira as news anchor(n)</desc>
-    <icon src="&quot;}" />
-  </programme>
-  <programme start="20170116130000 +0100" stop="20170116133000 +0100" channel="CNN">
-    <title lang="da">CNN Newsroom</title>
-    <desc lang="da">CNN Newsroom is where breaking news happens. See the resources of the world's news leader at work as the day's stories develop(n)</desc>
-    <icon src="B_47894594_01.JPG" />
-  </programme>
-  <programme start="20170116133000 +0100" stop="20170116140000 +0100" channel="CNN">
-    <title lang="da">World Sport</title>
-    <desc lang="da">A comprehensive review of sports news from around the world, including all the key highlights, profiles and interviews with the newsmakers and stars of sport(n)</desc>
-    <icon src="B_47894595_01.JPG" />
-  </programme>
-  <programme start="20170116140000 +0100" stop="20170116150000 +0100" channel="CNN">
-    <title lang="da">News Stream (with World Sport)</title>
-    <desc lang="da">Anchored from Hong Kong by Kristie Lu Stout, News Stream is a one hour news programme powered by the smart use of technology to give viewers a better understanding of the world(n)</desc>
-    <icon src="&quot;}" />
-  </programme>
-  <programme start="20170116150000 +0100" stop="20170116160000 +0100" channel="CNN">
-    <title lang="da">CNNMoney with Maggie Lake</title>
-    <desc lang="da">CNNMoney with Maggie Lake focuses on international business and market trends, economic developments, stock market trading, bids and take-overs(n)</desc>
-    <icon src="&quot;}" />
-  </programme>
-  <programme start="20170116160000 +0100" stop="20170116170000 +0100" channel="CNN">
-    <title lang="da">Connect the World with Becky Anderson</title>
-    <desc lang="da">CNN's Becky Anderson hosts a special edition of(n)</desc>
-    <icon src="&quot;}" />
-  </programme>
-  <programme start="20170116170000 +0100" stop="20170116180000 +0100" channel="CNN">
-    <title lang="da">International Desk (with World Sport)</title>
-    <desc lang="da">Keeping viewers from around Europe, the Middle East and Africa updated with breaking news, the latest global stories and sport information(n)</desc>
-    <icon src="&quot;}" />
-  </programme>
-  <programme start="20170116180000 +0100" stop="20170116183000 +0100" channel="CNN">
-    <title lang="da">International Desk</title>
-    <desc lang="da">A programme that keeps viewers from around Europe, the Middle East and Africa updated with breaking news, the latest global stories and weather information(n)</desc>
-    <icon src="&quot;}" />
-  </programme>
-  <programme start="20170116183000 +0100" stop="20170116184500 +0100" channel="CNN">
-    <title lang="da">CNN Marketplace Middle East</title>
-    <desc lang="da">The latest business headlines, events and developments in and around the Middle East. Hosted by John Defterios(n)</desc>
-    <icon src="B_47942697_01.JPG" />
-  </programme>
-  <programme start="20170116184500 +0100" stop="20170116190000 +0100" channel="CNN">
-    <title lang="da">CNN Marketplace Africa</title>
-    <desc lang="da">CNN Marketplace Africa offers unique access to the latest African market information, with a look at events and developments that impact the business world(n)</desc>
-    <icon src="B_47894601_01.JPG" />
-  </programme>
-  <programme start="20170116190000 +0100" stop="20170116200000 +0100" channel="CNN">
-    <title lang="da">Wolf</title>
-    <desc lang="da">CNN's lead political anchor Wolf Blitzer looks at politics, breaking news and international news(n)</desc>
-    <icon src="&quot;}" />
-  </programme>
-  <programme start="20170116200000 +0100" stop="20170116203000 +0100" channel="CNN">
-    <title lang="da">Amanpour.</title>
-    <desc lang="da">Join Christiane Amanpour as she provides her powerful interview skills and provocative analysis on global stories that matter to you(n)</desc>
-    <icon src="B_47894603_01.JPG" />
-  </programme>
-  <programme start="20170116203000 +0100" stop="20170116210000 +0100" channel="CNN">
-    <title lang="da">State of America with Kate Bolduan</title>
-    <desc lang="da">State of America with Kate Bolduan will give viewers a distinctive inside look at America's political developments(n)</desc>
-    <icon src="&quot;}" />
-  </programme>
-  <programme start="20170116210000 +0100" stop="20170116220000 +0100" channel="CNN">
-    <title lang="da">The World Right Now with Hala Gorani</title>
-    <desc lang="da">An hour of the day’s most important news, sport, business and interviews. The best of CNN’s global reporting with the authority of Hala Gorani(n)</desc>
-    <icon src="&quot;}" />
-  </programme>
-  <programme start="20170116220000 +0100" stop="20170116230000 +0100" channel="CNN">
-    <title lang="da">Quest Means Business</title>
-    <desc lang="da">CNN's Richard Quest presents a round-up of the day's global business news with focus on international business and market trends(n)</desc>
-    <icon src="&quot;}" />
-  </programme>
-  <programme start="20170116230000 +0100" stop="20170116233000 +0100" channel="CNN">
-    <title lang="da">Amanpour.</title>
-    <desc lang="da">Join Christiane Amanpour as she provides her powerful interview skills and provocative analysis on global stories that matter to you(n)</desc>
-    <icon src="B_47894607_01.JPG" />
-  </programme>
-  <programme start="20170116233000 +0100" stop="20170117000000 +0100" channel="CNN">
-    <title lang="da">World Sport</title>
-    <desc lang="da">A comprehensive review of sports news from around the world, including all the key highlights, profiles and interviews with the newsmakers and stars of sport(n)</desc>
-    <icon src="B_47894608_01.JPG" />
-  </programme>
-  <programme start="20170116060000 +0100" stop="20170116060500 +0100" channel="Nickelodeon">
-    <title lang="da">Max &amp; Ruby</title>
-    <desc lang="da">Max &amp; Ruby er en animeret komedie-serie baseret på de populære børnebøger skrevet af Rosemary Wells. Serien er centreret om Max, en beslutsom tre-årig kanin, og hans storesøster Ruby, som er en klog og dygtig syv-årig.&lt;BR&gt;&lt;BR&gt;Showet sender et positivt signal til børn ved at vise hvordan Max og Ruby leger sammen og samtidig løser deres problemer og overkommer forskelle på en respektfuld og kærlig måde(n)</desc>
-    <icon src="B_47931082_01.JPG" />
-    <episode-num system="onscreen">S5E12</episode-num>
-  </programme>
-  <programme start="20170116060500 +0100" stop="20170116061000 +0100" channel="Nickelodeon">
-    <title lang="da">Gurli Gris</title>
-    <desc lang="da">Gurli er en sød lille gris som bor sammen med sin bror, mor og far. Gurli elsker at lege, klæde sig ud og naturligvis bade i mudder. Hun tager tit på eventyr og ofte tager hun sine bedste venner med(n)</desc>
-    <icon src="B_47931083_01.JPG" />
-    <episode-num system="onscreen">S2E14</episode-num>
-  </programme>
-  <programme start="20170116061000 +0100" stop="20170116061500 +0100" channel="Nickelodeon">
-    <title lang="da">Gurli Gris</title>
-    <desc lang="da">Gurli er en sød lille gris som bor sammen med sin bror, mor og far. Gurli elsker at lege, klæde sig ud og naturligvis bade i mudder. Hun tager tit på eventyr og ofte tager hun sine bedste venner med(n)</desc>
-    <icon src="B_47931084_01.JPG" />
-    <episode-num system="onscreen">S2E11</episode-num>
-  </programme>
-  <programme start="20170116061500 +0100" stop="20170116064000 +0100" channel="Nickelodeon">
-    <title lang="da">Bubble Guppies</title>
-    <desc lang="da">Dyk ned i et vaskeægte undervandseventyr sammen med Bubble Guppies, der er klar til at lære dig om alt fra dinosaurer til tandlæger, rock &amp; roll og cowboys. &lt;BR&gt;&lt;BR&gt;Gennem forskellige temaer lærer havfruerne og havmændene fra byen Bubbletucky dig fysik, matematik, litteratur og meget mere under vandet i en verden med skove af tang og flotte koralrev. Selvfølgelig med en masse sjov og musik, der får dig til at boble af grin(n)</desc>
-    <icon src="B_47931085_01.JPG" />
-    <episode-num system="onscreen">S4E2</episode-num>
-  </programme>
-  <programme start="20170116064000 +0100" stop="20170116070500 +0100" channel="Nickelodeon">
-    <title lang="da">Dora udforskeren</title>
-    <desc lang="da">Vær med, når Dora tager på eventyr sammen med sin bedste ven, aben Boots. Dora Udforskeren er en interaktiv animeret tegneserie, og du kan være med til at hjælpe Dora med de problemer, som Dora og Boots støder på undervejs på deres rejser med alt fra sang til matematik eller ved at løse gåder. &lt;BR&gt;&lt;BR&gt;Dora har brug for din hjælp på sine eventyr, og sammen kan I løse problemerne med en masse sjov. Til gengæld kan det være, Dora kan lære dig lidt engelsk(n)</desc>
-    <icon src="B_47931086_01.JPG" />
-    <episode-num system="onscreen">S8E3</episode-num>
-  </programme>
-  <programme start="20170116070500 +0100" stop="20170116071500 +0100" channel="Nickelodeon">
-    <title lang="da">Zack &amp; Quack</title>
-    <desc lang="da">Zack &amp; Quack er en animationsserie, der følger den eventyrlystne dreng Zack og hans bedste ven Quack, der er en impulsiv og nysgerig and. De bor i den mest fantastiske pop-up bog nogensinde! Det er et sted fuldt af overraskelser og hvergang man bladrer sker der spændende og uventede ting. Så snart de træder ud i haven, starter eventyret. Nye, spændende verdener og fantastiske rejser folder sig ud for øjnene af dem(n)</desc>
-    <icon src="B_47931087_01.JPG" />
-    <episode-num system="onscreen">S2E8</episode-num>
-  </programme>
-  <programme start="20170116071500 +0100" stop="20170116073500 +0100" channel="Nickelodeon">
-    <title lang="da">Fresh Beat Band: Musikspioner på mission</title>
-    <desc lang="da">Fire venner bliver rekrutteret som hemmelige spioner sammen med deres fjollede chimpanse Bo Monkey. Ved hjælp af deres unikke talenter, og de sejeste spion-dingenoter, snører de en fjollet flok skøre skurke og løser en masse mysterier(n)</desc>
-    <icon src="&quot;}" />
-    <episode-num system="onscreen">S1E13</episode-num>
-  </programme>
-  <programme start="20170116073500 +0100" stop="20170116075000 +0100" channel="Nickelodeon">
-    <title lang="da">Alvin og de frække jordegern</title>
-    <desc lang="da">Ekorrarna är som helt vanliga ungar. De går i skolan, hjälper till hemma, gör sina läxor och bråkar som syskon gör, men ger stora konserter för miljontals fans. Åh, nämnde vi att de är internationella rockstjärnor?Ekorrarna är som helt vanliga ungar. De g(n)</desc>
-    <icon src="B_47931089_01.JPG" />
-    <episode-num system="onscreen">S1E43</episode-num>
-  </programme>
-  <programme start="20170116075000 +0100" stop="20170116080000 +0100" channel="Nickelodeon">
-    <title lang="da">Alvin og de frække jordegern</title>
-    <desc lang="da">Ekorrarna är som helt vanliga ungar. De går i skolan, hjälper till hemma, gör sina läxor och bråkar som syskon gör, men ger stora konserter för miljontals fans. Åh, nämnde vi att de är internationella rockstjärnor?Ekorrarna är som helt vanliga ungar. De g(n)</desc>
-    <icon src="B_47931090_01.JPG" />
-    <episode-num system="onscreen">S1E45</episode-num>
-  </programme>
-  <programme start="20170116080000 +0100" stop="20170116081000 +0100" channel="Nickelodeon">
-    <title lang="da">Alvin og de frække jordegern</title>
-    <desc lang="da">Ekorrarna är som helt vanliga ungar. De går i skolan, hjälper till hemma, gör sina läxor och bråkar som syskon gör, men ger stora konserter för miljontals fans. Åh, nämnde vi att de är internationella rockstjärnor?Ekorrarna är som helt vanliga ungar. De g(n)</desc>
-    <icon src="B_47931091_01.JPG" />
-    <episode-num system="onscreen">S1E48</episode-num>
-  </programme>
-  <programme start="20170116081000 +0100" stop="20170116082500 +0100" channel="Nickelodeon">
-    <title lang="da">Alvin og de frække jordegern</title>
-    <desc lang="da">Ekorrarna är som helt vanliga ungar. De går i skolan, hjälper till hemma, gör sina läxor och bråkar som syskon gör, men ger stora konserter för miljontals fans. Åh, nämnde vi att de är internationella rockstjärnor?Ekorrarna är som helt vanliga ungar. De g(n)</desc>
-    <icon src="B_47943128_01.JPG" />
-    <episode-num system="onscreen">S1E16</episode-num>
-  </programme>
-  <programme start="20170116082500 +0100" stop="20170116085000 +0100" channel="Nickelodeon">
-    <title lang="da">Game Shakers</title>
-    <desc lang="da">To piger fra Brooklyn skaber verdens mest populære spil og bruger overskuddet til at stifte deres eget spilfirma(n)</desc>
-    <icon src="B_47931093_01.JPG" />
-    <episode-num system="onscreen">S1E18</episode-num>
-  </programme>
-  <programme start="20170116085000 +0100" stop="20170116091000 +0100" channel="Nickelodeon">
-    <title lang="da">Bella and the Bulldogs</title>
-    <desc lang="da">Cheerleaderen Bellas drøm går i opfyldelse, da hun får lov til at prøvespille som quarterback på skolens footballhold. Holdet gør alt, hvad de kan for at få hende til at opgive, men Bella er fast besluttet på ikke at lade sig slå ud!(n)</desc>
-    <icon src="B_47931094_01.JPG" />
-    <episode-num system="onscreen">S1E14</episode-num>
-  </programme>
-  <programme start="20170116091000 +0100" stop="20170116093500 +0100" channel="Nickelodeon">
-    <title lang="da">Familien Thunderman</title>
-    <desc lang="da">Hvad er bedre end én superhelt? En hel famile af superhelte! Mød familien Thunderman, en ikke særlig normal familie, hvis største prioritet er, at holde alle deres superkræfter hemmelige for omverdenen og leve et helt normalt liv. Nemt, ikke? Jo, selvfølgelig! Især når de to ældste søskende – Phebe og Max – har en sund konkurrence kørende, der bliver top tunet af deres superkræfter! Yep, planen om at 'passe ind' kommer måske til at tage lidt længere tid end de havde håbet..(n)</desc>
-    <icon src="B_47931095_01.JPG" />
-    <episode-num system="onscreen">S3E5</episode-num>
-  </programme>
-  <programme start="20170116093500 +0100" stop="20170116095500 +0100" channel="Nickelodeon">
-    <title lang="da">Nicky, Ricky, Dicky og Dawn</title>
-    <desc lang="da">Nicky, Ricky, Dicky og Dawn er en gruppe firlinger med kun to ting til fælles: deres fødselsdag og deres forældre. Den dynamiske kvartet kommer op at toppes så snart chancen byder sig, men i sidste ende kan intet få dem ned med nakken, når de står sammen(n)</desc>
-    <icon src="B_47931096_01.JPG" />
-    <episode-num system="onscreen">S1E14</episode-num>
-  </programme>
-  <programme start="20170116095500 +0100" stop="20170116102000 +0100" channel="Nickelodeon">
-    <title lang="da">Blaze og Monstermaskinerne</title>
-    <desc lang="da">Blaze og hans kører, AJ, bliver introduceret til en verden af ræsende monstertrucks. Da den slemme truck Crusher bruger beskidte tricks for at vinde mesterskabet, vil Blaze gøre alt for at hjælpe sine venner og slå Crusher inden målstregen!(n)</desc>
-    <icon src="B_47931097_01.JPG" />
-    <episode-num system="onscreen">S1E16</episode-num>
-  </programme>
-  <programme start="20170116102000 +0100" stop="20170116104500 +0100" channel="Nickelodeon">
-    <title lang="da">Paw Patrol</title>
-    <desc lang="da">Nickelodeons nye animerede børnehaveklasse-serie, Paw Patrol, handler om de seks heroiske redningshvalpe Chase, Marshall, Rocky, Rubble, Zuma og Skye – med den teknik-kyndige dreng, Ryder, i spidsen. Sammen arbejder de hårdt for at beskytte Adventure Bay. Ingen opgave er for stor, ingen hvalp er for lille! Seriens curriculum fokuserer på godt medborgerskab, sociale færdigheder og problemløsning(n)</desc>
-    <icon src="B_47931098_01.JPG" />
-    <episode-num system="onscreen">S3E11</episode-num>
-  </programme>
-  <programme start="20170116104500 +0100" stop="20170116111000 +0100" channel="Nickelodeon">
-    <title lang="da">Bubble Guppies</title>
-    <desc lang="da">Dyk ned i et vaskeægte undervandseventyr sammen med Bubble Guppies, der er klar til at lære dig om alt fra dinosaurer til tandlæger, rock &amp; roll og cowboys. &lt;BR&gt;&lt;BR&gt;Gennem forskellige temaer lærer havfruerne og havmændene fra byen Bubbletucky dig fysik, matematik, litteratur og meget mere under vandet i en verden med skove af tang og flotte koralrev. Selvfølgelig med en masse sjov og musik, der får dig til at boble af grin(n)</desc>
-    <icon src="B_47931099_01.JPG" />
-    <episode-num system="onscreen">S2E14</episode-num>
-  </programme>
-  <programme start="20170116111000 +0100" stop="20170116113500 +0100" channel="Nickelodeon">
-    <title lang="da">Shimmer og Shine</title>
-    <desc lang="da">Et par tvillingesøstre der er i lære som ånder kommer uden at ville det til at lave rav i den i forsøget på at opfylde ønsker for deres bedste ven Leah(n)</desc>
-    <icon src="B_47931100_01.JPG" />
-    <episode-num system="onscreen">S2E6</episode-num>
-  </programme>
-  <programme start="20170116113500 +0100" stop="20170116114500 +0100" channel="Nickelodeon">
-    <title lang="da">Little Charmers</title>
-    <desc lang="da">I det magiske land, Charmville, glæder 3 små yndige Charmers sig til at afprøve deres magiske kræfter. Frygtløse Hazel og hendes venner, Posie og Lavender, er Charmers Under Uddannelse, der elsker at bruge trylleri til at udforske og tage på nye eventyr!(n)</desc>
-    <icon src="B_47931101_01.JPG" />
-    <episode-num system="onscreen">S1E19</episode-num>
-  </programme>
-  <programme start="20170116114500 +0100" stop="20170116121000 +0100" channel="Nickelodeon">
-    <title lang="da">Dora og venner</title>
-    <desc lang="da">Sammen, alle for én! Gør dig klar til spændende eventyr med Dora og venner. Dora vokser op! Hun er flyttet til Playa Verde, en storby ved havet, er startet i en ny skole med masser af diversitet, og har mere travlt end nogensinde før(n)</desc>
-    <icon src="B_47931102_01.JPG" />
-    <episode-num system="onscreen">S2E10</episode-num>
-  </programme>
-  <programme start="20170116121000 +0100" stop="20170116122500 +0100" channel="Nickelodeon">
-    <title lang="da">Alvin og de frække jordegern</title>
-    <desc lang="da">Ekorrarna är som helt vanliga ungar. De går i skolan, hjälper till hemma, gör sina läxor och bråkar som syskon gör, men ger stora konserter för miljontals fans. Åh, nämnde vi att de är internationella rockstjärnor?Ekorrarna är som helt vanliga ungar. De g(n)</desc>
-    <icon src="B_47943129_01.JPG" />
-    <episode-num system="onscreen">S2E1</episode-num>
-  </programme>
-  <programme start="20170116122500 +0100" stop="20170116124000 +0100" channel="Nickelodeon">
-    <title lang="da">Alvin og de frække jordegern</title>
-    <desc lang="da">Ekorrarna är som helt vanliga ungar. De går i skolan, hjälper till hemma, gör sina läxor och bråkar som syskon gör, men ger stora konserter för miljontals fans. Åh, nämnde vi att de är internationella rockstjärnor?Ekorrarna är som helt vanliga ungar. De g(n)</desc>
-    <icon src="B_47943130_01.JPG" />
-    <episode-num system="onscreen">S2E1</episode-num>
-  </programme>
-  <programme start="20170116124000 +0100" stop="20170116125000 +0100" channel="Nickelodeon">
-    <title lang="da">Alvin og de frække jordegern</title>
-    <desc lang="da">Ekorrarna är som helt vanliga ungar. De går i skolan, hjälper till hemma, gör sina läxor och bråkar som syskon gör, men ger stora konserter för miljontals fans. Åh, nämnde vi att de är internationella rockstjärnor?Ekorrarna är som helt vanliga ungar. De g(n)</desc>
-    <icon src="B_47943131_01.JPG" />
-    <episode-num system="onscreen">S2E7</episode-num>
-  </programme>
-  <programme start="20170116125000 +0100" stop="20170116131500 +0100" channel="Nickelodeon">
-    <title lang="da">Big Time Rush</title>
-    <desc lang="da">Serien handler om de fire unge hockeyspillere Kendall, Logan, James og Carlos, som bliver udvalgt til at lave et boyband. Kendall siger ja på den betingelse at han kan få sine venner og familie med til Los Angeles. Det virker måske som en drøm, men det er ikke altid lige nemt at udskifte hockeystavene med hår og makeup. Har de det, der skal til for at klare sig i musikbranchen? Vil kendislivet ændre dem for altid? Og hvor skal de spille hockey henne?(n)</desc>
-    <icon src="B_47943132_01.JPG" />
-    <episode-num system="onscreen">S2E23</episode-num>
-  </programme>
-  <programme start="20170116131500 +0100" stop="20170116134000 +0100" channel="Nickelodeon">
-    <title lang="da">De Hjemsøgte Hathaways</title>
-    <desc lang="da">Fantasi møder familie, skørhed møder uhygge og Hathaway familien møder ... spøgelser? Efter at være flyttet fra New York til New Orleans, er familien Hathaway klar til at vende tilbage til et normalt liv i deres nye hjem. Hvad de ikke ved er, at en spøgelsesfamile har den samme idé! Kan to familier, bogstaveligt talt fra forskellige verdener, lever i hjemsøgt harmoni?(n)</desc>
-    <icon src="B_47931108_01.JPG" />
-    <episode-num system="onscreen">S2E21</episode-num>
-  </programme>
-  <programme start="20170116134000 +0100" stop="20170116140500 +0100" channel="Nickelodeon">
-    <title lang="da">De Hjemsøgte Hathaways</title>
-    <desc lang="da">Fantasi møder familie, skørhed møder uhygge og Hathaway familien møder ... spøgelser? Efter at være flyttet fra New York til New Orleans, er familien Hathaway klar til at vende tilbage til et normalt liv i deres nye hjem. Hvad de ikke ved er, at en spøgelsesfamile har den samme idé! Kan to familier, bogstaveligt talt fra forskellige verdener, lever i hjemsøgt harmoni?(n)</desc>
-    <icon src="B_47931109_01.JPG" />
-    <episode-num system="onscreen">S2E22</episode-num>
-  </programme>
-  <programme start="20170116140500 +0100" stop="20170116143000 +0100" channel="Nickelodeon">
-    <title lang="da">iCarly</title>
-    <desc lang="da">iCarly handler om teenageren Carly, som har sit helt eget web show kaldet 'iCarly'. Sammen med vennerne Freddie, Sam og Gibby sender hun showet fra et hjemmelavet studie i sin lejlighed, hvor hun bor med sin 29-årige bror og værge, Spencer. &lt;BR&gt;&lt;BR&gt;Selvom Carly har sit eget web show, forsøger hun ikke at blive kendt, men tværtimod vil hun være et forbillede for andre børn og teenagere – og mest af alt vil hun bare have det sjovt. &lt;BR&gt;&lt;BR&gt;iCarly er en fantastisk blanding af sketches, konkurrencer, interviews og vanvittige eventyr(n)</desc>
-    <icon src="B_47931110_01.JPG" />
-    <episode-num system="onscreen">S5E4</episode-num>
-  </programme>
-  <programme start="20170116143000 +0100" stop="20170116145500 +0100" channel="Nickelodeon">
-    <title lang="da">Mia and Me</title>
-    <desc lang="da">Den 12-årige Mia finder sig selv tryllebundet ind i den magiske verden Centopia, fyldt med alfer, enhjørninger, fauner og drager, men det engang så idylliske kongerige er i fare. Den onde dronning Panthea har nemlig sat sig for at fange alle enhjørningerne og bruge deres kræfter til at forblive ung. De tapre alfer, der bliver ledt af Prinsesse Mo og den modige kriger Yoku, gør alt for at stoppe hende. Alt i mens prøver Mia at holde balancen mellem at passe ind på sin nye skole og sit liv som alf, men Mia kommer snart til at blive nøglen til at redde Centopia(n)</desc>
-    <icon src="B_47931111_01.JPG" />
-    <episode-num system="onscreen">S1E15</episode-num>
-  </programme>
-  <programme start="20170116145500 +0100" stop="20170116152000 +0100" channel="Nickelodeon">
-    <title lang="da">Regal Academy</title>
-    <desc lang="da">Regal Academy har sjove og spændende vinkler på nogle af de mest elskede eventyr, mens vi følger Rose Askepot som er helt ny elev på skolen(n)</desc>
-    <icon src="B_47931112_01.JPG" />
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20170116152000 +0100" stop="20170116154500 +0100" channel="Nickelodeon">
-    <title lang="da">Svampebob Firkant</title>
-    <desc lang="da">SvampeBob Firkant er en af Nickelodeons ældste og mest elskede serier. Stjernen er naturligvis SvampeBob Firkant selv og sammen med sin bedste ven Patrick Søstjerne og den trofaste hussnegl Gary drager Bob ud på fantastiske eventyr i Bikini Bottom. SvampeBob er en utrolig energisk og optimistisk figur, som bruger fantastisk meget tid på sine spændende hverdags-eventyr, men også er en dybt seriøs køkkenchef på Den Knasende Krabbe, hvor han laver havbundens mest pragtfulde burger(n)</desc>
-    <icon src="B_47931113_01.JPG" />
-    <episode-num system="onscreen">S8E15</episode-num>
-  </programme>
-  <programme start="20170116154500 +0100" stop="20170116161000 +0100" channel="Nickelodeon">
-    <title lang="da">Svampebob Firkant</title>
-    <desc lang="da">SvampeBob Firkant er en af Nickelodeons ældste og mest elskede serier. Stjernen er naturligvis SvampeBob Firkant selv og sammen med sin bedste ven Patrick Søstjerne og den trofaste hussnegl Gary drager Bob ud på fantastiske eventyr i Bikini Bottom. SvampeBob er en utrolig energisk og optimistisk figur, som bruger fantastisk meget tid på sine spændende hverdags-eventyr, men også er en dybt seriøs køkkenchef på Den Knasende Krabbe, hvor han laver havbundens mest pragtfulde burger(n)</desc>
-    <icon src="B_47931114_01.JPG" />
-    <episode-num system="onscreen">S8E14</episode-num>
-  </programme>
-  <programme start="20170116161000 +0100" stop="20170116163500 +0100" channel="Nickelodeon">
-    <title lang="da">De Fantastiske Fehoveder</title>
-    <desc lang="da">I(n)</desc>
-    <icon src="B_47931115_01.JPG" />
-    <episode-num system="onscreen">S7E20</episode-num>
-  </programme>
-  <programme start="20170116163500 +0100" stop="20170116170000 +0100" channel="Nickelodeon">
-    <title lang="da">De Fantastiske Fehoveder</title>
-    <desc lang="da">I(n)</desc>
-    <icon src="B_47931116_01.JPG" />
-    <episode-num system="onscreen">S9E2</episode-num>
-  </programme>
-  <programme start="20170116170000 +0100" stop="20170116172000 +0100" channel="Nickelodeon">
-    <title lang="da">Højs hus</title>
-    <desc lang="da">Ved du, hvordan det er at vokse op i en stor familie? 11-årige Lincoln Høj giver seerne et indblik i, hvordan man overlever kaos i en kæmpe husstand – især som den eneste bror med ti søstre!(n)</desc>
-    <icon src="B_47931117_01.JPG" />
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20170116172000 +0100" stop="20170116173500 +0100" channel="Nickelodeon">
-    <title lang="da">Alvin og de frække jordegern</title>
-    <desc lang="da">Ekorrarna är som helt vanliga ungar. De går i skolan, hjälper till hemma, gör sina läxor och bråkar som syskon gör, men ger stora konserter för miljontals fans. Åh, nämnde vi att de är internationella rockstjärnor?Ekorrarna är som helt vanliga ungar. De g(n)</desc>
-    <icon src="B_47931118_01.JPG" />
-    <episode-num system="onscreen">S2E13</episode-num>
-  </programme>
-  <programme start="20170116173500 +0100" stop="20170116175000 +0100" channel="Nickelodeon">
-    <title lang="da">Alvin og de frække jordegern</title>
-    <desc lang="da">Ekorrarna är som helt vanliga ungar. De går i skolan, hjälper till hemma, gör sina läxor och bråkar som syskon gör, men ger stora konserter för miljontals fans. Åh, nämnde vi att de är internationella rockstjärnor?Ekorrarna är som helt vanliga ungar. De g(n)</desc>
-    <icon src="B_47931119_01.JPG" />
-    <episode-num system="onscreen">S2E13</episode-num>
-  </programme>
-  <programme start="20170116175000 +0100" stop="20170116181000 +0100" channel="Nickelodeon">
-    <title lang="da">Nicky, Ricky, Dicky og Dawn</title>
-    <desc lang="da">Nicky, Ricky, Dicky og Dawn er en gruppe firlinger med kun to ting til fælles: deres fødselsdag og deres forældre. Den dynamiske kvartet kommer op at toppes så snart chancen byder sig, men i sidste ende kan intet få dem ned med nakken, når de står sammen(n)</desc>
-    <icon src="B_47931120_01.JPG" />
-    <episode-num system="onscreen">S2E8</episode-num>
-  </programme>
-  <programme start="20170116181000 +0100" stop="20170116183500 +0100" channel="Nickelodeon">
-    <title lang="da">Game Shakers</title>
-    <desc lang="da">To piger fra Brooklyn skaber verdens mest populære spil og bruger overskuddet til at stifte deres eget spilfirma(n)</desc>
-    <icon src="B_47931121_01.JPG" />
-    <episode-num system="onscreen">S1E4</episode-num>
-  </programme>
-  <programme start="20170116183500 +0100" stop="20170116190500 +0100" channel="Nickelodeon">
-    <title lang="da">Familien Thunderman</title>
-    <desc lang="da">Hvad er bedre end én superhelt? En hel famile af superhelte! Mød familien Thunderman, en ikke særlig normal familie, hvis største prioritet er, at holde alle deres superkræfter hemmelige for omverdenen og leve et helt normalt liv. Nemt, ikke? Jo, selvfølgelig! Især når de to ældste søskende – Phebe og Max – har en sund konkurrence kørende, der bliver top tunet af deres superkræfter! Yep, planen om at 'passe ind' kommer måske til at tage lidt længere tid end de havde håbet..(n)</desc>
-    <icon src="B_47931122_01.JPG" />
-    <episode-num system="onscreen">S3E23</episode-num>
-  </programme>
-  <programme start="20170116190500 +0100" stop="20170116193000 +0100" channel="Nickelodeon">
-    <title lang="da">Familien Thunderman</title>
-    <desc lang="da">Hvad er bedre end én superhelt? En hel famile af superhelte! Mød familien Thunderman, en ikke særlig normal familie, hvis største prioritet er, at holde alle deres superkræfter hemmelige for omverdenen og leve et helt normalt liv. Nemt, ikke? Jo, selvfølgelig! Især når de to ældste søskende – Phebe og Max – har en sund konkurrence kørende, der bliver top tunet af deres superkræfter! Yep, planen om at 'passe ind' kommer måske til at tage lidt længere tid end de havde håbet..(n)</desc>
-    <icon src="B_47943133_01.JPG" />
-    <episode-num system="onscreen">S3E24</episode-num>
-  </programme>
-  <programme start="20170116193000 +0100" stop="20170116195000 +0100" channel="Nickelodeon">
-    <title lang="da">Henry Danger</title>
-    <desc lang="da">13-årige Henry Hart får job som håndlangeren(n)</desc>
-    <icon src="B_47931125_01.JPG" />
-    <episode-num system="onscreen">S1E21</episode-num>
-  </programme>
-  <programme start="20170116195000 +0100" stop="20170116201500 +0100" channel="Nickelodeon">
-    <title lang="da">Henry Danger</title>
-    <desc lang="da">13-årige Henry Hart får job som håndlangeren(n)</desc>
-    <icon src="B_47931126_01.JPG" />
-    <episode-num system="onscreen">S1E22</episode-num>
-  </programme>
-  <programme start="20170116201500 +0100" stop="20170116204000 +0100" channel="Nickelodeon">
-    <title lang="da">Bella and the Bulldogs</title>
-    <desc lang="da">Cheerleaderen Bellas drøm går i opfyldelse, da hun får lov til at prøvespille som quarterback på skolens footballhold. Holdet gør alt, hvad de kan for at få hende til at opgive, men Bella er fast besluttet på ikke at lade sig slå ud!(n)</desc>
-    <icon src="B_47943134_01.JPG" />
-    <episode-num system="onscreen">S2E18</episode-num>
-  </programme>
-  <programme start="20170116204000 +0100" stop="20170116210500 +0100" channel="Nickelodeon">
-    <title lang="da">Nicky, Ricky, Dicky og Dawn</title>
-    <desc lang="da">Nicky, Ricky, Dicky og Dawn er en gruppe firlinger med kun to ting til fælles: deres fødselsdag og deres forældre. Den dynamiske kvartet kommer op at toppes så snart chancen byder sig, men i sidste ende kan intet få dem ned med nakken, når de står sammen(n)</desc>
-    <icon src="B_47943135_01.JPG" />
-    <episode-num system="onscreen">S1E16</episode-num>
-  </programme>
-  <programme start="20170116210500 +0100" stop="20170116213000 +0100" channel="Nickelodeon">
-    <title lang="da">School of Rock</title>
-    <desc lang="da">SCHOOL OF ROCK er inspireret af filmen af samme navn og følger en gruppe uortodokse og toppræsterende elever på en prestigiøs privatskole, samt en falleret musiker som lærer dem at spille og elske rock'n'roll(n)</desc>
-    <icon src="B_47943136_01.JPG" />
-    <episode-num system="onscreen">S1E12</episode-num>
-  </programme>
-  <programme start="20170116213000 +0100" stop="20170116215500 +0100" channel="Nickelodeon">
-    <title lang="da">Familien Thunderman</title>
-    <desc lang="da">Hvad er bedre end én superhelt? En hel famile af superhelte! Mød familien Thunderman, en ikke særlig normal familie, hvis største prioritet er, at holde alle deres superkræfter hemmelige for omverdenen og leve et helt normalt liv. Nemt, ikke? Jo, selvfølgelig! Især når de to ældste søskende – Phebe og Max – har en sund konkurrence kørende, der bliver top tunet af deres superkræfter! Yep, planen om at 'passe ind' kommer måske til at tage lidt længere tid end de havde håbet..(n)</desc>
-    <icon src="B_47943137_01.JPG" />
-    <episode-num system="onscreen">S1E16</episode-num>
-  </programme>
-  <programme start="20170116215500 +0100" stop="20170116221500 +0100" channel="Nickelodeon">
-    <title lang="da">Game Shakers</title>
-    <desc lang="da">To piger fra Brooklyn skaber verdens mest populære spil og bruger overskuddet til at stifte deres eget spilfirma(n)</desc>
-    <icon src="B_47943138_01.JPG" />
-    <episode-num system="onscreen">S1E13</episode-num>
-  </programme>
-  <programme start="20170116221500 +0100" stop="20170116224500 +0100" channel="Nickelodeon">
-    <title lang="da">Henry Danger</title>
-    <desc lang="da">13-årige Henry Hart får job som håndlangeren(n)</desc>
-    <icon src="B_47943139_01.JPG" />
-    <episode-num system="onscreen">S1E12</episode-num>
-  </programme>
-  <programme start="20170116224500 +0100" stop="20170117050000 +0100" channel="Nickelodeon">
-    <title lang="da">Ned's</title>
-    <desc lang="da">I(n)</desc>
-    <icon src="B_47943140_01.JPG" />
-    <episode-num system="onscreen">S1E7</episode-num>
+  <programme start="20170116113000 +0100" stop="20170116123000 +0100" channel="6'eren">
+    <title lang="da">Ice Cold Gold</title>
+    <desc lang="da">Verdens stÃ¸rste Ã¸, GrÃ¸nland, er rig pÃ¥ en utrolig mÃ¦ngde mineraler, naturgas, guld, sÃ¸lv, platin, safirer, rubiner og olie, der fÃ¥r lande som Saudi Arabien til at blegne i sammenligning. Vi fÃ¸lger mineraljÃ¦gere, som kÃ¦mper i den bidende kulde, pÃ¥ steder som andre mennesker endnu ikke har betrÃ¥dt, for at nÃ¥ frem til naturens rigdom(n)</desc>
+    <category lang="da">Amr. realityserie</category>
+    <episode-num system="onscreen">E13</episode-num>
+  </programme>
+  <programme start="20170116123000 +0100" stop="20170116132500 +0100" channel="6'eren">
+    <title lang="da">Tanked</title>
+    <desc lang="da">Tanked dumber seerne ned i de mest spÃ¦ndende akvarier. Acrylic Tank Manufacturing, ATM er verdensmestre i akvarier! De har kreeret de mest banebrydende og ekstraordinÃ¦re akarier. Kunderne er krÃ¦vende og lokationen nogle gange ligesÃ¥. Holdet rejser landet rundt for at bringe havet i Ã¸jenhÃ¸jde pÃ¥ gÃ¦ster, som besÃ¸ger sÃ¥ forskellige steder, som casinoer, kirker, museer og zoologiske haver(n)</desc>
+    <category lang="da">Amr. realityserie fra 2011</category>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20170116132500 +0100" stop="20170116142000 +0100" channel="6'eren">
+    <title lang="da">Tanked</title>
+    <desc lang="da">Tanked dumber seerne ned i de mest spÃ¦ndende akvarier. Acrylic Tank Manufacturing, ATM er verdensmestre i akvarier! De har kreeret de mest banebrydende og ekstraordinÃ¦re akarier. Kunderne er krÃ¦vende og lokationen nogle gange ligesÃ¥. Holdet rejser landet rundt for at bringe havet i Ã¸jenhÃ¸jde pÃ¥ gÃ¦ster, som besÃ¸ger sÃ¥ forskellige steder, som casinoer, kirker, museer og zoologiske haver(n)</desc>
+    <category lang="da">Amr. realityserie fra 2011</category>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20170116142000 +0100" stop="20170116145000 +0100" channel="6'eren">
+    <title lang="da">The Neighbors</title>
+    <desc lang="da">Marty og Debbie fÃ¸ler, at deres Ã¦gteskab er ved at vÃ¦re kÃ¸rt fast, og Marty planlÃ¦gger derfor en bytur for dem. Deres date er imidlertid slet ikke det mindste i retning af, hvad Debbie havde forestillet sig. Dick er vildt forelsket i den nye babysitter(n)</desc>
+    <category lang="da">Amr. komedieserie. [Â·Â·]</category>
+    <episode-num system="onscreen">E40</episode-num>
+  </programme>
+  <programme start="20170116145000 +0100" stop="20170116151500 +0100" channel="6'eren">
+    <title lang="da">The Neighbors</title>
+    <desc lang="da">Sammen med Larry og Jackie drager familien Weaver til San Diego for at trÃ¦ffe Debbies lÃ¦nge fravÃ¦rende mor, som for nylig har adopteret en ti-Ã¥rige sÃ¸n. Marty gÃ¸r sit bedste for at hjÃ¦lpe Abby med at overvinde sin vandskrÃ¦k, som bliver udfordret da hun ser havet(n)</desc>
+    <category lang="da">Amr. komedieserie. [Â·Â·]</category>
+    <episode-num system="onscreen">E41</episode-num>
+  </programme>
+  <programme start="20170116151500 +0100" stop="20170116161000 +0100" channel="6'eren">
+    <title lang="da">Perception</title>
+    <desc lang="da">Pierce hjÃ¦lper til, da en autistisk teenager bliver anklaget for mord. Original title : Perception(n)</desc>
+    <category lang="da">Amr. krimiserie.</category>
+    <episode-num system="onscreen">E21</episode-num>
+  </programme>
+  <programme start="20170116161000 +0100" stop="20170116170500 +0100" channel="6'eren">
+    <title lang="da">Perception</title>
+    <desc lang="da">Lewickis bror, Kenny, kommer pÃ¥ uventet besÃ¸g, men da han bliver sat i forbindelse med et mord, er Pierce splittet. Original title : Perception(n)</desc>
+    <category lang="da">Amr. krimiserie.</category>
+    <episode-num system="onscreen">E22</episode-num>
+  </programme>
+  <programme start="20170116170500 +0100" stop="20170116173500 +0100" channel="6'eren">
+    <title lang="da">Two and a half men</title>
+    <desc lang="da">Charlie stresser af ved at gÃ¥ pÃ¥ druk med gutterne, efter at Chelsea er blevet vred pÃ¥ ham. Hun har nemlig opdaget de toplÃ¸se fotos af en ekskÃ¦reste, som han har liggende pÃ¥ sin mobiltelefon(n)</desc>
+    <category lang="da">Amr. komedieserie. [Â·Â·]</category>
+    <episode-num system="onscreen">E134</episode-num>
+  </programme>
+  <programme start="20170116173500 +0100" stop="20170116180500 +0100" channel="6'eren">
+    <title lang="da">Two and a half men</title>
+    <desc lang="da">Chelsea og Evelyn mÃ¸des for fÃ¸rste gang, og de Ã¸nsker at lÃ¦re hinanden bedre at kende, samt opbygge et svigerdatter-svigermor forhold. Charlie gÃ¸r imidlertid sit yderste for at holde dem adskilt(n)</desc>
+    <category lang="da">Amr. komedieserie. [Â·Â·]</category>
+    <episode-num system="onscreen">E135</episode-num>
+  </programme>
+  <programme start="20170116180500 +0100" stop="20170116190500 +0100" channel="6'eren">
+    <title lang="da">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="da">Holdet fÃ¥r hjÃ¦lp fra en Asgardian til at lÃ¸se mysteriet om den monolit som slugte Simmons. Original title : Marvel:|apostrofe|;s Agents of S.H.I.E.L.D(n)</desc>
+    <category lang="da">Amr. actionserie.</category>
+    <episode-num system="onscreen">E46</episode-num>
+  </programme>
+  <programme start="20170116190500 +0100" stop="20170116200000 +0100" channel="6'eren">
+    <title lang="da">Marvel's Agents of S.H.I.E.L.D.</title>
+    <desc lang="da">Coulson og holdet gÃ¥r ind i eftersÃ¸gningen pÃ¥ den Inhuman som slÃ¥r andre Inhumans ihjel. Original title : Marvel:|apostrofe|;s Agents of S.H.I.E.L.D(n)</desc>
+    <category lang="da">Amr. actionserie.</category>
+    <episode-num system="onscreen">E47</episode-num>
+  </programme>
+  <programme start="20170116200000 +0100" stop="20170116210000 +0100" channel="6'eren">
+    <title lang="da">Person of Interest</title>
+    <desc lang="da">Reese og Finch skal beskytte en kirurg som er deres nyeste 'nummer', Men da de opdager at en person fra Reeses fortid er involveret i sagen, er de nÃ¸dsaget til at bede et tidligere 'nummer' om hjÃ¦lp(n)</desc>
+    <category lang="da">Amr. krimiserie. [Â·Â·]</category>
+    <episode-num system="onscreen">E30</episode-num>
+  </programme>
+  <programme start="20170116210000 +0100" stop="20170116220000 +0100" channel="6'eren">
+    <title lang="da">Helikopterpiloterne</title>
+    <desc lang="da">I aften fortsÃ¦tter helikopterpiloterne deres sÃ¦rlige mission ved karnevallet i Ã...lborg. Mere end 60.000 feststemte og fulde mennesker slÃ¥r sig lÃ¸s i gaderne - og det gÃ¥r ikke stille for sig. Helikopteren hjÃ¦lper politiet med at lÃ¸se de mange alvorlige begivenheder, der opstÃ¥r under karnevallet, og dagen byder blandt andet pÃ¥ narkohandel, fulde folks farlige leg pÃ¥ hÃ¸je hustage, flasker der kastes efter politiet og en grov voldtÃ¦gt. Piloterne er pÃ¥ vagt dÃ¸gnet rundt, og nÃ¥r danskere er i fare, rykker de ud pÃ¥ fÃ¥ minutter og redder liv - til lands, til vands og i luften. Helikopterne sÃ¦ttes ogsÃ¥ ind, nÃ¥r politiet har brug for ekstra Ã¸jne i luften ved eftersÃ¸gninger af gerningsmÃ¦nd eller forsvundne personer(n)</desc>
+    <category lang="da">Dansk reportageserie fra 2016</category>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20170116220000 +0100" stop="20170116230000 +0100" channel="6'eren">
+    <title lang="da">SpÃ¸gelsesjÃ¦gerne</title>
+    <desc lang="da">Det gÃ¦lder om at vÃ¦re opdateret, nÃ¥r man er spÃ¸gelsesjÃ¦ger. Derfor gÃ¥r en stor del af tiden pÃ¥ at lave research og formidle sin viden videre.Dansk Parapsykologisk Aspekt (DPA) har fÃ¥et et nyt prÃ¸vemedlem, Jette, som er en af Kims gamle veninder, og der er straks flirt i luften. Sammen tager de til Rold Skov for at mÃ¸de Danmarks eneste nulevende heks, Dannie Druehyld, inden de skal hunte i Ribe gamle RÃ¥dhus, der blev brugt som heksefÃ¦ngsel i gamle dage. Heksen Dannie Druehyld forsyner DPA med noget rensende vand og nogle hÃ¸rfrÃ¸, som skal vise sig, at blive vigtige pÃ¥ nattens hunt.Formand Thomas fra Ghosthunting.dk elsker at fortÃ¦lle om gruppens aktiviteter. Derfor laver han en nyhedsudsendelse til gruppens faste fÃ¸lgere pÃ¥ deres hjemmeside, inden han sammen med resten af gruppen tager til et af verdens mest hjemsÃ¸gte hoteller der ligger i Aalborg. Her bliver bÃ¥de stuepiger og hotellets tidligere ejere set pÃ¥ de lange gange. Original title : SpÃ¸gelsesjÃ¦gerne(n)</desc>
+    <category lang="da">Dansk reportageserie fra 2012</category>
+    <episode-num system="onscreen">E18</episode-num>
+  </programme>
+  <programme start="20170116230000 +0100" stop="20170116232500 +0100" channel="6'eren">
+    <title lang="da">Big Bang Theory</title>
+    <desc lang="da">Hele flokken holder Halloween-fest i Stuarts tegneseriebutik. Leonard scorer Penny med videnskabelige metoder. Den tidligere astronaut, Buzz Aldrin er med som sig selv. Original title : Big Bang Theory(n)</desc>
+    <category lang="da">Amr. komedieserie.</category>
+    <episode-num system="onscreen">E116</episode-num>
+  </programme>
+  <programme start="20170116232500 +0100" stop="20170116235500 +0100" channel="6'eren">
+    <title lang="da">Big Bang Theory</title>
+    <desc lang="da">Vennerne bliver uvenner over en ordleg. Sheldons venskab med Stephen Hawking er ogsÃ¥ i fare. Penny beslutter i al hemmelighed at sÃ¸ge ind pÃ¥ universitetet. Original title : Big Bang Theory(n)</desc>
+    <category lang="da">Amr. komedieserie.</category>
+    <episode-num system="onscreen">E117</episode-num>
+  </programme>
+  <programme start="20170116235500 +0100" stop="20170117005500 +0100" channel="6'eren">
+    <title lang="da">Person of Interest</title>
+    <desc lang="da">Reese og Finch skal beskytte en kirurg som er deres nyeste 'nummer', Men da de opdager at en person fra Reeses fortid er involveret i sagen, er de nÃ¸dsaget til at bede et tidligere 'nummer' om hjÃ¦lp(n)</desc>
+    <category lang="da">Amr. krimiserie. [Â·Â·]</category>
+    <episode-num system="onscreen">E30</episode-num>
   </programme>
 </tv>
