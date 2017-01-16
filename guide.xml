@@ -1,1197 +1,25 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V1.57 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="DR1">
-    <display-name lang="da">DR1</display-name>
-    <url>http://www.viasat.dk</url>
-  </channel>
-  <channel id="DR2">
-    <display-name lang="da">DR2</display-name>
-    <url>http://www.viasat.dk</url>
-  </channel>
-  <channel id="DR3">
-    <display-name lang="da">DR3</display-name>
-    <url>http://www.viasat.dk</url>
-  </channel>
-  <channel id="DR K">
-    <display-name lang="da">DR K</display-name>
-    <url>http://www.viasat.dk</url>
-  </channel>
-  <channel id="TV3">
-    <display-name lang="da">TV3</display-name>
-    <url>http://www.viasat.dk</url>
-  </channel>
-  <channel id="TV2 News">
-    <display-name lang="da">TV2 News</display-name>
-    <url>http://www.viasat.dk</url>
-  </channel>
-  <channel id="TV2 Charlie">
-    <display-name lang="da">TV2 Charlie</display-name>
-    <url>http://www.viasat.dk</url>
-  </channel>
-  <channel id="TV2 Zulu">
-    <display-name lang="da">TV2 Zulu</display-name>
-    <url>http://www.viasat.dk</url>
-  </channel>
   <channel id="TV3 Sport 1">
     <display-name lang="da">TV3 Sport 1</display-name>
     <url>http://www.viasat.dk</url>
   </channel>
-  <programme start="20170116061500 +0100" stop="20170116064500 +0100" channel="DR1">
-    <title lang="da">Marta &amp; Guldsaksen II</title>
-    <desc lang="da">Dansk dokumentarserie. Guldbergsgade er på den anden ende under gadefesten Distortion. Marta og rollatorbanden vil ud og feste med de unge, men man bliver let væk i mængden, når man er 1,50 høj og hele gaden er en stor brølende fest. Det daglige pres som forretningsdrivende er hårdt for den 61-årige Marta, så hun er nødt til at stoppe op og gøre noget for sig selv og sine drømme. Det bringer hende langt væk fra Guldbergsgade. Til hest. Op og nedture går hånd i hånd i kvarteret omkring Salon Guldsaksen, hvor Marta i 30 år har drevet sin frisørsalon som et værested og samlingspunkt for hele kvarteret(n)</desc>
-    <date>2015</date>
-    <icon src="B_47896286_01.JPG" />
-    <episode-num system="onscreen">E4</episode-num>
-  </programme>
-  <programme start="20170116064500 +0100" stop="20170116071500 +0100" channel="DR1">
-    <title lang="da">Kontant: Fupbutikker på nettet</title>
-    <desc lang="da">Der findes i hundredvis af fupbutikker på danske hjemmesider. Flere end 400.000 danskere blev i 2016 snydt, da de lagde tøj, sko og elektronik i indkøbskurven på nettet. Kontant undersøger, hvor let det er at oprette fupbutikker på danske hjemmesider, og hvad man kan gøre for at lukke dem ned(n)</desc>
-    <date>2017</date>
-    <icon src="B_47951815_01.JPG" />
-  </programme>
-  <programme start="20170116071500 +0100" stop="20170116081000 +0100" channel="DR1">
-    <title lang="da">Arvingerne III</title>
-    <desc lang="da">Dansk dramaserie. Der er ikke megen fred hos de fire arvinger til at bearbejde sorgen. Gro synes ikke hun kan løfte jobbet som kurator for de unge og aner ikke sine levende råd, da de søger hendes hjælp mod presset fra mineselskabet Argus. Frederik søger svar i Hannahs efterladte ting. I sin sorg bebrejder han de unge og forlanger de flytter ud af Grønnegaard. Signe må være stærk i kampen mod Jensen, alt imens hændelserne i familien kræver et større fokus. Emil forsøger at skabe fred midt i al uroen, men det er ikke nemt, når han samtidig kæmper med sin samvittighed overfor Frederik. Skal han fastholde løgnen?(n)</desc>
-    <date>2015</date>
-    <icon src="B_47959420_01.JPG" />
-    <episode-num system="onscreen">S3E3</episode-num>
-  </programme>
-  <programme start="20170116081000 +0100" stop="20170116085500 +0100" channel="DR1">
-    <title lang="da">De flyvende læger</title>
-    <desc lang="da">Australsk dramaserie. I den lille australske flække Cooper's Crossing holder den flyvende lægetjeneste til. I den tyndt befolkede landsdel er der langt til lægen, så i stedet må læger og sygeplejersker flyve ud til områdets afsidesliggende gårde, kvægstationer og minelandsbyer for at yde lægehjælp – ofte under vanskelige og farlige forhold(n)</desc>
-    <date>1986</date>
-    <icon src="B_47896289_01.JPG" />
-    <episode-num system="onscreen">S1E18</episode-num>
-  </programme>
-  <programme start="20170116085500 +0100" stop="20170116094000 +0100" channel="DR1">
-    <title lang="da">De flyvende læger</title>
-    <desc lang="da">Australsk dramaserie. I den lille australske flække Cooper's Crossing holder den flyvende lægetjeneste til. I den tyndt befolkede landsdel er der langt til lægen, så i stedet må læger og sygeplejersker flyve ud til områdets afsidesliggende gårde, kvægstationer og minelandsbyer for at yde lægehjælp – ofte under vanskelige og farlige forhold(n)</desc>
-    <date>1986</date>
-    <icon src="B_47896290_01.JPG" />
-    <episode-num system="onscreen">S1E19</episode-num>
-  </programme>
-  <programme start="20170116094000 +0100" stop="20170116102500 +0100" channel="DR1">
-    <title lang="da">I farezonen</title>
-    <desc lang="da">Australsk actionserie. I den australske storby Sydney sætter de ansatte ved politiets redningstjeneste gang på gang livet på spil for at redde andre, når de kaldes ud til alle tænkelige nødsituationer – fra trafikulykker til selvmordsforsøg(n)</desc>
-    <date>1996</date>
-    <icon src="B_47896291_01.JPG" />
-    <episode-num system="onscreen">S3E37</episode-num>
-  </programme>
-  <programme start="20170116102500 +0100" stop="20170116103000 +0100" channel="DR1">
-    <title lang="da">OBS</title>
-    <desc lang="da">",(n)</desc>
-    <date>2017</date>
-    <icon src="B_47896292_01.JPG" />
-  </programme>
-  <programme start="20170116103000 +0100" stop="20170116111500 +0100" channel="DR1">
-    <title lang="da">Den svenske antikjagt</title>
-    <desc lang="da">Svensk antikmagasin. Der er fyldt med gemte og glemte antikviteter i Sverige. Kom med på en tur rundt i landet, når de to antikjægere Peder Lamm og Tom Österman tager på en vaskeægte skattejagt(n)</desc>
-    <date>2014</date>
-    <icon src="&quot;}" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20170116111500 +0100" stop="20170116120000 +0100" channel="DR1">
-    <title lang="da">Den svenske antikjagt</title>
-    <desc lang="da">Svensk antikmagasin. Der er fyldt med gemte og glemte antikviteter i Sverige. Kom med på en tur rundt i landet, når de to antikjægere Peder Lamm og Tom Österman tager på en vaskeægte skattejagt(n)</desc>
-    <date>2014</date>
-    <icon src="&quot;}" />
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20170116120000 +0100" stop="20170116123000 +0100" channel="DR1">
-    <title lang="da">Skattejægerne 2015</title>
-    <desc lang="da">Dansk dokumentarserie. Alle kneb er i brug, når bilforhandleren Søren Sørensen skal handle om to velholdte veteranbiler. Marskandiserne Mads Ejlersen og Jens Guldsmed-Thomsen svinger bydeskiltet flittigt til en auktion i Aalborg. Og rekvisitørparret Pia Rosholm og Jacob Dahl er på jagt efter cykler til Korsbæk på Bakken(n)</desc>
-    <date>2014</date>
-    <icon src="B_47896295_01.JPG" />
-  </programme>
-  <programme start="20170116123000 +0100" stop="20170116131000 +0100" channel="DR1">
-    <title lang="da">Spise med Price på tur</title>
-    <desc lang="da">Dansk madserie. Hvorfor steger Brødrene Price mozzarellaost i en hestevogn? Kan man lave saltimbocca udendørs, når det regner? Og var det egentlig Adam, der spiste mormors Blomme i Madeira, dengang James fik skylden? Få svarene, og tips til skønne italienske retter. Første gang er de taget til Rom – den evige stad, for at gøre romerne madkunsten efter(n)</desc>
-    <date>2013</date>
-    <icon src="B_47896296_01.JPG" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20170116131000 +0100" stop="20170116135500 +0100" channel="DR1">
-    <title lang="da">Hammerslag 2013</title>
-    <desc lang="da">Dansk boligmagasin. Programmet besøger de danske øer. Vi lægger ud på Læsø med et klassisk sommerhus med udsigt til vandet og græs på taget. Næste ejendom ligger også på Læsø og er lidt af en verdenssensation – et tang-tænget hus som kulturstyrelsen ejer. Sidste bolig er et arkitekttegnet sommerhus på Samsø(n)</desc>
-    <date>2013</date>
-    <icon src="B_47896297_01.JPG" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20170116135500 +0100" stop="20170116152500 +0100" channel="DR1">
-    <title lang="da">Dommer John Deed</title>
-    <desc lang="da">Engelsk dramaserie. Trods den røde kåbe og parykken er John Deed ikke nogen helt almindelig højesteretsdommer. Deed har sin egen, ligefremme stil, og den falder ikke altid i god jord hos hans kolleger. Den idealistiske dommer havner i et dilemma, da hans datter anholdes for at have ødelagt genmanipulerede afgrøder. Hvis han skal redde hende, må han være yderst forsigtig. Deed har nemlig magtfulde fjender, der blot venter på, at han laver et fejltrin(n)</desc>
-    <date>2001</date>
-    <icon src="B_47896298_01.JPG" />
-    <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20170116152500 +0100" stop="20170116161000 +0100" channel="DR1">
-    <title lang="da">Hun så et mord</title>
-    <desc lang="da">Amerikansk krimiserie. Et mindre uheld sender Jessica på hospitalet, hvor hendes fod skal i gips. På hospitalet bliver Jessica vidne til en masse større og mindre intriger – og til et mord(n)</desc>
-    <date>1985</date>
-    <icon src="&quot;}" />
-    <episode-num system="onscreen">S1E21</episode-num>
-  </programme>
-  <programme start="20170116161000 +0100" stop="20170116170000 +0100" channel="DR1">
-    <title lang="da">Hun så et mord</title>
-    <desc lang="da">Amerikansk krimiserie. Jessica bliver indblandet i en mordsag, da hun tager til Palm Springs for at møde sin gamle studiekammerat Peggy. Ofret er Peggys mand showbusiness-stjernen Johnny Shannon. Listen over mistænkte er lang, for den temperamentsfulde Johnny var en mand med mange fjender(n)</desc>
-    <date>1985</date>
-    <icon src="&quot;}" />
-    <episode-num system="onscreen">S1E22</episode-num>
-  </programme>
-  <programme start="20170116170000 +0100" stop="20170116175000 +0100" channel="DR1">
-    <title lang="da">Landsbyhospitalet</title>
-    <desc lang="da">Engelsk dramaserie. Elsinby står på den anden ende, da popstjernen Dorcas kommer til byen for at give koncert. Men Dorcas har personlige problemer, der sender hende en tur på hospitalet. Samtidig vender Dr. Goodwin hjem til England fra Afrika med den forældreløse Nkeshi. Men hans planer for Nkeshis fremtid møder modstand(n)</desc>
-    <date>2007</date>
-    <icon src="B_47896301_01.JPG" />
-    <episode-num system="onscreen">S6E53</episode-num>
-  </programme>
-  <programme start="20170116175000 +0100" stop="20170116180000 +0100" channel="DR1">
-    <title lang="da">TV-avisen</title>
-    <desc lang="da">",(n)</desc>
-    <date>2017</date>
-    <icon src="B_47896302_01.JPG" />
-  </programme>
-  <programme start="20170116180000 +0100" stop="20170116183000 +0100" channel="DR1">
-    <title lang="da">Auktionshuset</title>
-    <desc lang="da">Dansk dokumentarserie. I Bredgade har Jesper Bruun Rasmussen i dag til opgave at sælge moderne kunst. Dagens hovedattraktion er en sjældenhed uden lige, for Auktionshuset kan for første gang nogensinde udbyde et maleri af den eftertragtede østrigske kunstner Max Oppenheimer. Da det tilmed er et af hans ypperste værker med en vurdering på 750.000-1 million kroner, er især eksperterne fra moderne afdeling Niels Raben og Niels Boe Hauggaard spændte på auktionens udfald. Imens tager salgs- og vurderingschef Kasper Nielsen til Hillerød. Her skal han se på en antik spisestue hos byens tidligere borgmester. Kasper har en forhåbning om, at der i hjemmet kan være flere spændende ting at komme efter – og han får sig da også noget af en overraskelse(n)</desc>
-    <date>2014</date>
-    <icon src="B_47896303_01.JPG" />
-    <episode-num system="onscreen">E8</episode-num>
-  </programme>
-  <programme start="20170116183000 +0100" stop="20170116185500 +0100" channel="DR1">
-    <title lang="da">TV-avisen</title>
-    <desc lang="da">",(n)</desc>
-    <date>2017</date>
-    <icon src="B_47896304_01.JPG" />
-  </programme>
-  <programme start="20170116185500 +0100" stop="20170116190500 +0100" channel="DR1">
-    <title lang="da">Vores vejr</title>
-    <desc lang="da">",(n)</desc>
-    <date>2017</date>
-    <icon src="B_47896305_01.JPG" />
-  </programme>
-  <programme start="20170116190500 +0100" stop="20170116195500 +0100" channel="DR1">
-    <title lang="da">Aftenshowet</title>
-    <desc lang="da">DR1's journalistiske talkshow direkte fra Rådhuspladsen i København(n)</desc>
-    <date>2017</date>
-    <icon src="B_47896306_01.JPG" />
-  </programme>
-  <programme start="20170116195500 +0100" stop="20170116200000 +0100" channel="DR1">
-    <title lang="da">TV-avisen</title>
-    <desc lang="da">",(n)</desc>
-    <date>2017</date>
-    <icon src="B_47896307_01.JPG" />
-  </programme>
-  <programme start="20170116200000 +0100" stop="20170116204500 +0100" channel="DR1">
-    <title lang="da">Kender du typen?</title>
-    <desc lang="da">Dansk dokumentarserie. Aftenens kendte hovedperson har skiftet storbylivet og caffe latterne ud med en tilværelse på landet og hjemmebrygget kaffe – og det har ikke været uden kultursammenstød. Det og meget mere lærer livsstilseksperterne Anne Glad og Flemming Møldrup om den hemmelige hovedperson, inden de til sidst skal regne ud, hvilken kendt dansker de er på besøg hos(n)</desc>
-    <date>2016</date>
-    <icon src="B_47896308_01.JPG" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20170116204500 +0100" stop="20170116213000 +0100" channel="DR1">
-    <title lang="da">DR1 Dokumentaren: Lykken på Fyn</title>
-    <desc lang="da">Dansk dokumentar. Michelle ville ikke have noget imod at gå med tørklæde, hvis hun skulle rejse til Iran. Hun er født og opvokset i Danmark og har haft et helt andet liv end hendes iranske mor og mormor. De er begge meget kritiske i forhold til at dække sig til efter ordre, da Michelles mor altid har drømt om et liv som danskerne(n)</desc>
-    <date>2015</date>
-    <icon src="B_47896309_01.JPG" />
-  </programme>
-  <programme start="20170116213000 +0100" stop="20170116215500 +0100" channel="DR1">
-    <title lang="da">TV-avisen</title>
-    <desc lang="da">",(n)</desc>
-    <date>2017</date>
-    <icon src="B_47896310_01.JPG" />
-  </programme>
-  <programme start="20170116215500 +0100" stop="20170116222000 +0100" channel="DR1">
-    <title lang="da">Horisont: Farvel til Obama</title>
-    <desc lang="da">Hvordan vil vi huske Obama? Programmet ser tilbage på otte år med USA's første sorte præsident(n)</desc>
-    <date>2017</date>
-    <icon src="B_47896311_01.JPG" />
-  </programme>
-  <programme start="20170116222000 +0100" stop="20170116223000 +0100" channel="DR1">
-    <title lang="da">Sporten med VM-håndbold</title>
-    <desc lang="da">",(n)</desc>
-    <date>2017</date>
-    <icon src="&quot;}" />
-  </programme>
-  <programme start="20170116223000 +0100" stop="20170117000000 +0100" channel="DR1">
-    <title lang="da">Wallander: Ildspor</title>
-    <desc lang="da">Svensk-engelsk krimiserie. En teenagepige vandrer alene rundt på en mark. Kommissær Kurt Wallander bliver tilkaldt, men da han når frem, overhælder pigen sig selv med benzin og sætter ild til. Pigen brænder op for øjnene af den chokerede politimand, der sætter alt ind på at finde ud hvorfor. Wallander får ikke mindre at se til, da en tidligere justitsminister findes myrdet og skalperet. Hvilken sammenhæng er der mellem de to sager?(n)</desc>
-    <date>2008</date>
-    <icon src="B_47896313_01.JPG" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20170116070000 +0100" stop="20170116074500 +0100" channel="DR2">
-    <title lang="da">Jersild minus spin</title>
-    <desc lang="da">Jens Olaf Jersild og hans panel skærer igennem spin og mediebilleder for at finde ud af hvad der reelt foregår i dansk politik(n)</desc>
-    <date>2017</date>
-    <icon src="B_47923397_01.JPG" />
-  </programme>
-  <programme start="20170116074500 +0100" stop="20170116083000 +0100" channel="DR2">
-    <title lang="da">Felix og Vagabonden II</title>
-    <desc lang="da">Dansk dokumentarserie. Kom med hjemløse Henning og hans bedste ven, hunden Felix, på endnu en eventyrlig og livsbekræftende rejse gennem Danmark. Når Felix og vagabonden atter sætter sig på cyklen og drager ud i sommerlandet for at møde danskerne. Hennings drøm om at få et hjem med hygge og varme fylder mere og mere – men hvor og hvordan kan han få det? Og er der mon en kvinde derude til Henning? Det kan clairvoyanten Leah i Nivå måske hjælpe ham med at få svar på, når hun inviterer på hjemmelavet lagkage i haven. Felix er i hopla, da han opdager, at han skal besøge sin mor, Holly(n)</desc>
-    <date>2017</date>
-    <icon src="B_47923398_01.JPG" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20170116083000 +0100" stop="20170116091500 +0100" channel="DR2">
-    <title lang="da">Vi ses hos Clement</title>
-    <desc lang="da">Modsætninger mødes, når hovedpersonerne fra nyhedsstrømmen er i studiet hos Clement Kjersgaard. Direkte fra DR-Byen(n)</desc>
-    <date>2017</date>
-    <icon src="B_47923399_01.JPG" />
-  </programme>
-  <programme start="20170116091500 +0100" stop="20170116100000 +0100" channel="DR2">
-    <title lang="da">Jersild minus spin</title>
-    <desc lang="da">Jens Olaf Jersild og hans panel skærer igennem spin og mediebilleder for at finde ud af hvad der reelt foregår i dansk politik(n)</desc>
-    <date>2017</date>
-    <icon src="B_47923400_01.JPG" />
-  </programme>
-  <programme start="20170116100000 +0100" stop="20170116104500 +0100" channel="DR2">
-    <title lang="da">Felix og Vagabonden II</title>
-    <desc lang="da">Dansk dokumentarserie. Kom med hjemløse Henning og hans bedste ven, hunden Felix, på endnu en eventyrlig og livsbekræftende rejse gennem Danmark. Når Felix og vagabonden atter sætter sig på cyklen og drager ud i sommerlandet for at møde danskerne. Hennings drøm om at få et hjem med hygge og varme fylder mere og mere – men hvor og hvordan kan han få det? Og er der mon en kvinde derude til Henning? Det kan clairvoyanten Leah i Nivå måske hjælpe ham med at få svar på, når hun inviterer på hjemmelavet lagkage i haven. Felix er i hopla, da han opdager, at han skal besøge sin mor, Holly(n)</desc>
-    <date>2017</date>
-    <icon src="B_47923401_01.JPG" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20170116104500 +0100" stop="20170116112500 +0100" channel="DR2">
-    <title lang="da">Vi ses hos Clement</title>
-    <desc lang="da">Modsætninger mødes, når hovedpersonerne fra nyhedsstrømmen er i studiet hos Clement Kjersgaard. Direkte fra DR-Byen(n)</desc>
-    <date>2017</date>
-    <icon src="B_47923402_01.JPG" />
-  </programme>
-  <programme start="20170116112500 +0100" stop="20170116121000 +0100" channel="DR2">
-    <title lang="da">Jersild minus spin</title>
-    <desc lang="da">Jens Olaf Jersild og hans panel skærer igennem spin og mediebilleder for at finde ud af hvad der reelt foregår i dansk politik(n)</desc>
-    <date>2017</date>
-    <icon src="B_47896344_01.JPG" />
-  </programme>
-  <programme start="20170116121000 +0100" stop="20170116125500 +0100" channel="DR2">
-    <title lang="da">Felix og Vagabonden II</title>
-    <desc lang="da">Dansk dokumentarserie. Kom med hjemløse Henning og hans bedste ven, hunden Felix, på endnu en eventyrlig og livsbekræftende rejse gennem Danmark. Når Felix og vagabonden atter sætter sig på cyklen og drager ud i sommerlandet for at møde danskerne. Hennings drøm om at få et hjem med hygge og varme fylder mere og mere – men hvor og hvordan kan han få det? Og er der mon en kvinde derude til Henning? Det kan clairvoyanten Leah i Nivå måske hjælpe ham med at få svar på, når hun inviterer på hjemmelavet lagkage i haven. Felix er i hopla, da han opdager, at han skal besøge sin mor, Holly(n)</desc>
-    <date>2017</date>
-    <icon src="B_47923403_01.JPG" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20170116125500 +0100" stop="20170116133500 +0100" channel="DR2">
-    <title lang="da">Vi ses hos Clement</title>
-    <desc lang="da">Modsætninger mødes, når hovedpersonerne fra nyhedsstrømmen er i studiet hos Clement Kjersgaard. Direkte fra DR-Byen(n)</desc>
-    <date>2017</date>
-    <icon src="B_47923404_01.JPG" />
-  </programme>
-  <programme start="20170116133500 +0100" stop="20170116141000 +0100" channel="DR2">
-    <title lang="da">Fedt, Fup og Flæskesteg</title>
-    <desc lang="da">Dansk dokumentarserie. Hvor meget bliver vi fuppet og vildledt, når vi køber mad? Hvilke tricks bruger industrien? Hvorfor er vi så lette ofre? Thomas Breinholt undersøger med sin chauffør Kurt hvilke skjulte mekanismer, der er i sving, når vi køber ind. Et eksperiment afslører, at fødevareindustriens mærkningsordning er direkte vildledende. Og Kurt bliver forbløffet over at opdage, hvor mange produkter, der tager ham ved næsen(n)</desc>
-    <date>2011</date>
-    <icon src="B_47923405_01.JPG" />
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20170116141000 +0100" stop="20170116145500 +0100" channel="DR2">
-    <title lang="da">Hairy Bikers – det bedste britiske</title>
-    <desc lang="da">Engelsk madserie. Dave Myers og Simon King, der sammen udgør Hairy Bikers, tror fuldt og fast på, at Storbritanniens har de mest fremragende fødevarer og fødevareproducenter. I denne serie, der nok skal drive mundvandet frem, udforsker de landets kulinariske arv og undersøger, hvordan de enkelte retter er blevet til, for bag de måltider, vi spiser, ligger der ofte en fascinerende kulturel, social og økonomisk historie. Deuden tilbereder de i hvert program to lækre hovedretter(n)</desc>
-    <date>2011</date>
-    <icon src="B_47896348_01.JPG" />
-    <episode-num system="onscreen">E7</episode-num>
-  </programme>
-  <programme start="20170116145500 +0100" stop="20170116154000 +0100" channel="DR2">
-    <title lang="da">Hairy Bikers – det bedste britiske</title>
-    <desc lang="da">Engelsk madserie. Dave Myers og Simon King, der sammen udgør Hairy Bikers, tror fuldt og fast på, at Storbritanniens har de mest fremragende fødevarer og fødevareproducenter. I denne serie, der nok skal drive mundvandet frem, udforsker de landets kulinariske arv og undersøger, hvordan de enkelte retter er blevet til, for bag de måltider, vi spiser, ligger der ofte en fascinerende kulturel, social og økonomisk historie. Deuden tilbereder de i hvert program to lækre hovedretter(n)</desc>
-    <date>2011</date>
-    <icon src="B_47896349_01.JPG" />
-    <episode-num system="onscreen">E8</episode-num>
-  </programme>
-  <programme start="20170116154000 +0100" stop="20170116162000 +0100" channel="DR2">
-    <title lang="da">Nak &amp; Æd - En helleflynder i Norge</title>
-    <desc lang="da">Dansk madserie. Det er maj, og sommeren står for døren. Men på den norske øgruppe Lofoten, som ligger nord for polarcirklen, er vejret stadig råt og omskifteligt. Jørgen og Nikolaj er taget hele den lange vej for at få lov at fiske i nogle af verdens fineste farvande. Og målet er den enorme helleflynder, som kan blive så stor som en bordplade. Men der er selvfølgelig også et alternativ, hvis der ikke kommer noget på krogen. Denne gang er det mink(n)</desc>
-    <date>2012</date>
-    <icon src="B_47896350_01.JPG" />
-    <episode-num system="onscreen">S3E5</episode-num>
-  </programme>
-  <programme start="20170116162000 +0100" stop="20170116170000 +0100" channel="DR2">
-    <title lang="da">Nak &amp; Æd - en rype i Norge</title>
-    <desc lang="da">Dansk madserie. Det er blevet september, og efterårets jagtsæson er startet. Også i Norge hvor rypejagten er gået ind. Jørgen og Nikolaj er derfor taget til Grautheller i det sydlige Norge, for at prøve at få ram på en. Men det er svært at få øje på fuglene i de store fjelde, så heldigvis får de hjælp af en af landets bedste rypehunde – og dens ejer(n)</desc>
-    <date>2012</date>
-    <icon src="B_47896351_01.JPG" />
-    <episode-num system="onscreen">S3E6</episode-num>
-  </programme>
-  <programme start="20170116170000 +0100" stop="20170116184500 +0100" channel="DR2">
-    <title lang="da">DR2 Dagen</title>
-    <desc lang="da">",(n)</desc>
-    <date>2017</date>
-    <icon src="B_47896352_01.JPG" />
-  </programme>
-  <programme start="20170116184500 +0100" stop="20170116200000 +0100" channel="DR2">
-    <title lang="da">Da FBI blev hængt til tørre</title>
-    <desc lang="da">Amerikansk dokumentar. Samme aften, som titelkampen mellem Muhammad Ali og Joe Frazier i marts 1971 fik millioner af amerikanere til at sidde klinet til skærmen, brød fem almindelige borgere ind på et FBI-kontor i Philidelphia og stjal hundredvis af sagsakter, der anonymt blev sendt videre til udvalgte journalister og politikere. Akterne beviste, at FBI målbevidst forsøgte at skræmme og true borgerrettighedsaktivister og krigsmodstandere. Sammen med Watergate var afsløringerne med til at få nedsat en kongreskommite, der endte med at begrænse efterretningstjenesternes ret til at overvåge borgerne. Ingen af de fem aktivister er nogesinde før stået frem, men det gør de her, hvor de fortæller deres historie(n)</desc>
-    <date>2014</date>
-    <icon src="B_47923406_01.JPG" />
-  </programme>
-  <programme start="20170116200000 +0100" stop="20170116204500 +0100" channel="DR2">
-    <title lang="da">Jeg vil leve, til jeg dør</title>
-    <desc lang="da">Dansk dokumentar. Tina var nygift og havde små børn, da hun fik konstateret uhelbredelig æggestokkræft. Tre gange er hun flyttet hjem fra hospice, men til trods for sin dødelige sygdom, har hun dedikeret sit liv til at leve. I syv år har hun og hendes familie skulle forholde sig til døden hver eneste dag, men Tina er fast besluttet på, at døden ikke skal styre hendes liv, hun vil have det fulde ud af det, så længe hun har det. I otte måneder har DR2 fulgt Tina og hendes familie, i glæder og sorger, i et opgør med livets sidste store tabu – døden(n)</desc>
-    <date>2016</date>
-    <icon src="B_47896354_01.JPG" />
-  </programme>
-  <programme start="20170116204500 +0100" stop="20170116213000 +0100" channel="DR2">
-    <title lang="da">Lægen flytter ind III</title>
-    <desc lang="da">Dansk dokumentarserie. 11-årige Grunk fra Taastrup har på et år taget ti kilo på og er i så dårlig form, at han er rykket ned på tredjeholdet i fodbold. Hans største ønske er at komme tilbage og spille med sine gamle holdkammerater. Så læge Charlotte Bøving flytter ind hos familien for at få mere sundhed ind i hverdagen og få Grunk i god form igen. 70% af børnene tager overvægten med ind i deres voksenliv. Og de har større risiko for tidligt at udvikle livstilssygdomme som diabetes og hjertekarsygdomme(n)</desc>
-    <date>2016</date>
-    <icon src="B_47934413_01.JPG" />
-    <episode-num system="onscreen">S3E3</episode-num>
-  </programme>
-  <programme start="20170116213000 +0100" stop="20170116223000 +0100" channel="DR2">
-    <title lang="da">Skilsmisse bag lukkede døre</title>
-    <desc lang="da">Engelsk dokumentarserie. Der bliver lovet troskab i medgang og modgang ved vielsen. Men langfra alle ægteskaber holder hele livet igennem. Her følger vi en gruppe britiske par, der ligger i skilsmisse. Situationen mellem parterne er betændt, så de har opsøgt hjælp hos National Family Mediation, som er en organisation, der mægler og rådgiver i forhold til konflikter, økonomi, utroskab og deleordning med børn(n)</desc>
-    <date>2016</date>
-    <icon src="B_47896356_01.JPG" />
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20170116223000 +0100" stop="20170116230000 +0100" channel="DR2">
-    <title lang="da">Deadline</title>
-    <desc lang="da">Aktualitetsprogram. Udfordrende og overraskende perspektiver på dagens og tidens væsentligste historier(n)</desc>
-    <date>2017</date>
-    <icon src="B_47896357_01.JPG" />
-  </programme>
-  <programme start="20170116230000 +0100" stop="20170117000500 +0100" channel="DR2">
-    <title lang="da">Otte år med Obama</title>
-    <desc lang="da">Amerikansk dokumentarserie. I 2008 vinder Barack Obama en historisk sejr over republikaneren John McCain. Han bliver den første afro-amerikanske præsident, og hans løfter om en sundhedsreform, at ende Irak-krigen og bekæmpe klimaproblemer giver håb verden over. En spritny dokumentarserie sætter fokus på præsidentens første valgperiode, hvor visionerne er store, men den økonomiske krise kræver, at han sætter dem på pause. Han gennemfører derfor store økonomiske hjælpepakker for at stimulere økonomien(n)</desc>
-    <date>2015</date>
-    <icon src="B_47896358_01.JPG" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20170116060000 +0100" stop="20170116090500 +0100" channel="DR3">
-    <title lang="da">Morgengymnastikken: Tonet krop, løbeteknik og fridans</title>
-    <desc lang="da">I dette afsnit skal vi lave tre forskellige træninger. Vi starter med at tone vores krop med Yvonne, og så skal vi lave løbetræning med Peter. Vi slutter af med 'fridans' med Barthelot, Louise, Selma og Sophus(n)</desc>
-    <date>2015</date>
-    <icon src="B_47896388_01.JPG" />
-  </programme>
-  <programme start="20170116090500 +0100" stop="20170116093000 +0100" channel="DR3">
-    <title lang="da">Selvoptaget</title>
-    <desc lang="da">Dansk dokumentarserie. Peter Birch har oplevet, at det ikke altid er lykken, når den kulørte presse dækker alt, hvad der foregår i ens kærlighedsliv(n)</desc>
-    <date>2014</date>
-    <icon src="B_47896389_01.JPG" />
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20170116093000 +0100" stop="20170116100500 +0100" channel="DR3">
-    <title lang="da">Selvoptaget</title>
-    <desc lang="da">Dansk dokumentarserie. Nicolai Schwartz jagter konstant en plads i ugebladene og bliver skuffet, da en bytur med makeup-artisten Dennis Knudsen ikke resulterer i et billede i(n)</desc>
-    <date>2014</date>
-    <icon src="B_47896390_01.JPG" />
-    <episode-num system="onscreen">E4</episode-num>
-  </programme>
-  <programme start="20170116100500 +0100" stop="20170116105000 +0100" channel="DR3">
-    <title lang="da">Ekstremløb til Sydpolen</title>
-    <desc lang="da">Engelsk dokumentarserie. Eventyreren Richard Parks vil sætte fartrekord i at krydse Antarktis på ski helt til Sydpolen. For at forberede sig på missionen kaster Richard sig ud i tre af verdens mest udmattende udfordringer; den 230 km lange Jungle Ultra – er et af verdens hårdeste løb i hjertet af Amazonas, et benhårdt mountainbikeløb i Himalayabjergene og The Brutal, et ultratriatlon uden stop. Følg Richard, når han lægger ud med at deltage i verdens højestliggende mountainbikeløb Yak Attack i Nepal(n)</desc>
-    <date>2014</date>
-    <icon src="B_47896391_01.JPG" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20170116105000 +0100" stop="20170116113500 +0100" channel="DR3">
-    <title lang="da">Ekstremløb til Sydpolen</title>
-    <desc lang="da">Engelsk dokumentarserie. Eventyreren Richard Parks vil sætte fartrekord i at krydse Antarktis på ski helt til Sydpolen. For at forberede sig på missionen kaster Richard sig ud i nogle af verdens mest udmattende ekstremsportsudfordringer. Og nu er turen kommet til det 230 km lange Jungle Ultra i Peru, som svarer til fem maratonløb på kun fem dage – gennem en af verdens mest ugæstfri jungler(n)</desc>
-    <date>2014</date>
-    <icon src="B_47896392_01.JPG" />
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20170116113500 +0100" stop="20170116122000 +0100" channel="DR3">
-    <title lang="da">Cars That Rock: Lamborghini</title>
-    <desc lang="da">Canadisk dokumentarserie. AC/DC-forsangeren Brian Johnson er fuldstændig opslugt af biler og vil gerne dele sin passion for biler med resten af verden. Han drager derfor ud på en rejse og tager en række ikoniske bilmærker under kærlig behandling. Denne gang går Johnson om bord i et ægte italiensk ikon, nemlig Lamborghini'en, der af mange associeres med lidenskab, sex, uforudsigelighed og frækhed(n)</desc>
-    <date>2014</date>
-    <icon src="B_47896393_01.JPG" />
-  </programme>
-  <programme start="20170116122000 +0100" stop="20170116124500 +0100" channel="DR3">
-    <title lang="da">Fif TV</title>
-    <desc lang="da">I dag skal vært Ragnhild Gjettermann lære at opføre sig ordentligt, i dag handler Fif TV nemlig om takt og tone. Ragnhild kommer blandt andet på prøve, da hun får sine bedste veninder på besøg til middag og skal agere en god vært(n)</desc>
-    <date>2014</date>
-    <icon src="B_47896394_01.JPG" />
-    <episode-num system="onscreen">E38</episode-num>
-  </programme>
-  <programme start="20170116124500 +0100" stop="20170116134000 +0100" channel="DR3">
-    <title lang="da">Secrets of the Superbrands</title>
-    <desc lang="da">Engelsk dokumentarserie. Hvad er hemmeligheden bag verdens mest magtfulde brands? Og hvad får os til at købe dem? Tv-værten Alex Riley tager et kig på nogle af verdens største teknologiske brands. Han møder nogle af de supernørder, som er i gang med at opfinde fremtiden, og han finder ud af, hvordan nogle af verdens mest magtfulde virksomheder i virkeligheden tjener deres milliarder(n)</desc>
-    <icon src="B_47896395_01.JPG" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20170116134000 +0100" stop="20170116150000 +0100" channel="DR3">
-    <title lang="da">Velkommen til Ängelby</title>
-    <desc lang="da">Svensk dramaserie. Politifolkene Amos og Viveka anholder den unge Jespers morder. Samtidig har Vera fundet ud af, at hun har en ganske særlig opgave at udføre i Ängelby. Nedtællingen er begyndt. Men til hvad?(n)</desc>
-    <date>2015</date>
-    <icon src="B_47896396_01.JPG" />
-    <episode-num system="onscreen">E6</episode-num>
-  </programme>
-  <programme start="20170116150000 +0100" stop="20170116163500 +0100" channel="DR3">
-    <title lang="da">Sky High</title>
-    <desc lang="da">Amerikansk familiefilm fra 2005. Teenageren Will Stronghold er søn af verdens mest legendariske superhelte The Commander og Jetstream. Da Will skal starte i gymnasiet, er der derfor kun en skole, han kan gå på – nemlig eliteskolen Sky High, som former kommende superhelte. Der er bare lige ét problem – Will Stronghold ejer tilsyneladende ikke skyggen af superkræfter(n)</desc>
-    <date>2005</date>
-    <icon src="B_47896397_01.JPG" />
-  </programme>
-  <programme start="20170116163500 +0100" stop="20170116172000 +0100" channel="DR3">
-    <title lang="da">Hjernevasket: Trofæjæger</title>
-    <desc lang="da">Engelsk dokumentarserie. Den britiske tv-vært Stacey Dooley rejser til Afrika og tilbringer to uger med en række inkarnerede sportsjægere. Stacey skal lære at jage og skyde storvildt og prøve at forstå, hvorfor disse trofæjægere nyder at skyde sjældne, vilde dyr. Vil Stacey lære at forstå jægernes kontroversielle passion, når hun får indblik i deres verden?(n)</desc>
-    <date>2015</date>
-    <icon src="B_47896398_01.JPG" />
-  </programme>
-  <programme start="20170116172000 +0100" stop="20170116180500 +0100" channel="DR3">
-    <title lang="da">Kosmos: En rejse i tid og rum</title>
-    <desc lang="da">",(n)</desc>
-    <date>2014</date>
-    <icon src="B_47966113_01.JPG" />
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20170116180500 +0100" stop="20170116182500 +0100" channel="DR3">
-    <title lang="da">Dexpedition: Ibiza</title>
-    <desc lang="da">Norsk rejseserie. Dex Carrington og vennen Fab rejser Europa rundt for at udforske en række populære storbyer. Men glem alt om historie og arkitektur – fyrenes mission er at finde ud, hvordan man kan have mest mulig sjov. Her drager de til Ibiza, hvor det flyder med vin og letpåklædte kvinder(n)</desc>
-    <date>2011</date>
-    <icon src="&quot;}" />
-  </programme>
-  <programme start="20170116182500 +0100" stop="20170116191000 +0100" channel="DR3">
-    <title lang="da">The Tonight Show med Jimmy Fallon</title>
-    <desc lang="da">En veloplagt Jimmy Fallon har kendte gæster i studiet, og husbandet The Roots leverer musikalske indslag(n)</desc>
-    <date>2016</date>
-    <icon src="B_47896401_01.JPG" />
-  </programme>
-  <programme start="20170116191000 +0100" stop="20170116193000 +0100" channel="DR3">
-    <title lang="da">Family Guy</title>
-    <desc lang="da">Amerikansk animationsserie. Brian går til audition på en teaterskole. Han bliver en dundrende fiasko, men til gengæld bliver Stewie optaget på skolen. Samtidig får Meg sig langt om længe en kæreste – som er nudist(n)</desc>
-    <date>2001</date>
-    <icon src="B_47966114_01.JPG" />
-    <episode-num system="onscreen">E46</episode-num>
-  </programme>
-  <programme start="20170116193000 +0100" stop="20170116195500 +0100" channel="DR3">
-    <title lang="da">Family Guy</title>
-    <desc lang="da">Amerikansk animationsserie. Lois sniger sig ud for at drikke kaffe med en gammel kæreste. Da Peter opdager det, beslutter han sig for at gøre Lois jaloux ved at opstøve sine egne gamle kærester(n)</desc>
-    <date>2001</date>
-    <icon src="B_47966115_01.JPG" />
-    <episode-num system="onscreen">E47</episode-num>
-  </programme>
-  <programme start="20170116195500 +0100" stop="20170116202000 +0100" channel="DR3">
-    <title lang="da">Verdens vildeste TV: Rusland</title>
-    <desc lang="da">Amerikansk dokumentarserie. Tv-personligheden Karla Carvalli rejser jorden rundt og udforsker nogle af verdens vildeste og sjoveste tv-shows. Her er Carvalli nået til Rusland, hvor de er vilde med tv. Faktisk ser 71 procent af befolkningen tv hver dag, og sendefladen er præget af programmer om det overnaturlige, stjernespækkede kunstskøjteløb og hjernevridende quizprogrammer(n)</desc>
-    <date>2016</date>
-    <icon src="B_47896404_01.JPG" />
-  </programme>
-  <programme start="20170116202000 +0100" stop="20170116204000 +0100" channel="DR3">
-    <title lang="da">Verdens vildeste TV: Indien</title>
-    <desc lang="da">Amerikansk dokumentarserie. Tv-personligheden Karla Carvalli rejser jorden rundt og udforsker nogle af verdens vildeste og sjoveste tv-shows. Nu er turen kommet til Indien, hvor de er vilde med højlydt og farverigt tv. Sendefladen er præget af dramaer, lige fra serier om topseje kvindelige betjente til krimiprogrammer, og så elsker inderne vilde underholdningsshows med Bollywooddans(n)</desc>
-    <date>2016</date>
-    <icon src="B_47896405_01.JPG" />
-  </programme>
-  <programme start="20170116204000 +0100" stop="20170116213000 +0100" channel="DR3">
-    <title lang="da">American High School</title>
-    <desc lang="da">Amerikansk reality-serie. Gennem et år har et tv-hold fulgt eleverne på Orangeburg-Wilkinson High School i South Carolina, hvor størstedelen af eleverne er afroamerikanere. Vi er med på sidelinjen, når skolens unge tackler de op- og nedture, der hører med til livet som studerende i et område, hvor narkotika, skyderier og teenagegraviditeter er hverdagskost(n)</desc>
-    <date>2016</date>
-    <icon src="B_47896406_01.JPG" />
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20170116213000 +0100" stop="20170116220000 +0100" channel="DR3">
-    <title lang="da">Efterlyst kærlighed</title>
-    <desc lang="da">Dansk reality-serie. I Lidl mødte Louise en kunde, som hun har tænkt på i fire år. Og da Fillip møder en kvinde i U-bahn i Berlin, slår hans hjerte et ekstra slag. Nu trodser de generthed og fordomme og går på jagt efter deres ukendte crush uden at vide, om følelsen er gengældt(n)</desc>
-    <date>2017</date>
-    <icon src="B_47896407_01.JPG" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20170116220000 +0100" stop="20170116221500 +0100" channel="DR3">
-    <title lang="da">Samtaler fra swingerklubben: Alting har en begyndelse</title>
-    <desc lang="da">Dansk reportageserie. I aften holdes der Halloween i Tucan Club i Kolding, hvor Ralf for første gang er taget i klub med kæresten Lizette og har en debut om en trekant i sigte. I City Swingers på Amager, fortæller Aut2boy om sine 20 års kamp for at gå i latextøj(n)</desc>
-    <date>2016</date>
-    <icon src="B_47896408_01.JPG" />
-  </programme>
-  <programme start="20170116221500 +0100" stop="20170117001500 +0100" channel="DR3">
-    <title lang="da">Kærestesorger</title>
-    <desc lang="da">Dansk drama fra 2009. Jonas og Agnete bliver kærester i 1. G på Viborg Katedralskole i 1960'ernes Danmark. Jonas er vellidt af alle, både kammerater og lærere, men er ikke videre arbejdsom i skolen. Agnete er en akademisk ambitiøs og begavet pige som til gengæld ikke er særlig moden i livets andre forhold og som tynges af et anspændt forhold til sin familie. Deres tid sammen fra 1. til 3. G byder på forelskelse, jalousi, kærestesorger og utroskab og vennerne Toke, Birger og Liselotte, vikles alle ind i Jonas og Agnetes turbulente forhold(n)</desc>
-    <date>2009</date>
-    <icon src="B_47896409_01.JPG" />
-  </programme>
-  <programme start="20170116060000 +0100" stop="20170116063000 +0100" channel="DR K">
-    <title lang="da">Nordisk Rum – børneværelset</title>
-    <desc lang="da">Dokumentarserie. Tre designeksperter besøger smukke nordiske hjem og undersøger, hvordan vi lever med nordisk design og hvem der er de vigtigste frontløbere i den nordiske designtradition. I dag er de på besøg i børneværelset, som er en relativt ny opfindelse. Først i 60erne bliver børneværelset en helt naturlig del af boligen, og i dag får et barn nyindrettet sit værelse flere gange i løbet af barndommen(n)</desc>
-    <date>2012</date>
-    <icon src="&quot;}" />
-  </programme>
-  <programme start="20170116063000 +0100" stop="20170116070000 +0100" channel="DR K">
-    <title lang="da">Historiske haver - Bregentved</title>
-    <desc lang="da">Dansk dokumentarserie. I haven ved Bregentved slot er vandspejlet – og dermed et af de vigtigste elementer i den landskabelige have – ved at forsvinde. Det skal der gøres noget ved nu(n)</desc>
-    <icon src="B_47895390_01.JPG" />
-  </programme>
-  <programme start="20170116070000 +0100" stop="20170116073000 +0100" channel="DR K">
-    <title lang="da">Solens mad</title>
-    <desc lang="da">Svensk madserie. På en kulinarisk rejse til ukendte byer i Italien skal vi på jagt efter det italienske køkkens virkelige skabere, nemlig kvinderne i alle aldre og med forskellig baggrund, men med det til fælles at de alle har en brændende passion for den gode mad. I dag er turen nået til Valli Tortonesi, et gammelt bondeland hvor tiden synes at være gået i stå. Dybt inde i skoven har tre kvinder, Anna Maria, hendes mor og moster, virkeliggjort en drøm om at leve helt tæt på naturen(n)</desc>
-    <date>2009</date>
-    <icon src="B_47895391_01.JPG" />
-    <episode-num system="onscreen">E4</episode-num>
-  </programme>
-  <programme start="20170116073000 +0100" stop="20170116080000 +0100" channel="DR K">
-    <title lang="da">Solens mad</title>
-    <desc lang="da">Svensk madserie. På en kulinarisk rejse rundt i Italien skal vi på jagt efter det italienske køkkens virkelige skabere, nemlig kvinderne i alle aldre og med forskellig baggrund, men med det til fælles at de alle har en brændende passion for den gode mad. I dag er turen nået til Toscana, hvor Maria, der i 1998 pludselig mistede sin mand og herefter stod alene med sine døtre, tog kampen op med egnens store vinproducenter. Sammen med døtrene driver hun med stort mod og talent nu familiens eget vinfirma, og væggene hjemme i køkkenet er fyldt med diplomer og priser(n)</desc>
-    <date>2009</date>
-    <icon src="B_47895392_01.JPG" />
-    <episode-num system="onscreen">E5</episode-num>
-  </programme>
-  <programme start="20170116080000 +0100" stop="20170116080500 +0100" channel="DR K">
-    <title lang="da">P2 Radioavis</title>
-    <desc lang="da">",(n)</desc>
-    <date>2013</date>
-    <icon src="B_47895393_01.JPG" />
-  </programme>
-  <programme start="20170116080500 +0100" stop="20170116082500 +0100" channel="DR K">
-    <title lang="da">Morgenandagten på DR K</title>
-    <desc lang="da">Morgenandagten sendes direkte fra Københavns Domkirke på P2, og på DRK ledsages den af malerier af Peter Holst Henckel(n)</desc>
-    <date>2016</date>
-    <icon src="B_47895394_01.JPG" />
-  </programme>
-  <programme start="20170116082500 +0100" stop="20170116083500 +0100" channel="DR K">
-    <title lang="da">Dagens sang</title>
-    <desc lang="da">- sunget af et af DR's kor(n)</desc>
-    <date>2012</date>
-    <icon src="B_47895395_01.JPG" />
-  </programme>
-  <programme start="20170116083500 +0100" stop="20170116092000 +0100" channel="DR K">
-    <title lang="da">Gudstjeneste fra Svendborg</title>
-    <desc lang="da">Sognepræst og provst Per Aas er gudstjenesten Anden søndag efter Helligtrekonger, hvor det handler om at gøre vand til vin. Dagens motet er med Vor Frue Kirkes Kantori under ledelse af organist Poul Chr. Balslev, der indleder eget præludium over, Se nu stiger solen. Vor Frue kirke ligger centralt i Svendborg, opført på byens højeste punkt ca. år 1200. Den ældste del af kirken er en senromansk langkirke i røde munkesten. I en senere gotisk byggefase kom sakristi, våbenhus og sideskibe til, koret blev ombygget og der blev opført hvælvinger. Tårnet er en senmiddelalderlig tilføjelse(n)</desc>
-    <date>2017</date>
-    <icon src="&quot;}" />
-  </programme>
-  <programme start="20170116092000 +0100" stop="20170116100500 +0100" channel="DR K">
-    <title lang="da">aHA!</title>
-    <desc lang="da">Dorte Høgh, Kamilla Gregersen og Anne Louise Hassing i dysten om det gode humør, den sjove historie og den dårlige hukommelse fra året 1995(n)</desc>
-    <date>2002</date>
-    <icon src="B_47895397_01.JPG" />
-  </programme>
-  <programme start="20170116100500 +0100" stop="20170116103500 +0100" channel="DR K">
-    <title lang="da">Den sidste sommer med fred</title>
-    <desc lang="da">Dokumentar. Axel Lange er født i 1920, og ved hjælp af sin families unikke smalfilmsoptagelser fortæller han om sin ungdom i 1930'erne og 40'erne(n)</desc>
-    <date>2013</date>
-    <icon src="B_47895398_01.JPG" />
-  </programme>
-  <programme start="20170116103500 +0100" stop="20170116111500 +0100" channel="DR K">
-    <title lang="da">Jagten på historien</title>
-    <desc lang="da">Færøerne har aldrig vedtaget at tilhøre nogen anden stat, og Danmark optræder i denne sag som Europas sidste kolonimagt!(n)</desc>
-    <date>2001</date>
-    <icon src="B_47895399_01.JPG" />
-    <episode-num system="onscreen">E5</episode-num>
-  </programme>
-  <programme start="20170116111500 +0100" stop="20170116115500 +0100" channel="DR K">
-    <title lang="da">Jagten på historien</title>
-    <desc lang="da">Det danske og danskheden diskuteres intenst i disse EU- og flygtningetider. Pastor Søren Krarup mener, at vi danskere har følt os som danske i 1000 år. Det skulle han have lavet en udstilling om i Sønderborg. Historikeren Søren Mørch hævder, at danskheden begyndte omkring 1800 og er slut nu. Derfor skrev han for nylig bogen(n)</desc>
-    <date>2001</date>
-    <icon src="B_47895400_01.JPG" />
-    <episode-num system="onscreen">E6</episode-num>
-  </programme>
-  <programme start="20170116115500 +0100" stop="20170116124500 +0100" channel="DR K">
-    <title lang="da">Abraham Lincoln</title>
-    <desc lang="da">Engelsk dokumentar. Den 14. april 1865 bliver en af historiens største præsidenter snigmyrdet på Ford's Theatre i Washington. Dette er historien om mordet på den tidligere amerikanske præsident Abraham Lincoln, der regerede USA fra 1861-1865. Gennem rekonstruktioner, interviews og arkivfotos bliver denne triste, historiske dag vakt til live igen(n)</desc>
-    <date>2015</date>
-    <icon src="B_47895401_01.JPG" />
-  </programme>
-  <programme start="20170116124500 +0100" stop="20170116132500 +0100" channel="DR K">
-    <title lang="da">Livet i den kriminelle underverden - i edderkoppens net</title>
-    <desc lang="da">Dansk dokumentarserie. Til alle tider har der været kriminelle i Danmark, men med besættelsen under 2. Verdenskrig organiserer sortbørshandleren Sven Åge Hasselstrøm – også kaldet Edderkoppen – de kriminelle omkring sig på Vesterbro. Og selvom Edderkoppen gerne ville fremstå uskyldsren, så var han det langt fra. Det kan hans lærling Lille Jørgen Danmark bevidne(n)</desc>
-    <icon src="B_47895402_01.JPG" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20170116132500 +0100" stop="20170116141000 +0100" channel="DR K">
-    <title lang="da">Hvornår var det nu, det var?</title>
-    <desc lang="da">Dansk quiz. En quiz om årstal med Gorm som vært. Sendt første gang 1995(n)</desc>
-    <date>1995</date>
-    <icon src="B_47951782_01.JPG" />
-  </programme>
-  <programme start="20170116141000 +0100" stop="20170116150000 +0100" channel="DR K">
-    <title lang="da">Hvornår var det nu, det var?</title>
-    <desc lang="da">En quiz om årstal med Gorm som vært. Sendt første gang 1995(n)</desc>
-    <date>1995</date>
-    <icon src="B_47951783_01.JPG" />
-  </programme>
-  <programme start="20170116150000 +0100" stop="20170116155000 +0100" channel="DR K">
-    <title lang="da">Rita Hayworth – gudinden skabt af mænd</title>
-    <desc lang="da">Fransk dokumentar. 'Jeg har åbenbert altid manglet evnen til at leve normalt, eller måske er livet bare én lang fejltagelse,og jeg dets primære offer'. Margarita Carmen Cansino blev født i 1918, og blev som Rita Hayworth med det flammende røde hår en af 1940'ernes mest sexede og glamourøse filmstjerner og et skønhedssymbol for både mænd og kvinder. Men allerede i 1970'erne tvang et dårligt helbred og en svigtende hukommelse hende til at holde op med at arbejde. Først i 1980 blev hun diagnosticeret med Alzheimers, og hendes skæbne var i høj grad med til at trække den på det tidspunkt nærmest glemte sygdom frem i lyset igen(n)</desc>
-    <date>2014</date>
-    <icon src="B_47895405_01.JPG" />
-  </programme>
-  <programme start="20170116155000 +0100" stop="20170116164000 +0100" channel="DR K">
-    <title lang="da">Vejen til Konstantinopel</title>
-    <desc lang="da">Amerikansk dokumentarserie. Den britiske historiker Jonathan Phillips fortæller i seks programmer om kristendommens tornede vej fra Mellemøsten til Konstantinopel. Phillips begynder sin rejse i Betlehem, og går med evangelierne som guide i Jesus fodspor fra hans fødsel og opvækst til hans gerninger, lidelser og genopstandelse(n)</desc>
-    <date>2014</date>
-    <icon src="B_47895406_01.JPG" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20170116164000 +0100" stop="20170116172500 +0100" channel="DR K">
-    <title lang="da">Anden Verdenskrig med russiske øjne</title>
-    <desc lang="da">Russisk dokumentarserie. Rzhev er det vigtigste jernbaneknudepunkt i det vestlige Sovjet og af afgørende betydning for forsyningerne til begge hære. Det ret ukendte slag om Rzhev er samtidig et af krigens blodigste, der i løbet af de tre år fra 1941-43, kampene om byen raser, koster tre millioner sovjetiske og en halv million tyske soldater livet. Blandt veteraner og historikere skal dette blodbad blive husket som 'kødhakkemaskinen' eller 'slagtehuset'(n)</desc>
-    <date>1941</date>
-    <icon src="B_47895407_01.JPG" />
-    <episode-num system="onscreen">E6</episode-num>
-  </programme>
-  <programme start="20170116172500 +0100" stop="20170116181000 +0100" channel="DR K">
-    <title lang="da">Anden Verdenskrig med russiske øjne</title>
-    <desc lang="da">Russisk dokumentarserie. I sommeren 1942 åbner Hitler en ny offensiv, operation Blå. Målet er oliefelterne i Kaukasus, men det store slag, der skal blive afgørende for udfaldet af krigen, kommer til at stå ved Stalingrad. I seks måneder kæmper hærene fra hus til hus i et blodigt slag, der kommer til at koste mellem en og to millioner soldater livet. Men den russiske vinter, manglende forsyninger og general Zjukovs knibtangsmanøvre, bliver skæbnesvanger for general Paulus, der til Hitlers raseri overgiver sig den 1. februar 1943 sammen med resterne af den tyske 6. arme(n)</desc>
-    <date>2011</date>
-    <icon src="B_47895408_01.JPG" />
-    <episode-num system="onscreen">E7</episode-num>
-  </programme>
-  <programme start="20170116181000 +0100" stop="20170116190000 +0100" channel="DR K">
-    <title lang="da">Monopolets helte - Otto Leisner</title>
-    <desc lang="da">Dansk dokumentarserie. Otto Leisner var tv-monopolets ukronede underholdningskonge, kendt for Fup og Fakta, Den Gyldne Pil og Hopla. Hos ham fik seerne et sorgløst frikvarter fra den alvorlige virkelighed. Men lige så meget seerne elskede ham, lige så meget var Leisner foragtet af tidens anmeldere og intellektuelle smagsdommere(n)</desc>
-    <date>2009</date>
-    <icon src="B_47895409_01.JPG" />
-  </programme>
-  <programme start="20170116190000 +0100" stop="20170116192500 +0100" channel="DR K">
-    <title lang="da">Pladeparade</title>
-    <desc lang="da">Dansk musik. Otto Leisner præsenterer Danmarks første TV-program om musik!(n)</desc>
-    <icon src="B_47895410_01.JPG" />
-  </programme>
-  <programme start="20170116192500 +0100" stop="20170116195500 +0100" channel="DR K">
-    <title lang="da">Portræt af Otto Leisner: OTTO - fortalt af Otto</title>
-    <desc lang="da">Dansk portræt. Otto Leisner er alle tiders største danske tv-vært. Ikke alene medvirkede han i hundredevis af programmer som studievært – han tog sig også tid til at fortælle om sit liv og sit livsværk i en række interviews. Det er disse interviews, der er materialet for dette portræt. Otto er dermed tilbage i værtsrollen(n)</desc>
-    <date>2014</date>
-    <icon src="B_47895411_01.JPG" />
-  </programme>
-  <programme start="20170116195500 +0100" stop="20170116200000 +0100" channel="DR K">
-    <title lang="da">Dagens sang</title>
-    <desc lang="da">- sunget af et af DR's kor(n)</desc>
-    <date>2012</date>
-    <icon src="B_47895412_01.JPG" />
-  </programme>
-  <programme start="20170116200000 +0100" stop="20170116203000 +0100" channel="DR K">
-    <title lang="da">Dansktoppens stjerner: Ulla Pia</title>
-    <desc lang="da">Dansk dokumentarserie. Ulla Pia var den unge pige fra arbejderklassen, som blev Danmarks dansktopdronning i 70´erne. Hun var gudesmuk, sang så det bragede og levede livet i fulde drag uden at miste jordforbindelsen. Selv kalder hun sig en rappenskralde, og siger at hun ikke kunne fordrage nogle af sine allerstørste landeplager som for eksempel sangen(n)</desc>
-    <date>2016</date>
-    <icon src="B_47895413_01.JPG" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20170116203000 +0100" stop="20170116210000 +0100" channel="DR K">
-    <title lang="da">Dansktoppen: Hadet og elsket</title>
-    <desc lang="da">Dansk dokumentarserie. Elsker du også (-at hade) Dansktoppen? Her ser genrens største stjerner som Keld Heick, Birthe Kjær, Johnny Reimar, Lis og Per og Johnny Hansen tilbage på deres karrierer, og fortæller historien om hvordan Dansktoppen er historien om et splittet Danmark. På den ene side har vi folket. De kan godt lide en god melodi og en tekst man kan synge med på. På den anden side har vi kultureliten. Kultureliten er stærkt repræsenteret i DR og i 1960'erne ser de det som deres pligt, at beskytte folket mod de populære slagere. Men genren overlever, og historien om dansktoppen er også en historie om ublu forretningsmænd, smukke sangerinder og en masse sange du ikke kan lade være med at synge med på, uanset hvor hårdt du prøver. Første program fortæller, hvordan det hele begyndte, og hvorfor det blev Sverige og ikke Danmark, der løb med sejren som Nordens førende popnation(n)</desc>
-    <date>2015</date>
-    <icon src="B_47895414_01.JPG" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20170116210000 +0100" stop="20170116213000 +0100" channel="DR K">
-    <title lang="da">Store danskere: John Mogensen</title>
-    <desc lang="da">Dansk portrætserie. John Mogensen døde i 1977, og de fleste danskere kender ham stadig som folkets John med de røde seler og de glade sange. Men bag den joviale facade kæmpede John Mogensen gennem hele sit liv med præstationsangst, alkohol og uforløste kunstnerdrømme. Få historien om en af Danmarks mest populære sangere gennem tiden i det første tv-portræt af John Mogensen nogensinde(n)</desc>
-    <date>2012</date>
-    <icon src="B_47895415_01.JPG" />
-  </programme>
-  <programme start="20170116213000 +0100" stop="20170116220000 +0100" channel="DR K">
-    <title lang="da">Danske musiklegender: Peter Belli</title>
-    <desc lang="da">Dansk dokumentarserie. Sangeren Peter Belli fortæller i denne portrætsamtale om en rå barndom med en hårdtarbejdende mor og en voldelig stedfar, om mødet med musikken og idoldyrkelsen i midttresserne, om mødet med June og dennes familie af gøglere, ikke mindst Junes mor, sandsigersken Corinta samt om venskabet med Poul Martin Bonde og vejen tilbage til rock'n'roll(n)</desc>
-    <date>2013</date>
-    <icon src="B_47895416_01.JPG" />
-  </programme>
-  <programme start="20170116220000 +0100" stop="20170116223000 +0100" channel="DR K">
-    <title lang="da">Danske musiklegender: Bent Fabricius-Bjerre</title>
-    <desc lang="da">Dansk dokumentarserie. Komponisten og musikeren Bent Fabricius-Bjerre fortæller i denne portrætsamtale om at blive professionel jazzmusiker som 16-årig, om at stifte eget pladeselskab som 26-årig og få succes med Nina &amp; Frederik og Jørgen Ingmann, hele historien om hans store amerikanske hit,(n)</desc>
-    <date>2013</date>
-    <icon src="B_47895417_01.JPG" />
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20170116223000 +0100" stop="20170116231500 +0100" channel="DR K">
-    <title lang="da">Grav i Anden Verdenskrig</title>
-    <desc lang="da">Engelsk dokumentarserie. Militærhistorikeren Dan Snow graver i bogstavelig forstand glemte slagmarker og historier op om Anden Verdenskrig ved bl.a. at opspore og tale med soldater, skibsfolk og civile fra begge sider af konflikten. Her udforsker han det indædte slag om Atlanten ved at grave et spitfirefly op, hvis kanoner stadig virker og dykke ned i en undervandskirkegård for kampvogne(n)</desc>
-    <date>2012</date>
-    <icon src="B_47895418_01.JPG" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20170116231500 +0100" stop="20170117000000 +0100" channel="DR K">
-    <title lang="da">Grav i Anden Verdenskrig</title>
-    <desc lang="da">Engelsk dokumentarserie. Militærhistorikeren Dan Snow graver i bogstavelig forstand glemte slagmarker og historier op om Anden Verdenskrig ved bl.a. at opspore og tale med soldater, skibsfolk og civile fra begge sider af konflikten. Dan Snow undersøger Canadas rolle i luftkrigen ved at dykke efter et vrag fra en berømt transatlantisk flystyrt, undersøger et hemmeligt, tysk missilaffyringsbunker og løser mysteriet om et andet tragisk flystyrt(n)</desc>
-    <date>2012</date>
-    <icon src="B_47895419_01.JPG" />
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20170116072500 +0100" stop="20170116082500 +0100" channel="TV3">
-    <title lang="da">Real Housewives of Beverly Hills 2</title>
-    <desc lang="da">Amerikansk realityserie fra 2011 Spændingerne når et nyt højdepunkt da Adriennes NBA-hold star overfor potentielle forandringer og hendes familie oplever vrede fra fansene under en kamp. Kyle er vært for et velgørenhedsarrangement, hvor en ny pige, Brandi, deltager. Denne kritikerroste serie giver os et indblik i en verden af luksuriøs rigdom og ekstrem forkælelse, hvor det at blive set og hvem du kender, betyder alt. Disse kvinder befinder sig midt i denne verden og har husene, bilerne og diamanterne, der følger med denne livsstil. Vi møder arvinger, entreprenører og en familie af børneskuespillere - en besætning, som leverer rigelige mængder af drama og glamour(n)</desc>
-    <date>2011</date>
-    <icon src="&quot;}" />
-    <episode-num system="onscreen">S2E4</episode-num>
-  </programme>
-  <programme start="20170116082500 +0100" stop="20170116092500 +0100" channel="TV3">
-    <title lang="da">Real Housewives of Beverly Hills 2</title>
-    <desc lang="da">Amerikansk realityserie fra 2011 Adrienne er værtinde for en Beverly Hills grillfest, men der opstår drama, da den nye pige Brandi ankommer. Selvom Camille og Brandi kommer godt ud af det med hinanden, er de andre mere tvivlsomme og overvejer om hendes sociale brølere er for meget for kliken. Denne kritikerroste serie giver os et indblik i en verden af luksuriøs rigdom og ekstrem forkælelse, hvor det at blive set og hvem du kender, betyder alt. Disse kvinder befinder sig midt i denne verden og har husene, bilerne og diamanterne, der følger med denne livsstil. Vi møder arvinger, entreprenører og en familie af børneskuespillere - en besætning, som leverer rigelige mængder af drama og glamour(n)</desc>
-    <date>2011</date>
-    <icon src="&quot;}" />
-    <episode-num system="onscreen">S2E5</episode-num>
-  </programme>
-  <programme start="20170116092500 +0100" stop="20170116102000 +0100" channel="TV3">
-    <title lang="da">Mit Plastikmareridt</title>
-    <desc lang="da">Dansk reportageserie fra 2015 Fejlslagne plastikoperationer har givet ar på både krop og sjæl. Nu står to af landets dygtigste og mest erfarne plastikkirurger igen klar til at tilbyde deres hjælp.Vi møder bodybuilderen Ulla, der ønskede sig bryster, som skulle få hende til at se kvindelig ud, men som nu har fået så store implantater, at hun har svært ved at træne. Patrik, der har fået fjernet hud på maven, men efterfølgende føler, at maveskinnet ligner en tegning fra et barn. Musikeren Kristina, der skammer sig så meget over sine silikonebryster, at hun ikke tør at optræde, fordi hun synes, at brysterne ligner to bananer og Gitte, der fik en brystforstørrende operation, men nu otte operationer senere er endt uden implantater og med kraftige smerter. I dag lægger flere og flere danskere sig ”under kniven” i jagten på evig skønhed. Men nogle gange går turen på operationsbordet galt. I to sæsoner har ”Mit Plastikmareridt” vist bagsiden af medaljen, når dét, der begyndte som en smuk drøm om skønhed, i stedet ender med at være ens værste mareridt. Og nu er Mit Plastikmareridt klar med sin tredje sæson. Resultatet af skøndhedskirugi er desværre indimellem en patient, der bliver efterladt med ar på både krop og sjæl, fordi operationen ikke er gået som forventet og håbet(n)</desc>
-    <icon src="&quot;}" />
-    <episode-num system="onscreen">S3E10</episode-num>
-  </programme>
-  <programme start="20170116102000 +0100" stop="20170116112000 +0100" channel="TV3">
-    <title lang="da">Undercover Boss 5</title>
-    <desc lang="da">Amerikansk underholdningsserie fra 2013 Direktøren for butikskæden Family Dollar Stores må konfrontere sin frygt for højder, når han skal lære at styre en gaffeltruck, som bringer ham 10 meter op i luften. I denne serie går højtstående chefer undercover i deres egne virksomheder for at få et indblik i, hvordan det er at være en af de ansatte på gulvet. Cheferne ændrer deres udseende og påtager sig en ny identitet. Undervejs i forløbet lærer de deres kolleger at kende og får indblik i deres professionelle og personlige problemer. Til sidst vender cheferne tilbage til deres sande identitet og arrangerer et møde med de ansatte, de har arbejdet sammen med. Nogle ansatte får en forfremmelse eller en økonomisk belønning, mens andre gives mere træning, bedre arbejdsforhold eller i ekstreme tilfælde en fyreseddel(n)</desc>
-    <date>2013</date>
-    <icon src="&quot;}" />
-    <episode-num system="onscreen">S5E7</episode-num>
-  </programme>
-  <programme start="20170116112000 +0100" stop="20170116122000 +0100" channel="TV3">
-    <title lang="da">Undercover Boss 5</title>
-    <desc lang="da">Amerikansk underholdningsserie fra 2013 Grundlæggeren af Dutch Bros. Coffee, Travis Boersma, tager til El Salvador for at arbejde på en kaffeplantage, som leverer kaffebønner til hans firma. I denne serie går højtstående chefer undercover i deres egne virksomheder for at få et indblik i, hvordan det er at være en af de ansatte på gulvet. Cheferne ændrer deres udseende og påtager sig en ny identitet. Undervejs i forløbet lærer de deres kolleger at kende og får indblik i deres professionelle og personlige problemer. Til sidst vender cheferne tilbage til deres sande identitet og arrangerer et møde med de ansatte, de har arbejdet sammen med. Nogle ansatte får en forfremmelse eller en økonomisk belønning, mens andre gives mere træning, bedre arbejdsforhold eller i ekstreme tilfælde en fyreseddel(n)</desc>
-    <date>2013</date>
-    <icon src="&quot;}" />
-    <episode-num system="onscreen">S5E8</episode-num>
-  </programme>
-  <programme start="20170116122000 +0100" stop="20170116132000 +0100" channel="TV3">
-    <title lang="da">Til middag hos</title>
-    <desc lang="da">Dansk underholdningsprogram I denne uges Til Middag Hos er det Kristian von Hornsleth, Anne Gadegaard, Anne Mette Beckmann og Mads Dinesen, der dyster om at vinde titlen som den bedste vært og dermed vinde 10.000 kroner til velgørenhed.Champagnedrengen Mads Dinesen inviterer sine gæster indenfor til en aften, hvor der bestemt ikke er sparet på noget. Østers, kaviar og champagne flyder i stride strømme, og under middagen fortæller Mads åbenhjertigt om sit ekstravagante liv i fængslet, hvordan han havde det med at snyde folk for 40 millioner og sit nye liv med kærsten i Randers. Se mere i aften i Til middag hos. I den nye sæson af ”Til middag hos” byder fire kendte danskere hinanden indenfor i deres hjem, for at dyste i madlavning, underholdning og værtsskab – og for at give hinanden en fantastisk aften. Vi ser helt nye sider af de kendte, når de åbner op, er på glat is, og når de underholder og imponerer i køkkenet.I hvert program er det aftenens vært, der står for en 3-retters menu, spændende underholdning og et kig ind i deres privatliv og livsstil.De fire kendte dyster om præmien på 10.000 kroner til et velgørende formål, så hver dag er der virkelig noget på spil, når gæsterne skal imponeres og pointene skal deles ud. Så se med, når kendte danskere åbner dørene til deres private hjem og viser, hvordan man skaber den mest spektakulære aften(n)</desc>
-    <icon src="&quot;}" />
-    <episode-num system="onscreen">S5E8</episode-num>
-  </programme>
-  <programme start="20170116132000 +0100" stop="20170116142500 +0100" channel="TV3">
-    <title lang="da">The Kardashians 4</title>
-    <desc lang="da">Amerikansk underholdningsserie fra 2009 Under en tur til Las Vegas bliver Scott så fuld og uforskammet, at Kourtney afslutter deres forhold. De er smukke, stinkende rige og intelligente – velkommen til Kardashian-klanens kaotiske og glamourøse verden. Forvent gråd, glæde, kærlighed, knuste hjerter, skænderier og raserianfald! Familien inkluderer Kim, hendes mor, Kris Jenner, hendes stedfar Bruce Jenner, og hendes fire søstre Khloe, Kourtney, Kendall og Kylie. Vi følger Kim og resten af kendisfamilien, når de spreder glamour, pragt og drama i deres helt egen serie(n)</desc>
-    <date>2009</date>
-    <icon src="&quot;}" />
-    <episode-num system="onscreen">S4E10</episode-num>
-  </programme>
-  <programme start="20170116142500 +0100" stop="20170116150000 +0100" channel="TV3">
-    <title lang="da">The Kardashians 4</title>
-    <desc lang="da">Amerikansk underholdningsserie fra 2009 Efter at hun har født sin søn Mason, giver Kourtney Scott en til chance. Kim besvimer og beslutter sig for at passe bedre på sig selv. De er smukke, stinkende rige og intelligente – velkommen til Kardashian-klanens kaotiske og glamourøse verden. Forvent gråd, glæde, kærlighed, knuste hjerter, skænderier og raserianfald! Familien inkluderer Kim, hendes mor, Kris Jenner, hendes stedfar Bruce Jenner, og hendes fire søstre Khloe, Kourtney, Kendall og Kylie. Vi følger Kim og resten af kendisfamilien, når de spreder glamour, pragt og drama i deres helt egen serie(n)</desc>
-    <date>2009</date>
-    <icon src="&quot;}" />
-    <episode-num system="onscreen">S4E11</episode-num>
-  </programme>
-  <programme start="20170116150000 +0100" stop="20170116160000 +0100" channel="TV3">
-    <title lang="da">For lækker til love</title>
-    <desc lang="da">I afsnit 11 af For lækker til Love rejser Gustav til bøsse-paradiset Barcelona på jagt efter en klon af sit store idol, Christiano Ronaldo. Christina checker ind på et privathospital for at blive HELT perfekt. Anders søger kærligheden i magtens centrum og tager på date med en folketingskandidat. Og Ciano har problemer med at møde en ægte italiensk madonna i Rom – hvor han finder flere turister, end indfødte. De er smukke. De er singler. De er superkræsne. Og de er ikke bange for at sige det højt. I ”For lækker til love” møder du nogle af Danmarks mest eftertragtede og ubønhørligt ærlige singler, som alle har tårnhøje krav til kærligheden. Så selvom de kan få hvad de peger på, vil de aldrig have det de får. Nu sætter de lækre singler ALT ind på at finde deres livs store kærlighed. Men det bliver bestemt ikke let, for i ”For lækker til love” bliver de håbefulde bejlere af begge køn lynhurtigt dumpet, hvis øjenfarven er forkert, stilen er uchecket, eller pengepungen er for let. Tag med på dating, når Danmarks mest kritiske singler jagter en partner(n)</desc>
-    <icon src="&quot;}" />
-    <episode-num system="onscreen">S1E11</episode-num>
-  </programme>
-  <programme start="20170116160000 +0100" stop="20170116170000 +0100" channel="TV3">
-    <title lang="da">Mit Plastikmareridt</title>
-    <desc lang="da">Dansk reportageserie fra 2015 Fejlslagne plastikoperationer har givet fire kvinder ar på både krop og sjæl. Nu står to af landets dygtigste og mest erfarne plastikkirurger igen klar til at tilbyde deres hjælp.Vi møder Maria, der efter 11 operationer af sine bryster har fået det, hun selv kalder Verdens grimmeste bryster. Rose, der efter en næseoperation har fået en bredere næse, drømmer om at få sin gamle næse tilbage. Diana, der har holdt sin mislykkede brystoperation hemmelig for sin familie i 8 år og Pia, der gerne vil stille op i en bikini-fitnesskonkurrence, men som har så hængende bryster efter en fejlslagen brystoperation, at de kan sætte en stopper for hendes drøm. I dag lægger flere og flere danskere sig ”under kniven” i jagten på evig skønhed. Men nogle gange går turen på operationsbordet galt. I to sæsoner har ”Mit Plastikmareridt” vist bagsiden af medaljen, når dét, der begyndte som en smuk drøm om skønhed, i stedet ender med at være ens værste mareridt. Og nu er Mit Plastikmareridt klar med sin tredje sæson. Resultatet af skøndhedskirugi er desværre indimellem en patient, der bliver efterladt med ar på både krop og sjæl, fordi operationen ikke er gået som forventet og håbet(n)</desc>
-    <icon src="&quot;}" />
-    <episode-num system="onscreen">S3E11</episode-num>
-  </programme>
-  <programme start="20170116170000 +0100" stop="20170116180000 +0100" channel="TV3">
-    <title lang="da">MED KNIVEN FOR STRUBEN 2</title>
-    <desc lang="da">Dansk dokumentarserie fra 2008 Dean har mere end 25 års erfaring fra det københavnske restaurationsmiljø, så alt tegnede lovende, da han for tre år siden åbnede Chantilly i hjertet af København. Men det er ikke gået efter planen og gælden er vokset til over en million kroner. Bo Bech kan godt forstå, hvorfor det er gået så galt, da han får serveret en frossen forret. Bo foreslår derfor nogle drastiske ændringer, men spørgsmålet er om Dean vil lytte til en mand der kunne være hans søn… Dårlig mad, elendig ledelse og amatører i kokkeklæder er bare nogle af de skrækscenarier, der venter i TV3´s anden sæson af dokumentarprogramserien med Kniven for Struben, hvor stjernekokken Bo Bech hver uge påtager sig en ny og tilsyneladende umulig opgave: På bare fem dage skal han forsøge at vende en restaurants krise til succes. For Bo Bech er der ingen nemme genveje til succes og med kun fem dage til rådighed, er der ikke tid til at trække i fløjlshandskerne og pakke tingene ind. Restauratører, kokke og tjenere kan med andre ord se frem til at skulle sluge både personlig stolthed og faglige kameler - og så står den ellers på mod, vilje, omstilling og stenhårdt arbejde! Bo Bech er vant til at stille kompromisløst høje krav til sig selv, sit personale og sin restaurant. Her er hans klare mission at hjælpe restauranter, der har kniven for struben. Også det gør Bo Bech med brændende engagement og stor kærlighed til sit fag(n)</desc>
-    <date>2007</date>
-    <icon src="&quot;}" />
-    <episode-num system="onscreen">S2E4</episode-num>
-  </programme>
-  <programme start="20170116180000 +0100" stop="20170116190000 +0100" channel="TV3">
-    <title lang="da">Luksusfælden</title>
-    <desc lang="da">Dansk reportageprogram 2015 I Hundige bor Karina og Kim i en 5-værelses lejlighed med deres fem sammenbragte børn.De føler ikke, de har nogen penge og i et desperat forsøg på at spare, har de meldt Karinas datter ud af SFO’en. Det er både Karina og hendes datter ulykkelige over. Samtidig ryger parret en pakke cigaretter om dagen.Når Karina og Kim er rigtig på spanden, spiller Kim på nettet for at skaffe penge. Det mener de, holder dem oven vande. Men det er langt fra tilfældet, kan eksperterne afsløre. Parret får røde ører, da det går op for dem, at Kim har spillet de penge, der kunne have betalt for datterens SFO, op.Karina har ikke været i arbejde siden 2010 og mener, hun først skal lære at skrive ansøgninger, før hun kan søge et job.Der venter hårdt arbejde for Luksusfældens eksperter Mette Reissmann og Carsten Linnemann, hvis de skal redde parrets økonomi. Karina skal i arbejde og så skal parret finde 2000 kroner om måneden, så de kan betale Kims ven, som de skylder 77.000.Carsten beder Kim om at finde et ekstrajob, eller at parret lejer et værelse ud, så de kan blive deres dårlige samvittighed overfor vennen kvit. Men det nægter parret og de dårlige undskyldninger står i kø for ikke at gøre, hvad eksperterne beder dem om. Egoismen når nye højder i denne 15. sæson af Luksusfælden på TV3. Vi møder eksempelvis et par fra Jels, der venter barn sammen, men hvor den kommende far nægter at dele sine penge og insisterer på at bruge dem på egne interesser – i stedet for at hjælpe til med den skrantende økonomi og de mange kreditorer. I Helsingør drømmer Camilla og Mike om et storslået bryllup, men de er meget langt fra at kunne finansiere det – blandt andet fordi Mike bruger flere tusinde kroner på bamseautomaterne på Bakken, selv om elselskabet truer med at slukke for strømmen i parrets lejlighed. Hvor langt er parrene villige til at gå for at redde både økonomi og parforhold? Og kan det overhovedet reddes? Den opgave står Luksusfældens tre eksperter over for at vurdere og hjælpe med. De tre eksperter er Mette Reissmann, der er uddannet erhvervsjurist og som siden 2011 har været medlem af Folketinget for Socialdemokraterne. Hun har desuden udgivet bøger om økonomisk styring, forbrugerjura mv. Carsten Linnemann er uddannet ejendomsmægler og har stor erfaring i at rådgive og analysere boligkøberes økonomi og budgetplanlægning, mens Jan Swyrtz står for den traditionelle, men yderst vigtige analyse af økonomien og giver budgethjælp som økonomisk rådgiver. Jan Swyrtz har sit eget økonomiske rådgivningsfirma, Økonomicenteret(n)</desc>
-    <icon src="&quot;}" />
-    <episode-num system="onscreen">S15E12</episode-num>
-  </programme>
-  <programme start="20170116190000 +0100" stop="20170116200000 +0100" channel="TV3">
-    <title lang="da">Luksusfælden</title>
-    <desc lang="da">Dansk reportageprogram 2015 31-årige Morten fra Esbjerg er så ligeglad med sin gæld og sit forbrug, at kæresten Ditte har fået nok.Så hun har bedt Luksusfældens eksperter om hjælp til at få Morten til at fatte alvoren.Men inden eksperterne når frem, har Ditte smidt Morten ud af deres fælles lejlighed, så nu bor han hos en ven. Også vennen synes, at Mortens forbrug af junkfood, smøger, cola og manglende energi til at lave andet end at ligge på sofaen, er frustrerende.Mette Reissmann og Carsten Linnemann bliver forargede, da de når til Esbjerg og opdager, at Morten netop har købt den nyeste iPhone. De beder ham straks sælge den og resten af hans elektroniske udstyr for at skaffe penge til kreditorerne. Men elektronikken er Mortens kæreste eje og om aftenen erklærer han, at han fortryder, han har inviteret Luksusfældens eksperter ind i sit liv.Fortrydelsen bliver ikke mindre, da eksperterne afslører, hvordan har formøblet 40.000 kroner på blot et år: De er nemlig gået til cola, fastfood og cigaretter!Eksperternes og Mortens store udfordring er at finde en bolig, som Morten har råd til. Det lykkes Mette og Carsten at finde en 2-værelses lejlighed til ham. Morten er dog langt fra tilfreds, for der er nemlig ikke plads til hans hjørnesofa. Så han takker nej.Efterhånden får Mortens ven også nok af hans ligegyldighed overfor sin økonomi og erklærer overfor eksperterne, at ”han har en rygrad som en regnorm!”Men lykkes det Luksusfælden at overbevise Morten om, at han skal til at tage sig sammen og gøre noget ved sin økonomi, eller vil han hellere blive liggende på sofaen og spise pizza og drikke cola? Egoismen når nye højder i denne 15. sæson af Luksusfælden på TV3. Vi møder eksempelvis et par fra Jels, der venter barn sammen, men hvor den kommende far nægter at dele sine penge og insisterer på at bruge dem på egne interesser – i stedet for at hjælpe til med den skrantende økonomi og de mange kreditorer. I Helsingør drømmer Camilla og Mike om et storslået bryllup, men de er meget langt fra at kunne finansiere det – blandt andet fordi Mike bruger flere tusinde kroner på bamseautomaterne på Bakken, selv om elselskabet truer med at slukke for strømmen i parrets lejlighed. Hvor langt er parrene villige til at gå for at redde både økonomi og parforhold? Og kan det overhovedet reddes? Den opgave står Luksusfældens tre eksperter over for at vurdere og hjælpe med. De tre eksperter er Mette Reissmann, der er uddannet erhvervsjurist og som siden 2011 har været medlem af Folketinget for Socialdemokraterne. Hun har desuden udgivet bøger om økonomisk styring, forbrugerjura mv. Carsten Linnemann er uddannet ejendomsmægler og har stor erfaring i at rådgive og analysere boligkøberes økonomi og budgetplanlægning, mens Jan Swyrtz står for den traditionelle, men yderst vigtige analyse af økonomien og giver budgethjælp som økonomisk rådgiver. Jan Swyrtz har sit eget økonomiske rådgivningsfirma, Økonomicenteret(n)</desc>
-    <icon src="&quot;}" />
-    <episode-num system="onscreen">S15E13</episode-num>
-  </programme>
-  <programme start="20170116200000 +0100" stop="20170116222500 +0100" channel="TV3">
-    <title lang="da">Hvis jeg var dig</title>
-    <desc lang="da">Amerikansk komedie fra 2011. Dave og Mitch var engang uadskillelige bedste venner, men efterhånden som årene gået og de to venner er langsomt gledet fra hinanden. Mens Dave er gift, har tre børn og et vellønnet job, er Mitch single, har en halvtidsstilling og har endnu ikke fundet noget, han brænder for. Ifølge Mitch har Dave alt hvad han kan ønske sig, mens Mitch ifølge Dave nyder godt af det stressfrie drømmeliv. En skæbnesvanger nat, bliver deres liv vendt på hovedet, da de næste morgen vågner i hinandens kroppe. På trods af deres frihed og chance for at slippe fra deres vanlige rutiner og pligter, opdager vennerne, at den andens liv langt fra er så rosenrødt, som det så ud til at være(n)</desc>
-    <credits>
-      <director>David Dobkin</director>
-      <actor>Ryan Reynolds (Mitch Planko)</actor>
-      <actor>Jason Bateman (Dave Lockwood)</actor>
-    </credits>
-    <date>2011</date>
-    <icon src="http://vss-pw-http-vip.sth.basefarm.net/images/archive/2793/m_279386.JPG" />
-  </programme>
-  <programme start="20170116222500 +0100" stop="20170117002000 +0100" channel="TV3">
-    <title lang="da">Sex Tape</title>
-    <desc lang="da">Amerikansk komedie fra 2014 Da Jay og Annie først fandt sammen, var deres romantiske forhold hedt – men 10 år og 2 børn senere er gnisten forsvundet. For at sætte fut i det hele igen beslutter de at lave en video af dem selv, hvor de afprøver alle stillinger i 'The Joy of Sex' i en tre timer lang maraton. Det ser ud til at være en fantastisk idé – lige indtil de opdager, at deres mest private video ikke længere er privat. Deres omdømme står på spil, og de ved, at de kun er et klik fra at blive afsløret online. Men deres desperate forsøg på at få videoen tilbage fører til en nat, de aldrig vil glemme. De opdager, at deres video vil afsløre meget mere, end de havde planlagt(n)</desc>
-    <credits>
-      <director>Jake Kasdan</director>
-    </credits>
-    <date>2014</date>
-    <icon src="http://vss-pw-http-vip.sth.basefarm.net/images/archive/20150121/4a26faff/m_20150121_4a26faff.jpg" />
-  </programme>
-  <programme start="20170116060000 +0100" stop="20170116120000 +0100" channel="TV2 News">
-    <title lang="da">Morgen Live med business, sport, trafik og vejr</title>
-    <desc lang="da">",(n)</desc>
-    <date>2017</date>
-    <icon src="B_47953743_01.JPG" />
-  </programme>
-  <programme start="20170116120000 +0100" stop="20170116130000 +0100" channel="TV2 News">
-    <title lang="da">Nyheder med business og vejr</title>
-    <desc lang="da">",(n)</desc>
-    <date>2017</date>
-    <icon src="B_47953745_01.JPG" />
-  </programme>
-  <programme start="20170116130000 +0100" stop="20170116160000 +0100" channel="TV2 News">
-    <title lang="da">Nyheder med vejr</title>
-    <desc lang="da">",(n)</desc>
-    <date>2017</date>
-    <icon src="B_47953746_01.JPG" />
-  </programme>
-  <programme start="20170116160000 +0100" stop="20170116180000 +0100" channel="TV2 News">
-    <title lang="da">NEWS i dag med business</title>
-    <desc lang="da">",(n)</desc>
-    <date>2017</date>
-    <icon src="B_47953747_01.JPG" />
-  </programme>
-  <programme start="20170116180000 +0100" stop="20170116182000 +0100" channel="TV2 News">
-    <title lang="da">Nyhederne sendt fra Kvægtorvet i Odense</title>
-    <desc lang="da">",(n)</desc>
-    <date>2017</date>
-    <icon src="B_47953748_01.JPG" />
-  </programme>
-  <programme start="20170116182000 +0100" stop="20170116190000 +0100" channel="TV2 News">
-    <title lang="da">Nyheder med vejr</title>
-    <desc lang="da">",(n)</desc>
-    <date>2017</date>
-    <icon src="B_47953749_01.JPG" />
-  </programme>
-  <programme start="20170116190000 +0100" stop="20170116192500 +0100" channel="TV2 News">
-    <title lang="da">Nyhederne sendt fra Kvægtorvet i Odense</title>
-    <desc lang="da">",(n)</desc>
-    <date>2017</date>
-    <icon src="B_47953750_01.JPG" />
-  </programme>
-  <programme start="20170116192500 +0100" stop="20170116195000 +0100" channel="TV2 News">
-    <title lang="da">Trump – ny præsident</title>
-    <desc lang="da">Nye spilleregler. Et nyt hold indtager Det Hvide Hus, og nye spilleregler følger med. Vi ser på, hvilke folk Trump har i sit kabinet og undersøger, hvilke konsekvenser det kan få for os herhjemme(n)</desc>
-    <date>2017</date>
-    <icon src="B_47966264_01.JPG" />
-  </programme>
-  <programme start="20170116195000 +0100" stop="20170116230000 +0100" channel="TV2 News">
-    <title lang="da">Nyheder med vejr</title>
-    <desc lang="da">",(n)</desc>
-    <date>2017</date>
-    <icon src="B_47953752_01.JPG" />
-  </programme>
-  <programme start="20170116230000 +0100" stop="20170117003000 +0100" channel="TV2 News">
-    <title lang="da">News Night</title>
-    <desc lang="da">",(n)</desc>
-    <date>2017</date>
-    <icon src="B_47953753_01.JPG" />
-  </programme>
-  <programme start="20170116062500 +0100" stop="20170116072500 +0100" channel="TV2 Charlie">
-    <title lang="da">For himlens skyld</title>
-    <desc lang="da">Tysk komedieserie(n)</desc>
-    <date>2007</date>
-    <icon src="B_47899236_01.JPG" />
-    <episode-num system="onscreen">E89</episode-num>
-  </programme>
-  <programme start="20170116072500 +0100" stop="20170116082000 +0100" channel="TV2 Charlie">
-    <title lang="da">Skadestuen i Holby</title>
-    <desc lang="da">Engelsk dramaserie(n)</desc>
-    <date>2015</date>
-    <icon src="B_47899237_01.JPG" />
-    <episode-num system="onscreen">S30E461</episode-num>
-  </programme>
-  <programme start="20170116082000 +0100" stop="20170116092000 +0100" channel="TV2 Charlie">
-    <title lang="da">Doktor Kleist</title>
-    <desc lang="da">Tysk dramaserie(n)</desc>
-    <date>2010</date>
-    <icon src="B_47899238_01.JPG" />
-    <episode-num system="onscreen">S4E43</episode-num>
-  </programme>
-  <programme start="20170116092000 +0100" stop="20170116101500 +0100" channel="TV2 Charlie">
-    <title lang="da">Doktor Kleist</title>
-    <desc lang="da">Tysk dramaserie(n)</desc>
-    <date>2010</date>
-    <icon src="B_47899239_01.JPG" />
-    <episode-num system="onscreen">S4E44</episode-num>
-  </programme>
-  <programme start="20170116101500 +0100" stop="20170116111500 +0100" channel="TV2 Charlie">
-    <title lang="da">Doc Martin</title>
-    <desc lang="da">Engelsk komedieserie. Dr. Martin Ellingham var en succes som kirurg i London, men da han flytter til den lille søvnige fiskerby Portwenn for at starte en praksis som praktiserende læge, bliver der vendt op og ned på tilværelsen for både ham og byens beboere. Fra det søde liv i storbyen må Martin nu vænne sig til en hverdag med forældet lægeudstyr, håbløse patientjournaler og en stærkt inkompetent lægesekretær, mens den lille by må vænne sig til Martin, der er mildest talt dårlig til at håndtere patienter, som ikke bare ligger stille og lader sig skære i(n)</desc>
-    <date>2004</date>
-    <icon src="B_47899240_01.JPG" />
-    <episode-num system="onscreen">E5</episode-num>
-  </programme>
-  <programme start="20170116111500 +0100" stop="20170116120500 +0100" channel="TV2 Charlie">
-    <title lang="da">Bjerglægen</title>
-    <desc lang="da">Tysk dramaserie. En bjerglandsby i det idylliske Tyrol danner rammen om en dagligdag med drama og masser af romantik og solskin(n)</desc>
-    <date>2007</date>
-    <icon src="B_47899241_01.JPG" />
-    <episode-num system="onscreen">S3E37</episode-num>
-  </programme>
-  <programme start="20170116120500 +0100" stop="20170116125500 +0100" channel="TV2 Charlie">
-    <title lang="da">Bjerglægen</title>
-    <desc lang="da">Tysk dramaserie. En bjerglandsby i det idylliske Tyrol danner rammen om en dagligdag med drama og masser af romantik og solskin(n)</desc>
-    <date>2007</date>
-    <icon src="B_47899242_01.JPG" />
-    <episode-num system="onscreen">S4E38</episode-num>
-  </programme>
-  <programme start="20170116125500 +0100" stop="20170116135000 +0100" channel="TV2 Charlie">
-    <title lang="da">Kommissær Rex</title>
-    <desc lang="da">Tysk-østrigsk krimiserie. Politibetjenten Richard Moser har mistet sin kone, og politihunden Rex har mistet sin herre, så de to finder sammen for både at bekæmpe kriminalitet og deres egen ensomhed. Det umage par udgør et sandt vinder-hold, hvor de risikerer liv og lemmer i deres jagt efter forbrydere(n)</desc>
-    <date>1995</date>
-    <icon src="B_47899243_01.JPG" />
-    <episode-num system="onscreen">S1E36</episode-num>
-  </programme>
-  <programme start="20170116135000 +0100" stop="20170116144000 +0100" channel="TV2 Charlie">
-    <title lang="da">Blue Bloods</title>
-    <desc lang="da">Amerikansk krimiserie. Danny og Baez efterforsker sagen, da en mand i sit hjem skyder en ubuden gæst, som viser sig at være lejemorder(n)</desc>
-    <date>2014</date>
-    <icon src="B_47899244_01.JPG" />
-    <episode-num system="onscreen">S5E102</episode-num>
-  </programme>
-  <programme start="20170116144000 +0100" stop="20170116153500 +0100" channel="TV2 Charlie">
-    <title lang="da">Blue Bloods</title>
-    <desc lang="da">Amerikansk krimiserie. Danny og Maria efterforsker mordet på en fattig borger, der har boet i en luksusejendom. Her viser det sig, at hele 20 procent af lejlighederne bliver udlejet til byens fattige(n)</desc>
-    <date>2014</date>
-    <icon src="B_47899245_01.JPG" />
-    <episode-num system="onscreen">S5E103</episode-num>
-  </programme>
-  <programme start="20170116153500 +0100" stop="20170116163000 +0100" channel="TV2 Charlie">
-    <title lang="da">Fornyet mistanke</title>
-    <desc lang="da">Engelsk krimiserie. For ti år siden blev radiostationen Roxy Radio hærget af et brandattentat, som kostede den populære DJ Johnny Deacon livet. Nu kræver den nørdede livstidspræsident for Deacons fanklub, Jeremy Kirkham, at sagen bliver genåbnet, og at den eller de skyldige bragt for retten. Sandra Pullman lader Brian Lane gå undercover på radiostationen, men takket være Brians kone, Esther og hendes opfattelse af, hvordan man skal se ud på en station, der udelukkende spiller 80'er-musik, vækker Brian lidt mere opsigt, end det var meningen(n)</desc>
-    <date>2008</date>
-    <icon src="B_47901331_01.JPG" />
-    <episode-num system="onscreen">S5E34</episode-num>
-  </programme>
-  <programme start="20170116163000 +0100" stop="20170116173000 +0100" channel="TV2 Charlie">
-    <title lang="da">Fornyet mistanke</title>
-    <desc lang="da">Engelsk krimiserie. Gerry var vild med 70'er-bandet Bad Faith, og han får chancen for at møde sine helte, da UCOS-teamet bliver sat til at undersøge guitaristen Andy Fletchers død en ekstra gang. Den officielle version af historien er, at Fletcher begik selvmord, men på sit dødsleje fortæller en anden superfan, Lori Slade, at Fletcher slet ikke var alene hjemme, den dat han døde(n)</desc>
-    <date>2008</date>
-    <icon src="B_47901332_01.JPG" />
-    <episode-num system="onscreen">S5E35</episode-num>
-  </programme>
-  <programme start="20170116173000 +0100" stop="20170116182500 +0100" channel="TV2 Charlie">
-    <title lang="da">Små og store synder</title>
-    <desc lang="da">Engelsk dramaserie. En tidligere forbryder har meldt sig som informant hos Bellamy, og han fortæller, at en bande fra London tilbyder ham et(n)</desc>
-    <date>2004</date>
-    <icon src="B_47899248_01.JPG" />
-    <episode-num system="onscreen">S13E236</episode-num>
-  </programme>
-  <programme start="20170116182500 +0100" stop="20170116192000 +0100" channel="TV2 Charlie">
-    <title lang="da">Små og store synder</title>
-    <desc lang="da">Engelsk dramaserie. Barbara Simner frygter, at hendes mand vil slå hende ihjel, efter en række såkaldte uheld har fundet sted. Hun nægter dog at ringe til politiet, der alligevel involveres, da hun bliver kørt ned af en traktor. Samtidig flytter Ginas veninde, Diane, ind i Aidensfield Arms for at hjælpe Gina den sidste tid af hendes graviditet, men der går ikke lang tid før, Diane får et godt øje for betjent Crane(n)</desc>
-    <date>2004</date>
-    <icon src="B_47901333_01.JPG" />
-    <episode-num system="onscreen">S13E237</episode-num>
-  </programme>
-  <programme start="20170116192000 +0100" stop="20170116195500 +0100" channel="TV2 Charlie">
-    <title lang="da">Grand Danois</title>
-    <desc lang="da">Dansk satireserie. Niels Hausgaard og Anders Grau er ankermændene gennem otte programmer i det satiriske sketchshow, hvor otte emner bliver behandlet med hård og kærlig hånd. Denne gang er det(n)</desc>
-    <date>2016</date>
-    <icon src="B_47959107_01.JPG" />
-  </programme>
-  <programme start="20170116195500 +0100" stop="20170116203000 +0100" channel="TV2 Charlie">
-    <title lang="da">Grand Danois</title>
-    <desc lang="da">Dansk satireserie. Niels Hausgaard og Anders Grau er ankermændene gennem otte programmer i dette satiriske sketchshow, hvor otte emner bliver behandlet med hård og kærlig hånd. Denne gang er det(n)</desc>
-    <date>2016</date>
-    <icon src="B_47959108_01.JPG" />
-  </programme>
-  <programme start="20170116203000 +0100" stop="20170116213000 +0100" channel="TV2 Charlie">
-    <title lang="da">Nykøbing Falster Revyen 2015</title>
-    <desc lang="da">Dansk underholdning. Første del af Nykøbing F. Revyen. Et stærkt og stjernespækket hold står klar til levere musikalsk underholdning, parodier i topklasse og knivskarp satire. Mød Vicki Berlin, Rasmus Krogsgaard, Julie Steincke, Michael Hasselflug, Jeanne Boel og Flemming Krøll for fuld udblæsning under ledelse af kapelmester Mickey Pless. Oplev blandt andet Rasmus Krogsgaard som digteren Yahya Hassan, Julie Steincke som Helle Thorning-Schmidt og Jeanne Boel og Rasmus Krogsgaard i en festlig parodi på Grethe Sønck og Kai Løvring(n)</desc>
-    <icon src="B_47901336_01.JPG" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20170116213000 +0100" stop="20170116222500 +0100" channel="TV2 Charlie">
-    <title lang="da">Nykøbing Falster Revyen 2015</title>
-    <desc lang="da">Dansk underholdning. Anden del af Nykøbing F. Revyen. Et stærkt og stjernespækket hold står klar til levere musikalsk underholdning, parodier i topklasse og knivskarp satire. Glæd dig til at at møde Vicki Berlin, Rasmus Krogsgaard, Julie Steincke, Michael Hasselflug, Jeanne Boel og Flemming Krøll for fuld udblæsning under ledelse af kapelmester Mickey Pless. Oplev blandt andet Jeanne Boel som Inger Støjberg og Vicki Berlin som Vladimir Putin(n)</desc>
-    <date>2015</date>
-    <icon src="&quot;}" />
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20170116222500 +0100" stop="20170116231500 +0100" channel="TV2 Charlie">
-    <title lang="da">Hvem vil være millionær?</title>
-    <desc lang="da">Dansk quiz. Hans Pilgaard har inviteret ti studerende med i(n)</desc>
-    <date>2010</date>
-    <icon src="B_47901339_01.JPG" />
-  </programme>
-  <programme start="20170116231500 +0100" stop="20170116234500 +0100" channel="TV2 Charlie">
-    <title lang="da">Stygge Ulf 2</title>
-    <desc lang="da">Dansk underholdning. Danmarks største komiker, Ulf Pilgaard, har inviteret både nye og gamle venner med. Oplev Tommy Kenter, Henrik Lykkegaard, Pernille Højmark, Lisbet Dahl m.fl. i en række herlige sketcher. Se om spindoktoren Henrik Lykkegaard kan tale statsministeren Ulf Pilgaard fra at grave de danske vindmøller ned, og lykkes det Lisbet Dahl og Ulf Pilgaard, som Esther og Fritz, at skræmme de nye naboer væk ved at forklæde Ulf som pilskaldet hare krishna-munk?(n)</desc>
-    <date>2012</date>
-    <icon src="B_47901334_01.JPG" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20170116234500 +0100" stop="20170117004000 +0100" channel="TV2 Charlie">
-    <title lang="da">Lur mit liv</title>
-    <desc lang="da">Dansk underholdning. Der er masser af både gribende og sjove historier, når vært Jens Blauenfeldt og livsstilsreporter Gordon Kennedy byder velkommen til den charmerende skuespiller Allan Olsen. Find ud af, hvad det er, Allan gør, der driver hans familie til vanvid, og hvorfor han altid bruger hvide handsker, når han dyrker sin hobby. Dette og meget mere, skal de to hold, med Camilla Miehe-Renard og Camilla Carøe i spidsen, gætte på. Til at hjælpe sig, har Niels Højlunds datter journalist Gertrud Højlund, sammen med den herlige Christina Wedell, som livsstilseksperter(n)</desc>
-    <date>2014</date>
-    <icon src="B_47901341_01.JPG" />
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20170116060000 +0100" stop="20170116065000 +0100" channel="TV2 Zulu">
-    <title lang="da">Gossip Girl</title>
-    <desc lang="da">Amerikansk dramaserie. Serena har ingen planer om at deltage ved det kommende debutantbal. Men så siger hendes bedstemor CeCe til hende, at hun skal. CeCe mener dog ikke, at Dan er en passende kavaler for Serena. Selv om Blair og Nate officielt har slået op, bliver hun alligevel bedt med til ballet af ham Jenny drømmer om at komme med til ballet, selv om hendes forældre ikke synes, hun skal med(n)</desc>
-    <date>2007</date>
-    <icon src="B_47899549_01.JPG" />
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20170116065000 +0100" stop="20170116073500 +0100" channel="TV2 Zulu">
-    <title lang="da">Gossip Girl</title>
-    <desc lang="da">Amerikansk dramaserie. Det er blevet jul på Upper East Side, og Blairs far Ronald kommer hjem på juleferie med en uventet gæst – hans nye kæreste Roman. Imens får Serena hjælp af Jenny og Vanessa til at finde den perfekte julegave til Dan. Og Chuck fortæller Blair, at han er i Monaco med Nate, og Blair frygter, at Chuck vil afsløre deres affære. Det gør hendes juleferie temmelig anstrengt(n)</desc>
-    <date>2007</date>
-    <icon src="B_47899550_01.JPG" />
-    <episode-num system="onscreen">E11</episode-num>
-  </programme>
-  <programme start="20170116073500 +0100" stop="20170116081500 +0100" channel="TV2 Zulu">
-    <title lang="da">Dybvaaaaad!</title>
-    <desc lang="da">Tobias Dybvad er tilbage med de sjoveste klip og tåbeligste tv-koncepter optaget i Odense på den store tour rundt i landet. Der analyseres og jokes med alt, hvad der har rullet over din tv skærm i den forgangne uge og parodieres over alverdens tv-personligheder og programmer(n)</desc>
-    <date>2016</date>
-    <icon src="B_47953697_01.JPG" />
-  </programme>
-  <programme start="20170116081500 +0100" stop="20170116085000 +0100" channel="TV2 Zulu">
-    <title lang="da">Dybvaaaaad!</title>
-    <desc lang="da">Rødovre, er i klar til jokes, parodier, sketches, satire på alt fra realitystjerner til diverse tv-koncepter? Det er 'Dybvaaaaad' – lige på din tv skærm(n)</desc>
-    <date>2016</date>
-    <icon src="B_47953698_01.JPG" />
-  </programme>
-  <programme start="20170116085000 +0100" stop="20170116092000 +0100" channel="TV2 Zulu">
-    <title lang="da">zHit-paraden: Herlige Hidsigpropper</title>
-    <desc lang="da">zHit-paraden præsenterer denne gang Zulus helt egen urimelige Top 13 over nogle af nationens(n)</desc>
-    <date>2008</date>
-    <icon src="B_47917761_01.JPG" />
-  </programme>
-  <programme start="20170116092000 +0100" stop="20170116101000 +0100" channel="TV2 Zulu">
-    <title lang="da">Castle</title>
-    <desc lang="da">Amerikansk spændingsserie. Castle og Becketts længe ventede bryllup nærmer sig, men en slem overraskelse truer med at ødelægge den store dag. Parret bliver sendt på en vild mission, hvor de støder på både maskerede mænd, rasende rockere og en charmerende forbryder fra Becketts fortid(n)</desc>
-    <date>2013</date>
-    <icon src="B_47899554_01.JPG" />
-    <episode-num system="onscreen">S6E128</episode-num>
-  </programme>
-  <programme start="20170116101000 +0100" stop="20170116105500 +0100" channel="TV2 Zulu">
-    <title lang="da">Castle</title>
-    <desc lang="da">Amerikansk spændingsserie. Efter at have ventet forgæves på Castle ved deres længe ventede bryllup, bliver Beckett kaldt ud til en ulykke. Her finder hun Castles bil opslugt af flammer. Hvem er skyld i ulykken? Og er der nogen chance for at Castle har overlevet?(n)</desc>
-    <date>2014</date>
-    <icon src="B_47899555_01.JPG" />
-    <episode-num system="onscreen">S7E129</episode-num>
-  </programme>
-  <programme start="20170116105500 +0100" stop="20170116114500 +0100" channel="TV2 Zulu">
-    <title lang="da">Beverly Hills 90210</title>
-    <desc lang="da">Amerikansk ungdomsserie. Janet er højgravid og deprimeret. Det var ikke hendes pigedrøm at stå hvid brud med mave på. Steve beslutter sig for at muntre hende op. Han vil arrangere en slags skattejagt for vennerne, som skal ende på en super-romantisk måde. Kelly er frygtelig irriteret over, at Noah er flyttet ind i strandhuset. Hun har stadig ikke tilgivet ham, at han var med til at ødelægge forholdet mellem hendes mor og Mel Silver(n)</desc>
-    <date>1999</date>
-    <icon src="B_47966279_01.JPG" />
-    <episode-num system="onscreen">S10E272</episode-num>
-  </programme>
-  <programme start="20170116114500 +0100" stop="20170116123500 +0100" channel="TV2 Zulu">
-    <title lang="da">Beverly Hills 90210</title>
-    <desc lang="da">Amerikansk ungdomsserie. Steve gør sit til, at han og den højgravide Janet får nogle romantiske hvedebrødsdage – men det holder hårdt, da Janet pludselig får mavesmerter. Donna køber et slægtsforskningsprogram til computeren, og da hun afprøver det, finder hun til sin overraskelse et nyt familiemedlem. Jackie kæmper en desperat kamp om forældremyndigheden over Erin, og Gina bliver angrebet fra alle sider for sin rolle i Mel og Jackies skilsmisse – kun David ser ud til at tro hende(n)</desc>
-    <date>1999</date>
-    <icon src="B_47899557_01.JPG" />
-    <episode-num system="onscreen">S10E273</episode-num>
-  </programme>
-  <programme start="20170116123500 +0100" stop="20170116132500 +0100" channel="TV2 Zulu">
-    <title lang="da">Desperate Housewives</title>
-    <desc lang="da">Amerikansk dramaserie. Susans liv hænger i en tynd tråd, efter at hun blev trampet ned under optøjerne på Wisteria Lane. Paul Young slap heller ikke heldigt fra opstanden, men hvem var det egentlig, der skød ham? Keith flytter ind hos Bree, som får et chok, da Orson uanmeldt kommer på besøg. Gabrielle forsøger at redde sit forhold til Juanita, men det er lettere sagt end gjort. Og Renee kæmper med sig selv, mens hun overvejer, om hun skal fortælle Lynette om sin fortid med Tom(n)</desc>
-    <date>2011</date>
-    <icon src="B_47899558_01.JPG" />
-    <episode-num system="onscreen">S7E145</episode-num>
-  </programme>
-  <programme start="20170116132500 +0100" stop="20170116141000 +0100" channel="TV2 Zulu">
-    <title lang="da">Desperate Housewives</title>
-    <desc lang="da">Amerikansk dramaserie. Susan skal fortsat være i dialyse, og hun er intet mindre end chokeret, da hendes mor, Sofie kommer på besøg på hospitalet, for Sofie har nemlig ikke tænkt sig at lade sig teste for, om hun ville være egnet som nyredonor. Gaby er ved at gå op i limningen, fordi hun ikke ved, hvor hendes biologiske datter, Grace, er. Lynette tager hævn over Tom, efter at hun har hørt om hans fortid med Renee. Og Bree forsøger at være en god ven for en ellers venneløs Beth Young(n)</desc>
-    <date>2011</date>
-    <icon src="B_47899559_01.JPG" />
-    <episode-num system="onscreen">S7E146</episode-num>
-  </programme>
-  <programme start="20170116141000 +0100" stop="20170116144000 +0100" channel="TV2 Zulu">
-    <title lang="da">Modern Family</title>
-    <desc lang="da">Amerikansk komedieserie. Phil narrer Luke til at tage til en dansetime, men ender – til Lukes udelte fornøjelse – på politistationen. Gloria og Jay gør klar til at holde fødselsdagsfest for Manny og Joe, og de er bekymret over, om Manny går efter de forkerte piger. Samtidig har Mitch og Cam problemer med at booke et sted til brylluppet(n)</desc>
-    <date>2014</date>
-    <icon src="B_47899560_01.JPG" />
-    <episode-num system="onscreen">S5E107</episode-num>
-  </programme>
-  <programme start="20170116144000 +0100" stop="20170116150500 +0100" channel="TV2 Zulu">
-    <title lang="da">Modern Family</title>
-    <desc lang="da">Amerikansk komedieserie. Der er åbent hus på børnenes high school, og det vækker minder om forældrenes egen skoletid: Claire stresser over presset, Gloria møder en mor, og Jay prøver at lære Phil, hvordan han kan blive lidt sejere. I mellemtiden går Mitchell i forsvarsposition, da han møder den fordømmende og meget miljøvenlige nabo, og Alex tager til psykolog(n)</desc>
-    <date>2014</date>
-    <icon src="B_47899561_01.JPG" />
-    <episode-num system="onscreen">S5E108</episode-num>
-  </programme>
-  <programme start="20170116150500 +0100" stop="20170116154000 +0100" channel="TV2 Zulu">
-    <title lang="da">Vild med comedy</title>
-    <desc lang="da">Dansk underholdning. I denne uge med Mads Larsen, Claus Elming, Kia Liv Fischer og Lars Rasmussen. Den slemme, slemme pige, Kia Liv Fischer, kaster sig ud på det dybe vand og forsøger sig som stand-up-komiker – hjulpet godt på vej af komikeren Carsten Bang. Efter kun fem dages forberedelse skal Kia debutere foran et live-publikum i Danmarks største comedy-klub, Comedy Zoo. Oplev bl.a. Kia på karettur og se, hvordan hun klarer sig i disciplinen(n)</desc>
-    <date>2011</date>
-    <icon src="B_47923520_01.JPG" />
-    <episode-num system="onscreen">E11</episode-num>
-  </programme>
-  <programme start="20170116154000 +0100" stop="20170116161000 +0100" channel="TV2 Zulu">
-    <title lang="da">Nørgaards netfix</title>
-    <desc lang="da">Dansk underholdning. Martin Nørgaard opdaterer dig på alt det du måske er gået glip af på nettet den seneste uge . Youtube kommentarer, nationen, spoofs og svar på tiltale(n)</desc>
-    <date>2015</date>
-    <icon src="B_47899563_01.JPG" />
-  </programme>
-  <programme start="20170116161000 +0100" stop="20170116165000 +0100" channel="TV2 Zulu">
-    <title lang="da">Dybvaaaaad!</title>
-    <desc lang="da">Dansk underholdning. Dybvaaaaad redaktionen har brugt et halvt år på at se tv kun for din skyld og endelig er de tilbage med en ny Dybvaaaaad sæson. Intet er helligt, alle tv-personligheder, realitystjerner og aktuelle tv-koncepter kommer under kærlig behandling af Tobias Dybvad(n)</desc>
-    <date>2015</date>
-    <icon src="B_47899564_01.JPG" />
-  </programme>
-  <programme start="20170116165000 +0100" stop="20170116172000 +0100" channel="TV2 Zulu">
-    <title lang="da">American Dad</title>
-    <desc lang="da">Amerikansk animationsserie. Hele familien må flytte på hotel, da Roger slipper giftige tarmgasser ud i huset. Mens de venter på, at gassen forsvinder, bliver Francine rastløs, for nu har hun ingen huspligter at fylde sin dag med. Hun overtager en forretningskvindes identitet, og hun får så hurtigt succes, at hun må vælge mellem livet som hjemmegående husmor eller succesfuld arbejdskvinde(n)</desc>
-    <date>2010</date>
-    <icon src="B_47899565_01.JPG" />
-    <episode-num system="onscreen">S7E105</episode-num>
-  </programme>
-  <programme start="20170116172000 +0100" stop="20170116174500 +0100" channel="TV2 Zulu">
-    <title lang="da">American Dad</title>
-    <desc lang="da">Amerikansk animationsserie. Stan og Francine er træt af deres samme, gamle rutine, så de finder et ungt par at blive venner med for at få mere spænding ind i tilværelsen. Der er fuld fart over det unge vennepar, men det går for stærkt for Stan og Francine, der er meget ældre, så de prøver at få de unge mennesker til at sætte farten ned(n)</desc>
-    <date>2010</date>
-    <icon src="B_47899566_01.JPG" />
-    <episode-num system="onscreen">S7E106</episode-num>
-  </programme>
-  <programme start="20170116174500 +0100" stop="20170116181500 +0100" channel="TV2 Zulu">
-    <title lang="da">Kongen af Queens</title>
-    <desc lang="da">Amerikansk komedieserie. Cleveland og Rallo skal have noget far-og-stedsøn-kvalitetstid, så Cleveland tager Rallo med til et trylleshow. De to bliver hyret til at deltage i showet, og Rallos skarpsindige humor i rollen som dukken i deres bugtalershow, gør dem til et stort hit. Rallo bliver dog træt af, at Cleveland høster al æren, så han vil bevise, at han er stjernen i showet(n)</desc>
-    <date>2004</date>
-    <icon src="B_47899567_01.JPG" />
-    <episode-num system="onscreen">S6E139</episode-num>
-  </programme>
-  <programme start="20170116181500 +0100" stop="20170116184500 +0100" channel="TV2 Zulu">
-    <title lang="da">Kongen af Queens</title>
-    <desc lang="da">Amerikansk komedieserie. Produktionsår: 2003(n)</desc>
-    <date>2004</date>
-    <icon src="B_47899568_01.JPG" />
-    <episode-num system="onscreen">S6E140</episode-num>
-  </programme>
-  <programme start="20170116184500 +0100" stop="20170116191500 +0100" channel="TV2 Zulu">
-    <title lang="da">Venner</title>
-    <desc lang="da">Amerikansk komedieserie. En ellevild Joey bliver kaldt til audition hos mesterinstruktøren Leonard Hayes, men hans humør daler, da Hayes proklamerer, at Joey er talentløs. En af producenterne overtaler ham imidlertid til, at give Joey en chance til, og det forslag skal vise sig at give pote. Ross får et chok, da han og Phoebe bliver udsat for et røveri, men hans overraskelse bliver endnu større, da det går op for ham, at Phoebe kender tyven personligt. Hun plejede nemlig også at overfalde folk! Og stakkels Chandler må sande, at det ikke er nemt at være ung i reklamebranchen – specielt, når alle andre er yngre end en selv(n)</desc>
-    <date>2003</date>
-    <icon src="B_47899569_01.JPG" />
-    <episode-num system="onscreen">S9E209</episode-num>
-  </programme>
-  <programme start="20170116191500 +0100" stop="20170116194500 +0100" channel="TV2 Zulu">
-    <title lang="da">Venner</title>
-    <desc lang="da">Amerikansk komedieserie. Da Chandler i al hemmelighed opsøger Joey for at låne penge til huslejen, opdager han, at Monica allerede har lånt et beløb uden at sige det til ham. For at redde situationen lyver Joey, og han fortæller, at Monica har lånt pengene til en brysttransplantation. Phoebe og Mike beslutter sig til at flytte sammen, men næppe har de aftalt det, før Mike fortæller Phoebe, at det er det længste, deres forhold kan komme. Han vil nemlig aldrig giftes. Rachel babysikrer Joeys lejlighed – til stor frustration for Joey(n)</desc>
-    <date>2003</date>
-    <icon src="B_47899570_01.JPG" />
-    <episode-num system="onscreen">S9E210</episode-num>
-  </programme>
-  <programme start="20170116194500 +0100" stop="20170116202000 +0100" channel="TV2 Zulu">
-    <title lang="da">Dybvaaaaad! 4</title>
-    <desc lang="da">Dansk underholdning. Tobias Dybvad har sat sig for at følge(n)</desc>
-    <date>2014</date>
-    <icon src="B_47917762_01.JPG" />
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20170116202000 +0100" stop="20170116210000 +0100" channel="TV2 Zulu">
-    <title lang="da">Dybvaaaaad!</title>
-    <desc lang="da">Dansk underholdning. Tobias Dybvad er nået til Ålborg, hvor han indstiller sin dybvadske linse på de største tåbeligheder og sjoveste klip, som serveres den sædvanlige portion humor, parodier og sarkasme(n)</desc>
-    <date>2014</date>
-    <icon src="B_47899572_01.JPG" />
-  </programme>
-  <programme start="20170116210000 +0100" stop="20170116215500 +0100" channel="TV2 Zulu">
-    <title lang="da">Uffe Holm: Uforbederlig</title>
-    <desc lang="da">Dansk underholdning. Spænd sikkerhedsselen, for nu er der halvanden times stand-up med den elskede champ, Uffe Holm. I sit femte one-man show kommer Uffe omkring en bred vifte af relevante emner, som kan give svar på nogle af dagligdagens kritiske spørgsmål. Vi nævner i flæng: Hvad er det man skal gøre når man får krampe i benet – bøje eller strække? Hvad koster en pose gulerødder egentlig? Hvorfor vil det ikke virke med dværge i politiet? Skal Uffe Holm skilles – det vrimler med 18-årige trunter uden hængepatter – hvad gør man? Og sidst – men absolut ikke mindst – hvor lang tid kan Uffe optræde uden at lave jokes, som er under bæltestedet?(n)</desc>
-    <date>2011</date>
-    <icon src="B_47917763_01.JPG" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20170116215500 +0100" stop="20170116225000 +0100" channel="TV2 Zulu">
-    <title lang="da">Uffe Holm: Uforbederlig</title>
-    <desc lang="da">Dansk underholdning. Spænd sikkerhedsselen, for nu er der halvanden times stand-up med den elskede champ, Uffe Holm. I sit femte one-man show kommer Uffe omkring en bred vifte af relevante emner, som kan give svar på nogle af dagligdagens kritiske spørgsmål. Vi nævner i flæng: Hvad er det man skal gøre når man får krampe i benet – bøje eller strække? Hvad koster en pose gulerødder egentlig? Hvorfor vil det ikke virke med dværge i politiet? Skal Uffe Holm skilles – det vrimler med 18-årige trunter uden hængepatter – hvad gør man? Og sidst – men absolut ikke mindst – hvor lang tid kan Uffe optræde uden at lave jokes, som er under bæltestedet?(n)</desc>
-    <date>2011</date>
-    <icon src="B_47917764_01.JPG" />
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme start="20170116225000 +0100" stop="20170116233000 +0100" channel="TV2 Zulu">
-    <title lang="da">Dybvaaaaad!</title>
-    <desc lang="da">Dansk underholdning. Dybvaaaaad redaktionen har brugt et halvt år på at se tv kun for din skyld og endelig er de tilbage med en ny Dybvaaaaad sæson. Intet er helligt, alle tv-personligheder, realitystjerner og aktuelle tv-koncepter kommer under kærlig behandling af Tobias Dybvad(n)</desc>
-    <date>2015</date>
-    <icon src="B_47899575_01.JPG" />
-  </programme>
-  <programme start="20170116233000 +0100" stop="20170117001500 +0100" channel="TV2 Zulu">
-    <title lang="da">The Late Late Show with James Corden</title>
-    <desc lang="da">Engelsk underholdning. Den populære engelske skuespiller og komiker James Corden er vært og inviterer hver uge kendte i studiet til en snak, hvor intet er helligt! Dagens gæster er Neil Patrick Harris, Sienna Miller og Tom Ford(n)</desc>
-    <date>2016</date>
-    <icon src="B_47951911_01.JPG" />
-  </programme>
+  <channel id="BBC World News">
+    <display-name lang="da">BBC World News</display-name>
+    <url>http://www.viasat.dk</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="da">CNN</display-name>
+    <url>http://www.viasat.dk</url>
+  </channel>
+  <channel id="National Geographic HD">
+    <display-name lang="da">National Geographic HD</display-name>
+    <url>http://www.viasat.dk</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="da">Nickelodeon</display-name>
+    <url>http://www.viasat.dk</url>
+  </channel>
   <programme start="20170116084500 +0100" stop="20170116121500 +0100" channel="TV3 Sport 1">
     <title lang="da">NFL: Dallas Cowboys-Green Bay Packers</title>
     <desc lang="da">National Football League - slutspillet Efter Green Bay Packers’ overlegne sejr over New York Giants er denne kamp nok en af de mest imødesete. Packers skal nemlig et smut til Dallas, hvor de på AT&amp;T Stadium skal op imod sæsonens måske bedste hold, Dallas Cowboys. Med en skræmmende rookie-duo – i form af Dak Prescott og Ezekiel Elliott – i front har Cowboys galoperet gennem den regulære sæson, men nu skal de stå den endelige prøve. Kan de lukke ned for Aaron Rodgers og co.? Den store matchup bliver nemlig mellem fænomenale Rodgers og Cowboys’ suveræne offensive linje, og det er ikke fjerntliggende at tro, at vinderen af denne kamp i kampen bliver vinderen af en enkeltbillet til NFC-finalen. Det er en kamp, man ikke må gå glip af, så se med, når vi sender kampen. Live-begivenheder kan opleves på Viaplay i op til 48 timer efter, de er startet(n)</desc>
@@ -1221,5 +49,640 @@
     <title lang="da">Fodbold: Mål, mål, mål</title>
     <desc lang="da">Magasin Der er underholdning og spektakulære mål på menuen, når vores internationale fodboldmagasin(n)</desc>
     <icon src="&quot;}" />
+  </programme>
+  <programme start="20170116060000 +0100" stop="20170116063000 +0100" channel="BBC World News">
+    <title lang="da">BBC World News</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893844_01.JPG" />
+  </programme>
+  <programme start="20170116063000 +0100" stop="20170116070000 +0100" channel="BBC World News">
+    <title lang="da">HARDtalk</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893845_01.JPG" />
+  </programme>
+  <programme start="20170116070000 +0100" stop="20170116073000 +0100" channel="BBC World News">
+    <title lang="da">BBC World News</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893846_01.JPG" />
+  </programme>
+  <programme start="20170116073000 +0100" stop="20170116074500 +0100" channel="BBC World News">
+    <title lang="da">World Business Report</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893847_01.JPG" />
+  </programme>
+  <programme start="20170116074500 +0100" stop="20170116080000 +0100" channel="BBC World News">
+    <title lang="da">BBC World News</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893848_01.JPG" />
+  </programme>
+  <programme start="20170116080000 +0100" stop="20170116083000 +0100" channel="BBC World News">
+    <title lang="da">BBC World News</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893849_01.JPG" />
+  </programme>
+  <programme start="20170116083000 +0100" stop="20170116084500 +0100" channel="BBC World News">
+    <title lang="da">World Business Report</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893850_01.JPG" />
+  </programme>
+  <programme start="20170116084500 +0100" stop="20170116090000 +0100" channel="BBC World News">
+    <title lang="da">BBC World News</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893851_01.JPG" />
+  </programme>
+  <programme start="20170116090000 +0100" stop="20170116093000 +0100" channel="BBC World News">
+    <title lang="da">BBC World News</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893852_01.JPG" />
+  </programme>
+  <programme start="20170116093000 +0100" stop="20170116094500 +0100" channel="BBC World News">
+    <title lang="da">BBC World News</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893853_01.JPG" />
+  </programme>
+  <programme start="20170116094500 +0100" stop="20170116100000 +0100" channel="BBC World News">
+    <title lang="da">World Business Report</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893854_01.JPG" />
+  </programme>
+  <programme start="20170116100000 +0100" stop="20170116103000 +0100" channel="BBC World News">
+    <title lang="da">BBC World News</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893855_01.JPG" />
+  </programme>
+  <programme start="20170116103000 +0100" stop="20170116110000 +0100" channel="BBC World News">
+    <title lang="da">BBC Business Live</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893856_01.JPG" />
+  </programme>
+  <programme start="20170116110000 +0100" stop="20170116113000 +0100" channel="BBC World News">
+    <title lang="da">Talking Business</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893857_01.JPG" />
+  </programme>
+  <programme start="20170116113000 +0100" stop="20170116120000 +0100" channel="BBC World News">
+    <title lang="da">HARDtalk</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893858_01.JPG" />
+  </programme>
+  <programme start="20170116120000 +0100" stop="20170116123000 +0100" channel="BBC World News">
+    <title lang="da">BBC World News</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893859_01.JPG" />
+  </programme>
+  <programme start="20170116123000 +0100" stop="20170116130000 +0100" channel="BBC World News">
+    <title lang="da">Dateline London</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893860_01.JPG" />
+  </programme>
+  <programme start="20170116130000 +0100" stop="20170116133000 +0100" channel="BBC World News">
+    <title lang="da">BBC World News</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893861_01.JPG" />
+  </programme>
+  <programme start="20170116133000 +0100" stop="20170116134500 +0100" channel="BBC World News">
+    <title lang="da">World Business Report</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893862_01.JPG" />
+  </programme>
+  <programme start="20170116134500 +0100" stop="20170116140000 +0100" channel="BBC World News">
+    <title lang="da">Sport Today</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893863_01.JPG" />
+  </programme>
+  <programme start="20170116140000 +0100" stop="20170116143000 +0100" channel="BBC World News">
+    <title lang="da">GMT</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893864_01.JPG" />
+  </programme>
+  <programme start="20170116143000 +0100" stop="20170116150000 +0100" channel="BBC World News">
+    <title lang="da">GMT</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893865_01.JPG" />
+  </programme>
+  <programme start="20170116150000 +0100" stop="20170116153000 +0100" channel="BBC World News">
+    <title lang="da">GMT</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893866_01.JPG" />
+  </programme>
+  <programme start="20170116153000 +0100" stop="20170116154500 +0100" channel="BBC World News">
+    <title lang="da">World Business Report</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893867_01.JPG" />
+  </programme>
+  <programme start="20170116154500 +0100" stop="20170116160000 +0100" channel="BBC World News">
+    <title lang="da">Sport Today</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893868_01.JPG" />
+  </programme>
+  <programme start="20170116160000 +0100" stop="20170116163000 +0100" channel="BBC World News">
+    <title lang="da">Impact</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893869_01.JPG" />
+  </programme>
+  <programme start="20170116163000 +0100" stop="20170116170000 +0100" channel="BBC World News">
+    <title lang="da">Impact</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893870_01.JPG" />
+  </programme>
+  <programme start="20170116170000 +0100" stop="20170116173000 +0100" channel="BBC World News">
+    <title lang="da">Impact</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893871_01.JPG" />
+  </programme>
+  <programme start="20170116173000 +0100" stop="20170116180000 +0100" channel="BBC World News">
+    <title lang="da">HARDtalk</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893872_01.JPG" />
+  </programme>
+  <programme start="20170116180000 +0100" stop="20170116183000 +0100" channel="BBC World News">
+    <title lang="da">Global with Matthew Amroliwala</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893873_01.JPG" />
+  </programme>
+  <programme start="20170116183000 +0100" stop="20170116190000 +0100" channel="BBC World News">
+    <title lang="da">Global with Matthew Amroliwala</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893874_01.JPG" />
+  </programme>
+  <programme start="20170116190000 +0100" stop="20170116193000 +0100" channel="BBC World News">
+    <title lang="da">Global with Matthew Amroliwala</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893875_01.JPG" />
+  </programme>
+  <programme start="20170116193000 +0100" stop="20170116200000 +0100" channel="BBC World News">
+    <title lang="da">Focus on Africa</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893876_01.JPG" />
+  </programme>
+  <programme start="20170116200000 +0100" stop="20170116203000 +0100" channel="BBC World News">
+    <title lang="da">Outside Source</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893877_01.JPG" />
+  </programme>
+  <programme start="20170116203000 +0100" stop="20170116204500 +0100" channel="BBC World News">
+    <title lang="da">World Business Report</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893878_01.JPG" />
+  </programme>
+  <programme start="20170116204500 +0100" stop="20170116210000 +0100" channel="BBC World News">
+    <title lang="da">Sport Today</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893879_01.JPG" />
+  </programme>
+  <programme start="20170116210000 +0100" stop="20170116213000 +0100" channel="BBC World News">
+    <title lang="da">World News Today</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893880_01.JPG" />
+  </programme>
+  <programme start="20170116213000 +0100" stop="20170116220000 +0100" channel="BBC World News">
+    <title lang="da">Sport Today</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893881_01.JPG" />
+  </programme>
+  <programme start="20170116220000 +0100" stop="20170116223000 +0100" channel="BBC World News">
+    <title lang="da">BBC Business Live</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893882_01.JPG" />
+  </programme>
+  <programme start="20170116223000 +0100" stop="20170116230000 +0100" channel="BBC World News">
+    <title lang="da">HARDtalk</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893883_01.JPG" />
+  </programme>
+  <programme start="20170116230000 +0100" stop="20170116233000 +0100" channel="BBC World News">
+    <title lang="da">Outside Source</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893884_01.JPG" />
+  </programme>
+  <programme start="20170116233000 +0100" stop="20170117000000 +0100" channel="BBC World News">
+    <title lang="da">Outside Source</title>
+    <desc lang="da">",(n)</desc>
+    <icon src="B_47893885_01.JPG" />
+  </programme>
+  <programme start="20170116060000 +0100" stop="20170116070000 +0100" channel="CNN">
+    <title lang="da">CNN Newsroom (with World Sport)</title>
+    <desc lang="da">CNN Newsroom is where breaking news happens. See the resources of the world's news leader at work as the day's stories develop(n)</desc>
+    <icon src="&quot;}" />
+  </programme>
+  <programme start="20170116070000 +0100" stop="20170116080000 +0100" channel="CNN">
+    <title lang="da">CNN Newsroom</title>
+    <desc lang="da">CNN Newsroom is where breaking news happens. See the resources of the world's news leader at work as the day's stories develop(n)</desc>
+    <icon src="B_47894586_01.JPG" />
+  </programme>
+  <programme start="20170116080000 +0100" stop="20170116090000 +0100" channel="CNN">
+    <title lang="da">CNN Newsroom</title>
+    <desc lang="da">CNN Newsroom is where breaking news happens. See the resources of the world's news leader at work as the day's stories develop(n)</desc>
+    <icon src="B_47894587_01.JPG" />
+  </programme>
+  <programme start="20170116090000 +0100" stop="20170116100000 +0100" channel="CNN">
+    <title lang="da">CNN Newsroom</title>
+    <desc lang="da">CNN Newsroom is where breaking news happens. See the resources of the world's news leader at work as the day's stories develop(n)</desc>
+    <icon src="B_47894588_01.JPG" />
+  </programme>
+  <programme start="20170116100000 +0100" stop="20170116103000 +0100" channel="CNN">
+    <title lang="da">CNN Newsroom</title>
+    <desc lang="da">CNN Newsroom is where breaking news happens. See the resources of the world's news leader at work as the day's stories develop(n)</desc>
+    <icon src="B_47894589_01.JPG" />
+  </programme>
+  <programme start="20170116103000 +0100" stop="20170116110000 +0100" channel="CNN">
+    <title lang="da">Best of Quest</title>
+    <desc lang="da">Highlights from CNN's flagship business show where Richard Quest explains the main business news to give viewers an energetic and fresh perspective on the stories that matter(n)</desc>
+    <icon src="&quot;}" />
+  </programme>
+  <programme start="20170116110000 +0100" stop="20170116113000 +0100" channel="CNN">
+    <title lang="da">News Special</title>
+    <desc lang="da">The latest news, the biggest stories. CNN brings viewers coverage of the most gripping news stories from around the world(n)</desc>
+    <icon src="&quot;}" />
+  </programme>
+  <programme start="20170116113000 +0100" stop="20170116120000 +0100" channel="CNN">
+    <title lang="da">African Voices</title>
+    <desc lang="da">African Voices offers viewers a unique viewpoint, showcasing engaging African personalities in intimate discussions from business to music(n)</desc>
+    <icon src="&quot;}" />
+  </programme>
+  <programme start="20170116120000 +0100" stop="20170116130000 +0100" channel="CNN">
+    <title lang="da">New Day</title>
+    <desc lang="da">A new CNN morning show reporting the latest news, weather and top stories. Hosted by Chris Cuomo, Kate Bolduan and Michaela Pereira as news anchor(n)</desc>
+    <icon src="&quot;}" />
+  </programme>
+  <programme start="20170116130000 +0100" stop="20170116133000 +0100" channel="CNN">
+    <title lang="da">CNN Newsroom</title>
+    <desc lang="da">CNN Newsroom is where breaking news happens. See the resources of the world's news leader at work as the day's stories develop(n)</desc>
+    <icon src="B_47894594_01.JPG" />
+  </programme>
+  <programme start="20170116133000 +0100" stop="20170116140000 +0100" channel="CNN">
+    <title lang="da">World Sport</title>
+    <desc lang="da">A comprehensive review of sports news from around the world, including all the key highlights, profiles and interviews with the newsmakers and stars of sport(n)</desc>
+    <icon src="B_47894595_01.JPG" />
+  </programme>
+  <programme start="20170116140000 +0100" stop="20170116150000 +0100" channel="CNN">
+    <title lang="da">News Stream (with World Sport)</title>
+    <desc lang="da">Anchored from Hong Kong by Kristie Lu Stout, News Stream is a one hour news programme powered by the smart use of technology to give viewers a better understanding of the world(n)</desc>
+    <icon src="&quot;}" />
+  </programme>
+  <programme start="20170116150000 +0100" stop="20170116160000 +0100" channel="CNN">
+    <title lang="da">CNNMoney with Maggie Lake</title>
+    <desc lang="da">CNNMoney with Maggie Lake focuses on international business and market trends, economic developments, stock market trading, bids and take-overs(n)</desc>
+    <icon src="&quot;}" />
+  </programme>
+  <programme start="20170116160000 +0100" stop="20170116170000 +0100" channel="CNN">
+    <title lang="da">Connect the World with Becky Anderson</title>
+    <desc lang="da">CNN's Becky Anderson hosts a special edition of(n)</desc>
+    <icon src="&quot;}" />
+  </programme>
+  <programme start="20170116170000 +0100" stop="20170116180000 +0100" channel="CNN">
+    <title lang="da">International Desk (with World Sport)</title>
+    <desc lang="da">Keeping viewers from around Europe, the Middle East and Africa updated with breaking news, the latest global stories and sport information(n)</desc>
+    <icon src="&quot;}" />
+  </programme>
+  <programme start="20170116180000 +0100" stop="20170116183000 +0100" channel="CNN">
+    <title lang="da">International Desk</title>
+    <desc lang="da">A programme that keeps viewers from around Europe, the Middle East and Africa updated with breaking news, the latest global stories and weather information(n)</desc>
+    <icon src="&quot;}" />
+  </programme>
+  <programme start="20170116183000 +0100" stop="20170116184500 +0100" channel="CNN">
+    <title lang="da">CNN Marketplace Middle East</title>
+    <desc lang="da">The latest business headlines, events and developments in and around the Middle East. Hosted by John Defterios(n)</desc>
+    <icon src="B_47942697_01.JPG" />
+  </programme>
+  <programme start="20170116184500 +0100" stop="20170116190000 +0100" channel="CNN">
+    <title lang="da">CNN Marketplace Africa</title>
+    <desc lang="da">CNN Marketplace Africa offers unique access to the latest African market information, with a look at events and developments that impact the business world(n)</desc>
+    <icon src="B_47894601_01.JPG" />
+  </programme>
+  <programme start="20170116190000 +0100" stop="20170116200000 +0100" channel="CNN">
+    <title lang="da">Wolf</title>
+    <desc lang="da">CNN's lead political anchor Wolf Blitzer looks at politics, breaking news and international news(n)</desc>
+    <icon src="&quot;}" />
+  </programme>
+  <programme start="20170116200000 +0100" stop="20170116203000 +0100" channel="CNN">
+    <title lang="da">Amanpour.</title>
+    <desc lang="da">Join Christiane Amanpour as she provides her powerful interview skills and provocative analysis on global stories that matter to you(n)</desc>
+    <icon src="B_47894603_01.JPG" />
+  </programme>
+  <programme start="20170116203000 +0100" stop="20170116210000 +0100" channel="CNN">
+    <title lang="da">State of America with Kate Bolduan</title>
+    <desc lang="da">State of America with Kate Bolduan will give viewers a distinctive inside look at America's political developments(n)</desc>
+    <icon src="&quot;}" />
+  </programme>
+  <programme start="20170116210000 +0100" stop="20170116220000 +0100" channel="CNN">
+    <title lang="da">The World Right Now with Hala Gorani</title>
+    <desc lang="da">An hour of the day’s most important news, sport, business and interviews. The best of CNN’s global reporting with the authority of Hala Gorani(n)</desc>
+    <icon src="&quot;}" />
+  </programme>
+  <programme start="20170116220000 +0100" stop="20170116230000 +0100" channel="CNN">
+    <title lang="da">Quest Means Business</title>
+    <desc lang="da">CNN's Richard Quest presents a round-up of the day's global business news with focus on international business and market trends(n)</desc>
+    <icon src="&quot;}" />
+  </programme>
+  <programme start="20170116230000 +0100" stop="20170116233000 +0100" channel="CNN">
+    <title lang="da">Amanpour.</title>
+    <desc lang="da">Join Christiane Amanpour as she provides her powerful interview skills and provocative analysis on global stories that matter to you(n)</desc>
+    <icon src="B_47894607_01.JPG" />
+  </programme>
+  <programme start="20170116233000 +0100" stop="20170117000000 +0100" channel="CNN">
+    <title lang="da">World Sport</title>
+    <desc lang="da">A comprehensive review of sports news from around the world, including all the key highlights, profiles and interviews with the newsmakers and stars of sport(n)</desc>
+    <icon src="B_47894608_01.JPG" />
+  </programme>
+  <programme start="20170116060000 +0100" stop="20170116060500 +0100" channel="Nickelodeon">
+    <title lang="da">Max &amp; Ruby</title>
+    <desc lang="da">Max &amp; Ruby er en animeret komedie-serie baseret på de populære børnebøger skrevet af Rosemary Wells. Serien er centreret om Max, en beslutsom tre-årig kanin, og hans storesøster Ruby, som er en klog og dygtig syv-årig.&lt;BR&gt;&lt;BR&gt;Showet sender et positivt signal til børn ved at vise hvordan Max og Ruby leger sammen og samtidig løser deres problemer og overkommer forskelle på en respektfuld og kærlig måde(n)</desc>
+    <icon src="B_47931082_01.JPG" />
+    <episode-num system="onscreen">S5E12</episode-num>
+  </programme>
+  <programme start="20170116060500 +0100" stop="20170116061000 +0100" channel="Nickelodeon">
+    <title lang="da">Gurli Gris</title>
+    <desc lang="da">Gurli er en sød lille gris som bor sammen med sin bror, mor og far. Gurli elsker at lege, klæde sig ud og naturligvis bade i mudder. Hun tager tit på eventyr og ofte tager hun sine bedste venner med(n)</desc>
+    <icon src="B_47931083_01.JPG" />
+    <episode-num system="onscreen">S2E14</episode-num>
+  </programme>
+  <programme start="20170116061000 +0100" stop="20170116061500 +0100" channel="Nickelodeon">
+    <title lang="da">Gurli Gris</title>
+    <desc lang="da">Gurli er en sød lille gris som bor sammen med sin bror, mor og far. Gurli elsker at lege, klæde sig ud og naturligvis bade i mudder. Hun tager tit på eventyr og ofte tager hun sine bedste venner med(n)</desc>
+    <icon src="B_47931084_01.JPG" />
+    <episode-num system="onscreen">S2E11</episode-num>
+  </programme>
+  <programme start="20170116061500 +0100" stop="20170116064000 +0100" channel="Nickelodeon">
+    <title lang="da">Bubble Guppies</title>
+    <desc lang="da">Dyk ned i et vaskeægte undervandseventyr sammen med Bubble Guppies, der er klar til at lære dig om alt fra dinosaurer til tandlæger, rock &amp; roll og cowboys. &lt;BR&gt;&lt;BR&gt;Gennem forskellige temaer lærer havfruerne og havmændene fra byen Bubbletucky dig fysik, matematik, litteratur og meget mere under vandet i en verden med skove af tang og flotte koralrev. Selvfølgelig med en masse sjov og musik, der får dig til at boble af grin(n)</desc>
+    <icon src="B_47931085_01.JPG" />
+    <episode-num system="onscreen">S4E2</episode-num>
+  </programme>
+  <programme start="20170116064000 +0100" stop="20170116070500 +0100" channel="Nickelodeon">
+    <title lang="da">Dora udforskeren</title>
+    <desc lang="da">Vær med, når Dora tager på eventyr sammen med sin bedste ven, aben Boots. Dora Udforskeren er en interaktiv animeret tegneserie, og du kan være med til at hjælpe Dora med de problemer, som Dora og Boots støder på undervejs på deres rejser med alt fra sang til matematik eller ved at løse gåder. &lt;BR&gt;&lt;BR&gt;Dora har brug for din hjælp på sine eventyr, og sammen kan I løse problemerne med en masse sjov. Til gengæld kan det være, Dora kan lære dig lidt engelsk(n)</desc>
+    <icon src="B_47931086_01.JPG" />
+    <episode-num system="onscreen">S8E3</episode-num>
+  </programme>
+  <programme start="20170116070500 +0100" stop="20170116071500 +0100" channel="Nickelodeon">
+    <title lang="da">Zack &amp; Quack</title>
+    <desc lang="da">Zack &amp; Quack er en animationsserie, der følger den eventyrlystne dreng Zack og hans bedste ven Quack, der er en impulsiv og nysgerig and. De bor i den mest fantastiske pop-up bog nogensinde! Det er et sted fuldt af overraskelser og hvergang man bladrer sker der spændende og uventede ting. Så snart de træder ud i haven, starter eventyret. Nye, spændende verdener og fantastiske rejser folder sig ud for øjnene af dem(n)</desc>
+    <icon src="B_47931087_01.JPG" />
+    <episode-num system="onscreen">S2E8</episode-num>
+  </programme>
+  <programme start="20170116071500 +0100" stop="20170116073500 +0100" channel="Nickelodeon">
+    <title lang="da">Fresh Beat Band: Musikspioner på mission</title>
+    <desc lang="da">Fire venner bliver rekrutteret som hemmelige spioner sammen med deres fjollede chimpanse Bo Monkey. Ved hjælp af deres unikke talenter, og de sejeste spion-dingenoter, snører de en fjollet flok skøre skurke og løser en masse mysterier(n)</desc>
+    <icon src="&quot;}" />
+    <episode-num system="onscreen">S1E13</episode-num>
+  </programme>
+  <programme start="20170116073500 +0100" stop="20170116075000 +0100" channel="Nickelodeon">
+    <title lang="da">Alvin og de frække jordegern</title>
+    <desc lang="da">Ekorrarna är som helt vanliga ungar. De går i skolan, hjälper till hemma, gör sina läxor och bråkar som syskon gör, men ger stora konserter för miljontals fans. Åh, nämnde vi att de är internationella rockstjärnor?Ekorrarna är som helt vanliga ungar. De g(n)</desc>
+    <icon src="B_47931089_01.JPG" />
+    <episode-num system="onscreen">S1E43</episode-num>
+  </programme>
+  <programme start="20170116075000 +0100" stop="20170116080000 +0100" channel="Nickelodeon">
+    <title lang="da">Alvin og de frække jordegern</title>
+    <desc lang="da">Ekorrarna är som helt vanliga ungar. De går i skolan, hjälper till hemma, gör sina läxor och bråkar som syskon gör, men ger stora konserter för miljontals fans. Åh, nämnde vi att de är internationella rockstjärnor?Ekorrarna är som helt vanliga ungar. De g(n)</desc>
+    <icon src="B_47931090_01.JPG" />
+    <episode-num system="onscreen">S1E45</episode-num>
+  </programme>
+  <programme start="20170116080000 +0100" stop="20170116081000 +0100" channel="Nickelodeon">
+    <title lang="da">Alvin og de frække jordegern</title>
+    <desc lang="da">Ekorrarna är som helt vanliga ungar. De går i skolan, hjälper till hemma, gör sina läxor och bråkar som syskon gör, men ger stora konserter för miljontals fans. Åh, nämnde vi att de är internationella rockstjärnor?Ekorrarna är som helt vanliga ungar. De g(n)</desc>
+    <icon src="B_47931091_01.JPG" />
+    <episode-num system="onscreen">S1E48</episode-num>
+  </programme>
+  <programme start="20170116081000 +0100" stop="20170116082500 +0100" channel="Nickelodeon">
+    <title lang="da">Alvin og de frække jordegern</title>
+    <desc lang="da">Ekorrarna är som helt vanliga ungar. De går i skolan, hjälper till hemma, gör sina läxor och bråkar som syskon gör, men ger stora konserter för miljontals fans. Åh, nämnde vi att de är internationella rockstjärnor?Ekorrarna är som helt vanliga ungar. De g(n)</desc>
+    <icon src="B_47943128_01.JPG" />
+    <episode-num system="onscreen">S1E16</episode-num>
+  </programme>
+  <programme start="20170116082500 +0100" stop="20170116085000 +0100" channel="Nickelodeon">
+    <title lang="da">Game Shakers</title>
+    <desc lang="da">To piger fra Brooklyn skaber verdens mest populære spil og bruger overskuddet til at stifte deres eget spilfirma(n)</desc>
+    <icon src="B_47931093_01.JPG" />
+    <episode-num system="onscreen">S1E18</episode-num>
+  </programme>
+  <programme start="20170116085000 +0100" stop="20170116091000 +0100" channel="Nickelodeon">
+    <title lang="da">Bella and the Bulldogs</title>
+    <desc lang="da">Cheerleaderen Bellas drøm går i opfyldelse, da hun får lov til at prøvespille som quarterback på skolens footballhold. Holdet gør alt, hvad de kan for at få hende til at opgive, men Bella er fast besluttet på ikke at lade sig slå ud!(n)</desc>
+    <icon src="B_47931094_01.JPG" />
+    <episode-num system="onscreen">S1E14</episode-num>
+  </programme>
+  <programme start="20170116091000 +0100" stop="20170116093500 +0100" channel="Nickelodeon">
+    <title lang="da">Familien Thunderman</title>
+    <desc lang="da">Hvad er bedre end én superhelt? En hel famile af superhelte! Mød familien Thunderman, en ikke særlig normal familie, hvis største prioritet er, at holde alle deres superkræfter hemmelige for omverdenen og leve et helt normalt liv. Nemt, ikke? Jo, selvfølgelig! Især når de to ældste søskende – Phebe og Max – har en sund konkurrence kørende, der bliver top tunet af deres superkræfter! Yep, planen om at 'passe ind' kommer måske til at tage lidt længere tid end de havde håbet..(n)</desc>
+    <icon src="B_47931095_01.JPG" />
+    <episode-num system="onscreen">S3E5</episode-num>
+  </programme>
+  <programme start="20170116093500 +0100" stop="20170116095500 +0100" channel="Nickelodeon">
+    <title lang="da">Nicky, Ricky, Dicky og Dawn</title>
+    <desc lang="da">Nicky, Ricky, Dicky og Dawn er en gruppe firlinger med kun to ting til fælles: deres fødselsdag og deres forældre. Den dynamiske kvartet kommer op at toppes så snart chancen byder sig, men i sidste ende kan intet få dem ned med nakken, når de står sammen(n)</desc>
+    <icon src="B_47931096_01.JPG" />
+    <episode-num system="onscreen">S1E14</episode-num>
+  </programme>
+  <programme start="20170116095500 +0100" stop="20170116102000 +0100" channel="Nickelodeon">
+    <title lang="da">Blaze og Monstermaskinerne</title>
+    <desc lang="da">Blaze og hans kører, AJ, bliver introduceret til en verden af ræsende monstertrucks. Da den slemme truck Crusher bruger beskidte tricks for at vinde mesterskabet, vil Blaze gøre alt for at hjælpe sine venner og slå Crusher inden målstregen!(n)</desc>
+    <icon src="B_47931097_01.JPG" />
+    <episode-num system="onscreen">S1E16</episode-num>
+  </programme>
+  <programme start="20170116102000 +0100" stop="20170116104500 +0100" channel="Nickelodeon">
+    <title lang="da">Paw Patrol</title>
+    <desc lang="da">Nickelodeons nye animerede børnehaveklasse-serie, Paw Patrol, handler om de seks heroiske redningshvalpe Chase, Marshall, Rocky, Rubble, Zuma og Skye – med den teknik-kyndige dreng, Ryder, i spidsen. Sammen arbejder de hårdt for at beskytte Adventure Bay. Ingen opgave er for stor, ingen hvalp er for lille! Seriens curriculum fokuserer på godt medborgerskab, sociale færdigheder og problemløsning(n)</desc>
+    <icon src="B_47931098_01.JPG" />
+    <episode-num system="onscreen">S3E11</episode-num>
+  </programme>
+  <programme start="20170116104500 +0100" stop="20170116111000 +0100" channel="Nickelodeon">
+    <title lang="da">Bubble Guppies</title>
+    <desc lang="da">Dyk ned i et vaskeægte undervandseventyr sammen med Bubble Guppies, der er klar til at lære dig om alt fra dinosaurer til tandlæger, rock &amp; roll og cowboys. &lt;BR&gt;&lt;BR&gt;Gennem forskellige temaer lærer havfruerne og havmændene fra byen Bubbletucky dig fysik, matematik, litteratur og meget mere under vandet i en verden med skove af tang og flotte koralrev. Selvfølgelig med en masse sjov og musik, der får dig til at boble af grin(n)</desc>
+    <icon src="B_47931099_01.JPG" />
+    <episode-num system="onscreen">S2E14</episode-num>
+  </programme>
+  <programme start="20170116111000 +0100" stop="20170116113500 +0100" channel="Nickelodeon">
+    <title lang="da">Shimmer og Shine</title>
+    <desc lang="da">Et par tvillingesøstre der er i lære som ånder kommer uden at ville det til at lave rav i den i forsøget på at opfylde ønsker for deres bedste ven Leah(n)</desc>
+    <icon src="B_47931100_01.JPG" />
+    <episode-num system="onscreen">S2E6</episode-num>
+  </programme>
+  <programme start="20170116113500 +0100" stop="20170116114500 +0100" channel="Nickelodeon">
+    <title lang="da">Little Charmers</title>
+    <desc lang="da">I det magiske land, Charmville, glæder 3 små yndige Charmers sig til at afprøve deres magiske kræfter. Frygtløse Hazel og hendes venner, Posie og Lavender, er Charmers Under Uddannelse, der elsker at bruge trylleri til at udforske og tage på nye eventyr!(n)</desc>
+    <icon src="B_47931101_01.JPG" />
+    <episode-num system="onscreen">S1E19</episode-num>
+  </programme>
+  <programme start="20170116114500 +0100" stop="20170116121000 +0100" channel="Nickelodeon">
+    <title lang="da">Dora og venner</title>
+    <desc lang="da">Sammen, alle for én! Gør dig klar til spændende eventyr med Dora og venner. Dora vokser op! Hun er flyttet til Playa Verde, en storby ved havet, er startet i en ny skole med masser af diversitet, og har mere travlt end nogensinde før(n)</desc>
+    <icon src="B_47931102_01.JPG" />
+    <episode-num system="onscreen">S2E10</episode-num>
+  </programme>
+  <programme start="20170116121000 +0100" stop="20170116122500 +0100" channel="Nickelodeon">
+    <title lang="da">Alvin og de frække jordegern</title>
+    <desc lang="da">Ekorrarna är som helt vanliga ungar. De går i skolan, hjälper till hemma, gör sina läxor och bråkar som syskon gör, men ger stora konserter för miljontals fans. Åh, nämnde vi att de är internationella rockstjärnor?Ekorrarna är som helt vanliga ungar. De g(n)</desc>
+    <icon src="B_47943129_01.JPG" />
+    <episode-num system="onscreen">S2E1</episode-num>
+  </programme>
+  <programme start="20170116122500 +0100" stop="20170116124000 +0100" channel="Nickelodeon">
+    <title lang="da">Alvin og de frække jordegern</title>
+    <desc lang="da">Ekorrarna är som helt vanliga ungar. De går i skolan, hjälper till hemma, gör sina läxor och bråkar som syskon gör, men ger stora konserter för miljontals fans. Åh, nämnde vi att de är internationella rockstjärnor?Ekorrarna är som helt vanliga ungar. De g(n)</desc>
+    <icon src="B_47943130_01.JPG" />
+    <episode-num system="onscreen">S2E1</episode-num>
+  </programme>
+  <programme start="20170116124000 +0100" stop="20170116125000 +0100" channel="Nickelodeon">
+    <title lang="da">Alvin og de frække jordegern</title>
+    <desc lang="da">Ekorrarna är som helt vanliga ungar. De går i skolan, hjälper till hemma, gör sina läxor och bråkar som syskon gör, men ger stora konserter för miljontals fans. Åh, nämnde vi att de är internationella rockstjärnor?Ekorrarna är som helt vanliga ungar. De g(n)</desc>
+    <icon src="B_47943131_01.JPG" />
+    <episode-num system="onscreen">S2E7</episode-num>
+  </programme>
+  <programme start="20170116125000 +0100" stop="20170116131500 +0100" channel="Nickelodeon">
+    <title lang="da">Big Time Rush</title>
+    <desc lang="da">Serien handler om de fire unge hockeyspillere Kendall, Logan, James og Carlos, som bliver udvalgt til at lave et boyband. Kendall siger ja på den betingelse at han kan få sine venner og familie med til Los Angeles. Det virker måske som en drøm, men det er ikke altid lige nemt at udskifte hockeystavene med hår og makeup. Har de det, der skal til for at klare sig i musikbranchen? Vil kendislivet ændre dem for altid? Og hvor skal de spille hockey henne?(n)</desc>
+    <icon src="B_47943132_01.JPG" />
+    <episode-num system="onscreen">S2E23</episode-num>
+  </programme>
+  <programme start="20170116131500 +0100" stop="20170116134000 +0100" channel="Nickelodeon">
+    <title lang="da">De Hjemsøgte Hathaways</title>
+    <desc lang="da">Fantasi møder familie, skørhed møder uhygge og Hathaway familien møder ... spøgelser? Efter at være flyttet fra New York til New Orleans, er familien Hathaway klar til at vende tilbage til et normalt liv i deres nye hjem. Hvad de ikke ved er, at en spøgelsesfamile har den samme idé! Kan to familier, bogstaveligt talt fra forskellige verdener, lever i hjemsøgt harmoni?(n)</desc>
+    <icon src="B_47931108_01.JPG" />
+    <episode-num system="onscreen">S2E21</episode-num>
+  </programme>
+  <programme start="20170116134000 +0100" stop="20170116140500 +0100" channel="Nickelodeon">
+    <title lang="da">De Hjemsøgte Hathaways</title>
+    <desc lang="da">Fantasi møder familie, skørhed møder uhygge og Hathaway familien møder ... spøgelser? Efter at være flyttet fra New York til New Orleans, er familien Hathaway klar til at vende tilbage til et normalt liv i deres nye hjem. Hvad de ikke ved er, at en spøgelsesfamile har den samme idé! Kan to familier, bogstaveligt talt fra forskellige verdener, lever i hjemsøgt harmoni?(n)</desc>
+    <icon src="B_47931109_01.JPG" />
+    <episode-num system="onscreen">S2E22</episode-num>
+  </programme>
+  <programme start="20170116140500 +0100" stop="20170116143000 +0100" channel="Nickelodeon">
+    <title lang="da">iCarly</title>
+    <desc lang="da">iCarly handler om teenageren Carly, som har sit helt eget web show kaldet 'iCarly'. Sammen med vennerne Freddie, Sam og Gibby sender hun showet fra et hjemmelavet studie i sin lejlighed, hvor hun bor med sin 29-årige bror og værge, Spencer. &lt;BR&gt;&lt;BR&gt;Selvom Carly har sit eget web show, forsøger hun ikke at blive kendt, men tværtimod vil hun være et forbillede for andre børn og teenagere – og mest af alt vil hun bare have det sjovt. &lt;BR&gt;&lt;BR&gt;iCarly er en fantastisk blanding af sketches, konkurrencer, interviews og vanvittige eventyr(n)</desc>
+    <icon src="B_47931110_01.JPG" />
+    <episode-num system="onscreen">S5E4</episode-num>
+  </programme>
+  <programme start="20170116143000 +0100" stop="20170116145500 +0100" channel="Nickelodeon">
+    <title lang="da">Mia and Me</title>
+    <desc lang="da">Den 12-årige Mia finder sig selv tryllebundet ind i den magiske verden Centopia, fyldt med alfer, enhjørninger, fauner og drager, men det engang så idylliske kongerige er i fare. Den onde dronning Panthea har nemlig sat sig for at fange alle enhjørningerne og bruge deres kræfter til at forblive ung. De tapre alfer, der bliver ledt af Prinsesse Mo og den modige kriger Yoku, gør alt for at stoppe hende. Alt i mens prøver Mia at holde balancen mellem at passe ind på sin nye skole og sit liv som alf, men Mia kommer snart til at blive nøglen til at redde Centopia(n)</desc>
+    <icon src="B_47931111_01.JPG" />
+    <episode-num system="onscreen">S1E15</episode-num>
+  </programme>
+  <programme start="20170116145500 +0100" stop="20170116152000 +0100" channel="Nickelodeon">
+    <title lang="da">Regal Academy</title>
+    <desc lang="da">Regal Academy har sjove og spændende vinkler på nogle af de mest elskede eventyr, mens vi følger Rose Askepot som er helt ny elev på skolen(n)</desc>
+    <icon src="B_47931112_01.JPG" />
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20170116152000 +0100" stop="20170116154500 +0100" channel="Nickelodeon">
+    <title lang="da">Svampebob Firkant</title>
+    <desc lang="da">SvampeBob Firkant er en af Nickelodeons ældste og mest elskede serier. Stjernen er naturligvis SvampeBob Firkant selv og sammen med sin bedste ven Patrick Søstjerne og den trofaste hussnegl Gary drager Bob ud på fantastiske eventyr i Bikini Bottom. SvampeBob er en utrolig energisk og optimistisk figur, som bruger fantastisk meget tid på sine spændende hverdags-eventyr, men også er en dybt seriøs køkkenchef på Den Knasende Krabbe, hvor han laver havbundens mest pragtfulde burger(n)</desc>
+    <icon src="B_47931113_01.JPG" />
+    <episode-num system="onscreen">S8E15</episode-num>
+  </programme>
+  <programme start="20170116154500 +0100" stop="20170116161000 +0100" channel="Nickelodeon">
+    <title lang="da">Svampebob Firkant</title>
+    <desc lang="da">SvampeBob Firkant er en af Nickelodeons ældste og mest elskede serier. Stjernen er naturligvis SvampeBob Firkant selv og sammen med sin bedste ven Patrick Søstjerne og den trofaste hussnegl Gary drager Bob ud på fantastiske eventyr i Bikini Bottom. SvampeBob er en utrolig energisk og optimistisk figur, som bruger fantastisk meget tid på sine spændende hverdags-eventyr, men også er en dybt seriøs køkkenchef på Den Knasende Krabbe, hvor han laver havbundens mest pragtfulde burger(n)</desc>
+    <icon src="B_47931114_01.JPG" />
+    <episode-num system="onscreen">S8E14</episode-num>
+  </programme>
+  <programme start="20170116161000 +0100" stop="20170116163500 +0100" channel="Nickelodeon">
+    <title lang="da">De Fantastiske Fehoveder</title>
+    <desc lang="da">I(n)</desc>
+    <icon src="B_47931115_01.JPG" />
+    <episode-num system="onscreen">S7E20</episode-num>
+  </programme>
+  <programme start="20170116163500 +0100" stop="20170116170000 +0100" channel="Nickelodeon">
+    <title lang="da">De Fantastiske Fehoveder</title>
+    <desc lang="da">I(n)</desc>
+    <icon src="B_47931116_01.JPG" />
+    <episode-num system="onscreen">S9E2</episode-num>
+  </programme>
+  <programme start="20170116170000 +0100" stop="20170116172000 +0100" channel="Nickelodeon">
+    <title lang="da">Højs hus</title>
+    <desc lang="da">Ved du, hvordan det er at vokse op i en stor familie? 11-årige Lincoln Høj giver seerne et indblik i, hvordan man overlever kaos i en kæmpe husstand – især som den eneste bror med ti søstre!(n)</desc>
+    <icon src="B_47931117_01.JPG" />
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20170116172000 +0100" stop="20170116173500 +0100" channel="Nickelodeon">
+    <title lang="da">Alvin og de frække jordegern</title>
+    <desc lang="da">Ekorrarna är som helt vanliga ungar. De går i skolan, hjälper till hemma, gör sina läxor och bråkar som syskon gör, men ger stora konserter för miljontals fans. Åh, nämnde vi att de är internationella rockstjärnor?Ekorrarna är som helt vanliga ungar. De g(n)</desc>
+    <icon src="B_47931118_01.JPG" />
+    <episode-num system="onscreen">S2E13</episode-num>
+  </programme>
+  <programme start="20170116173500 +0100" stop="20170116175000 +0100" channel="Nickelodeon">
+    <title lang="da">Alvin og de frække jordegern</title>
+    <desc lang="da">Ekorrarna är som helt vanliga ungar. De går i skolan, hjälper till hemma, gör sina läxor och bråkar som syskon gör, men ger stora konserter för miljontals fans. Åh, nämnde vi att de är internationella rockstjärnor?Ekorrarna är som helt vanliga ungar. De g(n)</desc>
+    <icon src="B_47931119_01.JPG" />
+    <episode-num system="onscreen">S2E13</episode-num>
+  </programme>
+  <programme start="20170116175000 +0100" stop="20170116181000 +0100" channel="Nickelodeon">
+    <title lang="da">Nicky, Ricky, Dicky og Dawn</title>
+    <desc lang="da">Nicky, Ricky, Dicky og Dawn er en gruppe firlinger med kun to ting til fælles: deres fødselsdag og deres forældre. Den dynamiske kvartet kommer op at toppes så snart chancen byder sig, men i sidste ende kan intet få dem ned med nakken, når de står sammen(n)</desc>
+    <icon src="B_47931120_01.JPG" />
+    <episode-num system="onscreen">S2E8</episode-num>
+  </programme>
+  <programme start="20170116181000 +0100" stop="20170116183500 +0100" channel="Nickelodeon">
+    <title lang="da">Game Shakers</title>
+    <desc lang="da">To piger fra Brooklyn skaber verdens mest populære spil og bruger overskuddet til at stifte deres eget spilfirma(n)</desc>
+    <icon src="B_47931121_01.JPG" />
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20170116183500 +0100" stop="20170116190500 +0100" channel="Nickelodeon">
+    <title lang="da">Familien Thunderman</title>
+    <desc lang="da">Hvad er bedre end én superhelt? En hel famile af superhelte! Mød familien Thunderman, en ikke særlig normal familie, hvis største prioritet er, at holde alle deres superkræfter hemmelige for omverdenen og leve et helt normalt liv. Nemt, ikke? Jo, selvfølgelig! Især når de to ældste søskende – Phebe og Max – har en sund konkurrence kørende, der bliver top tunet af deres superkræfter! Yep, planen om at 'passe ind' kommer måske til at tage lidt længere tid end de havde håbet..(n)</desc>
+    <icon src="B_47931122_01.JPG" />
+    <episode-num system="onscreen">S3E23</episode-num>
+  </programme>
+  <programme start="20170116190500 +0100" stop="20170116193000 +0100" channel="Nickelodeon">
+    <title lang="da">Familien Thunderman</title>
+    <desc lang="da">Hvad er bedre end én superhelt? En hel famile af superhelte! Mød familien Thunderman, en ikke særlig normal familie, hvis største prioritet er, at holde alle deres superkræfter hemmelige for omverdenen og leve et helt normalt liv. Nemt, ikke? Jo, selvfølgelig! Især når de to ældste søskende – Phebe og Max – har en sund konkurrence kørende, der bliver top tunet af deres superkræfter! Yep, planen om at 'passe ind' kommer måske til at tage lidt længere tid end de havde håbet..(n)</desc>
+    <icon src="B_47943133_01.JPG" />
+    <episode-num system="onscreen">S3E24</episode-num>
+  </programme>
+  <programme start="20170116193000 +0100" stop="20170116195000 +0100" channel="Nickelodeon">
+    <title lang="da">Henry Danger</title>
+    <desc lang="da">13-årige Henry Hart får job som håndlangeren(n)</desc>
+    <icon src="B_47931125_01.JPG" />
+    <episode-num system="onscreen">S1E21</episode-num>
+  </programme>
+  <programme start="20170116195000 +0100" stop="20170116201500 +0100" channel="Nickelodeon">
+    <title lang="da">Henry Danger</title>
+    <desc lang="da">13-årige Henry Hart får job som håndlangeren(n)</desc>
+    <icon src="B_47931126_01.JPG" />
+    <episode-num system="onscreen">S1E22</episode-num>
+  </programme>
+  <programme start="20170116201500 +0100" stop="20170116204000 +0100" channel="Nickelodeon">
+    <title lang="da">Bella and the Bulldogs</title>
+    <desc lang="da">Cheerleaderen Bellas drøm går i opfyldelse, da hun får lov til at prøvespille som quarterback på skolens footballhold. Holdet gør alt, hvad de kan for at få hende til at opgive, men Bella er fast besluttet på ikke at lade sig slå ud!(n)</desc>
+    <icon src="B_47943134_01.JPG" />
+    <episode-num system="onscreen">S2E18</episode-num>
+  </programme>
+  <programme start="20170116204000 +0100" stop="20170116210500 +0100" channel="Nickelodeon">
+    <title lang="da">Nicky, Ricky, Dicky og Dawn</title>
+    <desc lang="da">Nicky, Ricky, Dicky og Dawn er en gruppe firlinger med kun to ting til fælles: deres fødselsdag og deres forældre. Den dynamiske kvartet kommer op at toppes så snart chancen byder sig, men i sidste ende kan intet få dem ned med nakken, når de står sammen(n)</desc>
+    <icon src="B_47943135_01.JPG" />
+    <episode-num system="onscreen">S1E16</episode-num>
+  </programme>
+  <programme start="20170116210500 +0100" stop="20170116213000 +0100" channel="Nickelodeon">
+    <title lang="da">School of Rock</title>
+    <desc lang="da">SCHOOL OF ROCK er inspireret af filmen af samme navn og følger en gruppe uortodokse og toppræsterende elever på en prestigiøs privatskole, samt en falleret musiker som lærer dem at spille og elske rock'n'roll(n)</desc>
+    <icon src="B_47943136_01.JPG" />
+    <episode-num system="onscreen">S1E12</episode-num>
+  </programme>
+  <programme start="20170116213000 +0100" stop="20170116215500 +0100" channel="Nickelodeon">
+    <title lang="da">Familien Thunderman</title>
+    <desc lang="da">Hvad er bedre end én superhelt? En hel famile af superhelte! Mød familien Thunderman, en ikke særlig normal familie, hvis største prioritet er, at holde alle deres superkræfter hemmelige for omverdenen og leve et helt normalt liv. Nemt, ikke? Jo, selvfølgelig! Især når de to ældste søskende – Phebe og Max – har en sund konkurrence kørende, der bliver top tunet af deres superkræfter! Yep, planen om at 'passe ind' kommer måske til at tage lidt længere tid end de havde håbet..(n)</desc>
+    <icon src="B_47943137_01.JPG" />
+    <episode-num system="onscreen">S1E16</episode-num>
+  </programme>
+  <programme start="20170116215500 +0100" stop="20170116221500 +0100" channel="Nickelodeon">
+    <title lang="da">Game Shakers</title>
+    <desc lang="da">To piger fra Brooklyn skaber verdens mest populære spil og bruger overskuddet til at stifte deres eget spilfirma(n)</desc>
+    <icon src="B_47943138_01.JPG" />
+    <episode-num system="onscreen">S1E13</episode-num>
+  </programme>
+  <programme start="20170116221500 +0100" stop="20170116224500 +0100" channel="Nickelodeon">
+    <title lang="da">Henry Danger</title>
+    <desc lang="da">13-årige Henry Hart får job som håndlangeren(n)</desc>
+    <icon src="B_47943139_01.JPG" />
+    <episode-num system="onscreen">S1E12</episode-num>
+  </programme>
+  <programme start="20170116224500 +0100" stop="20170117050000 +0100" channel="Nickelodeon">
+    <title lang="da">Ned's</title>
+    <desc lang="da">I(n)</desc>
+    <icon src="B_47943140_01.JPG" />
+    <episode-num system="onscreen">S1E7</episode-num>
   </programme>
 </tv>
